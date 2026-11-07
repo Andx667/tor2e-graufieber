@@ -1,6 +1,6 @@
 ## Überblick {#ueberblick .nonotes}
 
-Im Spätsommer TA 2979 geht in Brandhafen, einem halb verfallenen Hafenort an der Küste von Belfalas, ein Fieber um, gegen das kein Kraut hilft. Mit zwei Schiffen aus Pelargir kommen „Helfer“ des Handelshauses Saerlond. Sie bringen Getreide, einen beruhigenden Trank und bewaffnete Wachen, und bald gehören ihnen Hafen und Furt. Die Helden kommen im Auftrag eines Hauptmanns des Truchsess. Sie finden heraus, dass hinter dem Haus ein Schwarzer Númenórer aus Umbar steht, der die Seuche selbst gesät hat, und zerstören seine Fieberküche auf der Reiherinsel. Am Ende halten sie das einzige Gegenmittel in der Hand, und drei Parteien wollen es.
+Im Spätsommer TA 2979 geht in Brandhafen, einem halb verfallenen Hafenort an der Küste von Belfalas, ein Fieber um, gegen das kein Kraut hilft. Mit zwei Schiffen aus Pelargir kommen „Helfer“ des Handelshauses Saerlond. Sie bringen Korn als Gabe, einen beruhigenden Trank und bewaffnete Wachen, und bald gehören ihnen Hafen und Furt. Die Helden kommen im Auftrag eines Hauptmanns des Truchsess. Sie finden heraus, dass hinter dem Haus ein Schwarzer Númenórer aus Umbar steht, der die Seuche selbst gesät hat, und zerstören seine Fieberküche auf der Reiherinsel. Am Ende halten sie das einzige Gegenmittel in der Hand, und drei Parteien wollen es.
 
 **Schauplatz:** Brandhafen an der Mündung des Brandbachs, wo die Küstenstraße von Dol Amroth nach Linhir den Bach quert; dazu die Grauen Marschen, eine Lagune voller Schilf östlich des Ortes, und das Hinterland von Belfalas.
 
@@ -39,7 +39,7 @@ Teil 2 und 3 sind offen. Die Gruppe wählt Reihenfolge und Mittel; die Reiherins
 
 ### Das Graufieber
 
-Das Graufieber ist Marschenfieber, das alte Kunst aus Umbar schlimmer gemacht hat. Gebraut wird es in den Gewölben des Reiherturms, einer Wachturmruine aus der Zeit der Könige auf einer Insel in den Grauen Marschen. Es verbreitet sich nicht über Mücken, sondern über „Weißsalz“: versiegelte Salzkrüge, die die Helfer als Gabe an die Höfe verteilen. Drei Wochen nach dem Salz kommt das Fieber. Die Kranken werden grau, frieren in der Hitze und murmeln im Schlaf von schwarzen Segeln.
+Das Graufieber ist Marschenfieber, das alte Kunst aus Umbar schlimmer gemacht hat. Gebraut wird es in den Gewölben des Reiherturms, einer Wachturmruine aus der Zeit der Könige auf einer Insel in den Grauen Marschen. Es verbreitet sich nicht über Mücken, sondern über „Weißkorn“: versiegelte Kornsäcke, die die Helfer als Gabe an die Höfe verteilen, nachdem die Ernte im Fieber verdorben ist. Zwischen den guten Körnern stecken graue, die in Zâkarûns Küche gedarrt wurden. Drei Wochen nach dem ersten Brot kommt das Fieber. Die Kranken werden grau, frieren in der Hitze und murmeln im Schlaf von schwarzen Segeln.
 
 Fieberrinde lindert es einen Tag lang, dann kehrt es stärker zurück. Der „Weiße Trank“ der Helfer heilt nicht, er dämpft nur die Anzeichen und macht abhängig von den nächsten Gaben. Das echte Gegenmittel wurde gebraut, damit sich die eigenen Leute schützen können. Es lagert nur auf der Insel.
 
@@ -51,7 +51,7 @@ Umbar will die Küste von Belfalas schwächen, ehe seine Schiffe wiederkommen. E
 
 ### Die Schilfbrüder
 
-Die Schilfbrüder sind Schmuggler und Gesetzlose im Schilf der Grauen Marschen. Sie handeln mit Fieberrinde, Salz und Wein aus Lebennin am Zoll von Dol Amroth vorbei. Ihre Anführerin Hedra Schilfhand bekämpft die Helfer, weil sie ihr das Geschäft im Hafen nehmen. Für die Leute von Brandhafen sind die Schilfbrüder Diebe. Aber sie kennen jeden Wasserlauf, und sie haben Boote.
+Die Schilfbrüder sind Schmuggler und Gesetzlose im Schilf der Grauen Marschen. Sie handeln mit Fieberrinde, Tuch und Wein aus Lebennin am Zoll von Dol Amroth vorbei. Ihre Anführerin Hedra Schilfhand bekämpft die Helfer, weil sie ihr das Geschäft im Hafen nehmen. Für die Leute von Brandhafen sind die Schilfbrüder Diebe. Aber sie kennen jeden Wasserlauf, und sie haben Boote.
 
 ### Mardion und der Truchsess
 
@@ -111,13 +111,13 @@ Wo die Küstenstraße den Brandbach quert, sperrt ein Schlagbaum den Weg. Vier H
 
 - Ein *Insight*-Wurf zeigt: Die höflichen Wachen sind Seeleute, keine Söldner. Sie gehen breitbeinig, haben Teer unter den Nägeln und warten auf einen Vorwand.
 - Ein *Courtesy*-Wurf bringt die Helden ohne Durchsuchung durch. Bei einem Misserfolg nehmen die Wachen ihnen auffällige Waffen „bis zur Abreise“ ab.
-- Mit einem *Scan* sehen die Helden Salzkrüge mit weißem Siegelwachs, das ein Schiff unter einem Stern zeigt. Die Krüge warten auf einem Karren, der ins Hinterland fährt.
+- Mit einem *Scan* sehen die Helden Kornsäcke, mit weißem Siegelwachs verschnürt, das ein Schiff unter einem Stern zeigt. Die Säcke warten auf einem Karren, der ins Hinterland fährt.
 
 ### Der Mann, der die Möwen füttert
 
 Mardion sitzt im Fischermantel auf dem Stumpf des alten Hafenturms und füttert Möwen. Er spricht leise und knapp und lächelt nie.
 
-Er weiß Folgendes: Jeder Hof, der Weißsalz bekam, bekam drei Wochen später das Fieber. Die schwersten Fälle bringen die Helfer zum Weidenhof, einen halben Tag landeinwärts. Nachts fahren Boote ohne Licht in die Grauen Marschen. Sein Späher Thalmir wollte sich den Weidenhof ansehen und kam nicht zurück.
+Er weiß Folgendes: Jeder Hof, der Weißkorn bekam, bekam drei Wochen später das Fieber. Die schwersten Fälle bringen die Helfer zum Weidenhof, einen halben Tag landeinwärts. Nachts fahren Boote ohne Licht in die Grauen Marschen. Sein Späher Thalmir wollte sich den Weidenhof ansehen und kam nicht zurück.
 
 Er will zwei Dinge: einen Beweis, der Umbar nennt, und den Ort, an dem das Fieber gemacht wird. „Saerlond hat Freunde im Rat. Ohne Beweis ist es mein Wort gegen ein Haus, das halb Belfalas gefüttert hat. Das reicht nicht.“ Er bezahlt gut und fragt nicht nach Methoden. Er selbst bleibt unsichtbar; seine drei Männer beobachten Straße und Hafen.
 
@@ -125,7 +125,7 @@ Er will zwei Dinge: einen Beweis, der Umbar nennt, und den Ort, an dem das Fiebe
 
 Im alten Zollhaus pflegt die Kräuterfrau Aldis zwölf Kranke. Sie ist müde, scharfzüngig und furchtlos. Mit einem *Healing*-Wurf, oder wenn die Helden ihr einfach zuhören, erfährt man, was sie bemerkt hat:
 
-- Das Fieber folgt nicht den Mücken. Es befiel Höfe weit von den Marschen, die alle aus denselben Krügen gesalzen hatten.
+- Das Fieber folgt nicht den Mücken. Es befiel Höfe weit von den Marschen, die alle Brot aus denselben Säcken gebacken hatten. Wer nur Fisch aß, blieb gesund.
 - Fieberrinde hilft einen Tag lang, dann wird es schlimmer.
 - Wer den Weißen Trank nimmt, wird ruhig, aber nicht gesund.
 
@@ -173,9 +173,9 @@ Wer die Hausregel nicht möchte, lässt Hedra nach zwei erfolgreichen Aufträgen
 
 Hedra bietet drei Aufträge an. Für einen One-Shot reichen zwei.
 
-1. **Das Salzboot:** Nachts überfallen die Helden einen Lastkahn der Helfer in der Bachmündung. An Bord sind sechs Wachen (Werte wie *orc soldier*, ohne die Orc-Eigenschaften) und vierzig Salzkrüge mit weißem Siegel. Ein *Lore*-Wurf zeigt grau-bittere Körner zwischen dem Salz. Ein Krug ist ein Beweis, aber er nennt keinen Namen.
+1. **Der Kornkahn:** Nachts überfallen die Helden einen Lastkahn der Helfer in der Bachmündung. An Bord sind sechs Wachen (Werte wie *orc soldier*, ohne die Orc-Eigenschaften) und vierzig Kornsäcke mit weißem Siegel. Ein *Lore*-Wurf zeigt graue, bitter riechende Körner zwischen dem guten Korn. Ein Sack ist ein Beweis, aber er nennt keinen Namen.
 2. **Kesse im Stock:** Hedras Bruder Kesse sitzt im Stock an der Hafenwache und soll als „Brunnenvergifter“ gehenkt werden. Ihn zu befreien verlangt *Stealth* oder eine *Riddle*-List. In Verkleidung geht es ganz ohne Kampf (siehe Kasten).
-3. **Wein für die Wache:** Die Helden liefern ein Fass geschmuggelten Wein an Rhaskars Steuermann. Mit einem *Insight*- oder *Courtesy*-Wurf hören sie beim Trinken: „Der Meister will mehr Kranke auf dem Hof. Und neue Krüge von der Insel, bevor im Frühjahr die Schiffe aus dem Süden kommen.“
+3. **Wein für die Wache:** Die Helden liefern ein Fass geschmuggelten Wein an Rhaskars Steuermann. Mit einem *Insight*- oder *Courtesy*-Wurf hören sie beim Trinken: „Der Meister will mehr Kranke auf dem Hof. Und neue Säcke von der Insel, bevor im Frühjahr die Schiffe aus dem Süden kommen.“
 
 **Erinnerung für den Loremaster – Verkleidung:** Die weißen Binden der Helfer lassen sich stehlen oder von Tobbe borgen. Wer eine trägt, kommt mit einem *Courtesy*-Wurf an Posten vorbei, mit einer *Riddle*-Lüge auch durch Nachfragen. Zwerge, Elben und Hobbits fallen unter den Seeleuten auf: Ihre Würfe sind *ill-favoured*. Wird ein Verkleideter erkannt, schlägt der Posten Alarm.
 
@@ -194,7 +194,7 @@ Mardion braucht einen Beweis, der Umbar nennt. Es gibt zwei Orte, an denen die H
 Am Ostufer des Brandbachs stehen dreißig Zelte, ein Pferch für „Genesende“ und Rhaskars Zelt mit der Kasse. Tagsüber laufen hier Kranke, Helfer und Bittsteller durcheinander. Nachts ist es still und bewacht.
 
 - **Hineinkommen:** In Verkleidung mit einem *Courtesy*-Wurf (siehe Teil 2), als Kranke getarnt mit einem *Riddle*-Wurf, oder nachts mit *Stealth*.
-- **Rhaskars Zelt:** Ein *Scan* findet das Salzbuch. Es listet siebzehn Höfe mit dem Tag der Salzgabe, und in einer zweiten Spalte steht bei vierzehn von ihnen „befallen“. Das ist ein Beweis für Absicht, aber nicht für Umbar.
+- **Rhaskars Zelt:** Ein *Scan* findet das Kornbuch. Es listet siebzehn Höfe mit dem Tag der Korngabe, und in einer zweiten Spalte steht bei vierzehn von ihnen „befallen“. Das ist ein Beweis für Absicht, aber nicht für Umbar.
 - **Aldis' Kranke:** Wurden bei der Räumung Kranke verschleppt, liegen sie hier im Pferch. Sie zu befreien kostet Zeit und löst fast sicher Alarm aus.
 
 ### Der Weidenhof
@@ -207,7 +207,7 @@ Ein ummauerter Hof einen halben Tag landeinwärts, inmitten verwilderter Weiden.
 2. **Die Scheune:** Zwanzig Kranke auf Stroh. Jeder trägt ein Holztäfelchen mit einer Nummer und einem Zeichen für die Gabe, die er bekam. Ein *Healing*-Wurf zeigt: Manche bekommen absichtlich nichts. Wer das sieht, macht einen *Shadow test* (*Dread*, 1).
 3. **Die Schreibstube:** Merricks Tagebuch der Versuche. Ein *Lore*-Wurf findet den Eintrag „Probe sieben: Der Weiße Trank vom Turm wirkt binnen eines Tages.“ Es gibt also ein echtes Gegenmittel. Daneben liegt der Entwurf von Zâkarûns Bericht (Handout).
 4. **Der Keller:** Thalmir, abgemagert und fiebrig, aber bei Verstand. Er weiß, wo der Steg auf der Reiherinsel liegt und wie viele Wachen dort sind: sechs, dazu die Leibwache des Meisters, Männer mit den Tätowierungen der Korsaren.
-5. **Der Brunnen:** Hier wird das Wasser für die Kranken geschöpft. Ein *Scan* findet zerbrochene Salzkrüge im Schlamm.
+5. **Der Brunnen:** Hier wird das Wasser für die Kranken geschöpft. Ein *Scan* findet aufgeschlitzte Kornsäcke im Schlamm, darin graue Körner.
 
 Wer entdeckt wird, bekommt es mit Merrick und sechs Helfern zu tun (Werte wie *orc soldier*, ohne die Orc-Eigenschaften). Merrick selbst kämpft nicht. Er versucht, das Tagebuch zu verbrennen.
 
@@ -215,7 +215,7 @@ Wer entdeckt wird, bekommt es mit Merrick und sechs Helfern zu tun (Werte wie *o
 
 ::: {.letter #zakarun}
 An die Kapitäne von Umbar, Gruß und Gehorsam.\
-Der Salzweg wirkt, wie wir es vorhergesagt haben. Siebzehn Höfe, vierzehn befallen. Die Leute danken dem Hause Saerlond auf Knien und fragen nach nichts. Der Weiße Trank bleibt in den Gewölben der Insel, kein Tropfen davon außerhalb. Gehört uns der Hafen im Winter, finden eure Schiffe im Frühjahr eine offene Tür und eine Küste ohne Wächter.\
+Der Kornweg wirkt, wie wir es vorhergesagt haben. Siebzehn Höfe, vierzehn befallen. Die Leute danken dem Hause Saerlond auf Knien und fragen nach nichts. Der Weiße Trank bleibt in den Gewölben der Insel, kein Tropfen davon außerhalb. Gehört uns der Hafen im Winter, finden eure Schiffe im Frühjahr eine offene Tür und eine Küste ohne Wächter.\
 [Z.]{.sig}
 :::
 
@@ -230,7 +230,7 @@ Die Grauen Marschen sind ein Labyrinth aus Schilf, Prielen und Inseln, die bei F
 ### Ereignisse
 
 - **Schwäne über dem Schilf** (*Joyful Sight*): Bei Sonnenaufgang steigt ein ganzer Zug weißer Schwäne auf und zieht nach Westen, nach Dol Amroth. Wer sich die Zeit nimmt, gewinnt 1 *Hope* zurück. Ein Elb denkt an Edhellond, den verlassenen Hafen seines Volkes jenseits der Bucht.
-- **Das Boot ohne Licht** (*Chance-meeting*): Ein Nachschubkahn der Helfer kommt aus der Lagune. Die Helden können sich mit *Stealth* im Schilf verbergen, sich in Verkleidung mit *Courtesy* vorbeilügen oder den Kahn überfallen. Bei einem Überfall erfahren sie die Parole für den Steg: „Salz für den Turm.“
+- **Das Boot ohne Licht** (*Chance-meeting*): Ein Nachschubkahn der Helfer kommt aus der Lagune. Die Helden können sich mit *Stealth* im Schilf verbergen, sich in Verkleidung mit *Courtesy* vorbeilügen oder den Kahn überfallen. Bei einem Überfall erfahren sie die Parole für den Steg: „Korn für den Turm.“
 - **Die Mücken** (*Mishap*): Ein *Athletics*-Wurf, um die Nacht durchzurudern. Bei einem Misserfolg kostet sie jeden Helden zusätzliche *Fatigue*.
 - **Verirrt im Schilf** (*Ill Choices*): Nur ohne Lotsen. Ein *Explore*-Wurf; bei einem Misserfolg verlieren die Helden einen halben Tag an die Flut, und Rhaskar holt auf.
 - **Rhaskars Spur** (*Ill Choices*): Die Helden hören hinter sich Ruder. Sie können einen Hinterhalt legen (ein Kampf gegen Rhaskar und zehn Helfer im Schilf) oder weiterfahren, dann wartet Rhaskar im Höhepunkt auf der Insel. Überspringbar: Ohne Verfolgung steht Rhaskar einfach auf der Reiherinsel.
@@ -245,11 +245,11 @@ Die Reiherinsel ist eine flache Erhebung im Schilf. Auf ihr steht der Stumpf ein
 
 ### Orte
 
-1. **Der Steg:** Zwei Wachen und eine Laterne. Mit der Parole („Salz für den Turm“) und Verkleidung genügt ein *Courtesy*-Wurf.
+1. **Der Steg:** Zwei Wachen und eine Laterne. Mit der Parole („Korn für den Turm“) und Verkleidung genügt ein *Courtesy*-Wurf.
 2. **Das Wachfeuer:** Vier Helfer würfeln. Ein Horn hängt am Pfahl; wer es zuerst erreicht, entscheidet über den Alarm.
 3. **Der Schilfgürtel:** Ein verborgener Zugang an der Nordseite, den Hedras Lotse oder Thalmir kennt. *Stealth* bringt die Helden bis an die Turmmauer.
 4. **Der Turm:** Zâkarûns Stube mit Briefen, Seekarten und einem Korb voller weißer Siegel. Ein *Scan* findet Antworten aus Umbar, in einer Schrift, die kein Mensch in Gondor mehr schreibt: Adûnaïsch. Ein *Lore*-Wurf erkennt die Sprache, lesen kann sie hier niemand.
-5. **Die Fieberküche:** Kessel, Trockengestelle mit grauem Salz, Fässer mit Lampenöl. Wer hier ohne Schutz atmet, macht einen *Shadow test* (*Dread*, 2), weil der Ort nach Pest und alter Kunst riecht. Mit dem Öl lässt sich alles in Brand setzen.
+5. **Die Fieberküche:** Kessel, Darren mit grauem Korn, Fässer mit Lampenöl. Wer hier ohne Schutz atmet, macht einen *Shadow test* (*Dread*, 2), weil der Ort nach Pest und alter Kunst riecht. Mit dem Öl lässt sich alles in Brand setzen.
 6. **Die Kammer des Weißen Tranks:** Eine eisenbeschlagene Truhe. Zâkarûn läuft als Erstes hierher, wenn Alarm gegeben wird.
 
 \newpage
