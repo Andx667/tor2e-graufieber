@@ -33,15 +33,15 @@ Im Spätsommer TA 2979 geht in Brandhafen, einem halb verfallenen Hafenort an de
 \end{minipage}\par
 ```
 
-Teil 2 und 3 sind offen. Die Gruppe wählt Reihenfolge und Mittel; die Reiherinsel erreicht sie nur mit Beweisen oder mit einem Boot der Schilfbrüder.
+Teil 2 und 3 sind offen. Die Gruppe wählt Reihenfolge und Mittel. Zur Reiherinsel braucht sie zweierlei: den Ort (von Hedra, von Thalmir oder aus dem Kornbuch) und ein Boot (von Hedra oder von Tobbe).
 
 ## Hintergrund: Das Geschenk aus Umbar {#hintergrund .nonotes}
 
 ### Das Graufieber
 
-Das Graufieber ist Marschenfieber, das alte Kunst aus Umbar schlimmer gemacht hat. Gebraut wird es in den Gewölben des Reiherturms, einer Wachturmruine aus der Zeit der Könige auf einer Insel in den Grauen Marschen. Es verbreitet sich nicht über Mücken, sondern über „Weißkorn“: versiegelte Kornsäcke, die die Helfer als Gabe an die Höfe verteilen, nachdem die Ernte im Fieber verdorben ist. Zwischen den guten Körnern stecken graue, die in Zâkarûns Küche gedarrt wurden. Drei Wochen nach dem ersten Brot kommt das Fieber. Die Kranken werden grau, frieren in der Hitze und murmeln im Schlaf von schwarzen Segeln.
+Das Graufieber ist Marschenfieber, das alte Kunst aus Umbar schlimmer gemacht hat. Gebraut wird es in den Gewölben des Reiherturms, einer Wachturmruine aus der Zeit der Könige auf einer Insel in den Grauen Marschen. Es verbreitet sich nicht über Mücken, sondern über Korn. Nach der Missernte im Herbst TA 2978 verkaufte das Haus Saerlond den Höfen um Brandhafen den Winter über billiges Saatkorn; darunter waren die ersten grauen Körner, in Zâkarûns Küche gedarrt. Drei Wochen nach dem ersten Brot kam das Fieber. Seit die Helfer da sind, verteilen sie mehr davon, nun als Gabe: „Weißkorn“ in versiegelten Säcken. Wo es hinkommt, folgt das Fieber. Die Kranken werden grau, frieren in der Hitze und murmeln im Schlaf von schwarzen Segeln.
 
-Fieberrinde lindert es einen Tag lang, dann kehrt es stärker zurück. Der „Weiße Trank“ der Helfer heilt nicht, er dämpft nur die Anzeichen und macht abhängig von den nächsten Gaben. Das echte Gegenmittel wurde gebraut, damit sich die eigenen Leute schützen können. Es lagert nur auf der Insel.
+Fieberrinde hält die Kranken am Leben, solange sie jeden Tag neue bekommen, aber gesund macht sie niemanden. Der „Weiße Trank“ der Helfer heilt ebenfalls nicht, er dämpft nur die Anzeichen und macht abhängig von den nächsten Gaben. Das echte Gegenmittel ist der „Silberne Trank“. Zâkarûn hat ihn gebraut, damit sich seine eigenen Leute schützen können, und er lagert nur auf der Insel.
 
 ### Zâkarûn und das Haus Saerlond
 
@@ -57,13 +57,7 @@ Die Schilfbrüder sind Schmuggler und Gesetzlose im Schilf der Grauen Marschen. 
 
 ### Mardion und der Truchsess
 
-Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den Küsten. Seit dem Frühjahr ahnt er, wer hinter dem Fieber steckt. Ein fremder Hauptmann namens Thorongil warnt den Truchsess seit Jahren, dass Umbar eine tödliche Gefahr für die südlichen Lehen sei; andere im Rat halten das für übertrieben. Ein Beweis, dass Umbar die Küste von Gondor vergiftet, würde den Streit entscheiden. Dafür ist Mardion bereit, einen Ort sterben zu lassen. Einer seiner Späher, Thalmir, ist seit einer Woche verschwunden.
-
-### Einbindung
-
-Die Helden sind Reisende in Dol Amroth oder Linhir. Mardion lässt ihnen einen Brief zukommen (Teil 1). Sie kennen ihn höchstens vom Hörensagen. Fremde sind ihm recht: Niemand in Brandhafen bringt sie mit dem Truchsess in Verbindung.
-
-**Hinweis für den Loremaster:** Thorongil bleibt im Hintergrund. Er ist ein Name am Hof, kein Mitspieler; wer ihn kennt, weiß mehr als die Helden. Mardion erwähnt ihn nur, wenn die Spieler fragen, wozu der Beweis dient.
+Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den Küsten. Seit dem Frühjahr ahnt er, wer hinter dem Fieber steckt. Ein fremder Hauptmann namens Thorongil warnt den Truchsess seit Jahren, dass Umbar eine tödliche Gefahr für die südlichen Lehen sei; andere im Rat halten das für übertrieben. Ein Beweis, dass Umbar die Küste von Gondor vergiftet, würde den Streit entscheiden. Soldaten kann Mardion nicht schicken: Ein Angriff auf die Wohltäter eines hungernden Ortes, ohne Beweis, wäre ein Geschenk für Saerlonds Freunde, und wo das Fieber gemacht wird, weiß er nicht. Für den Beweis ist er bereit, einen Ort sterben zu lassen. Einer seiner Späher, Thalmir, ist seit einer Woche verschwunden. Thorongil bleibt ein Name am Hof; Mardion nennt ihn nur, wenn die Spieler fragen, wozu der Beweis dient.
 
 ## Zeitleiste {#zeitleiste .nonotes}
 
@@ -77,8 +71,9 @@ Die Helden sind Reisende in Dol Amroth oder Linhir. Mardion lässt ihnen einen B
 | TA 2953 | Ecthelion II. wird Truchsess von Gondor. | Kanon |
 | TA 2957–2980 | Aragorn dient unerkannt als Thorongil erst Thengel von Rohan, dann dem Truchsess Ecthelion II. | Kanon |
 | TA 2977 | Zâkarûn richtet die Fieberküche im Reiherturm ein. | erfunden |
+| TA 2978, Herbst | Missernte in Belfalas; das Haus Saerlond verkauft im Winter billiges Saatkorn an die Höfe um Brandhafen. | erfunden |
 | TA 2979, Astron | Erste Fieberfälle in den Höfen um Brandhafen. | erfunden |
-| TA 2979, Thrimidge | Die Helfer des Hauses Saerlond kommen mit zwei Schiffen. | erfunden |
+| TA 2979, Thrimidge | Die Helfer des Hauses Saerlond kommen mit zwei Schiffen und verteilen Weißkorn. | erfunden |
 | TA 2979, Wedmath | Die Hafenwache steht unter Rhaskars Befehl; Thalmir verschwindet; Mardion schreibt. | erfunden |
 | TA 2980 | Thorongil überfällt Umbar mit einer kleinen Flotte, verbrennt einen großen Teil der Korsarenschiffe und erschlägt den Hauptmann des Hafens. | Kanon |
 
@@ -90,9 +85,10 @@ Die Helden sind Reisende in Dol Amroth oder Linhir. Mardion lässt ihnen einen B
 | 2 | 2. Halimath | Rand der Marschen | Die Schilfbrüder, zwei Aufträge. |
 | 3 | 3. Halimath | Furtlager oder Weidenhof | Beweise. Danach nimmt Rhaskar die Verfolgung auf. |
 | 4 | 4. Halimath | Graue Marschen | Fahrt zur Reiherinsel. |
-| 5 | Nacht zum 5. Halimath | Reiherinsel | Überfall auf das Labor. Im Morgengrauen: die Wahl. |
+| 5 | Nacht zum 5. Halimath | Reiherinsel | Überfall auf das Labor. |
+| 6 | 5. Halimath | Brandhafen | Rückfahrt; am Abend die Wahl. |
 
-Der Kalender ist ein Vorschlag. Wenn die Gruppe trödelt, holt das Fieber auf: Pro verlorenem Tag stirbt einer von Aldis' Kranken.
+Der Kalender ist ein Vorschlag. Solange Aldis keine Fieberrinde hat, stirbt jeden Tag einer ihrer Kranken.
 
 ## Teil 1: Brandhafen {#teil1}
 
@@ -100,7 +96,7 @@ Brandhafen ist ein Ort aus geschwärzten Kaimauern, Lagerhäusern ohne Dächer u
 
 ### Mardions Botschaft (Handout)
 
-Der Brief erreicht die Helden in Dol Amroth oder Linhir, gebracht von einem Jungen, der sofort wieder verschwindet.
+Die Helden sind Reisende in Dol Amroth oder Linhir und kennen Mardion höchstens vom Hörensagen. Sein Brief erreicht sie durch einen Jungen, der sofort wieder verschwindet. Fremde sind Mardion recht: Niemand in Brandhafen bringt sie mit dem Truchsess in Verbindung.
 
 ::: {.letter #mardion}
 Kommt nach Brandhafen, ehe der Mond voll ist. Fragt am alten Hafenturm nach dem Mann, der die Möwen füttert. Trinkt nichts, was man euch schenkt. Sagt niemandem, wer euch schickt.\
@@ -128,10 +124,10 @@ Er will zwei Dinge: einen Beweis, der Umbar nennt, und den Ort, an dem das Fiebe
 Im alten Zollhaus pflegt die Kräuterfrau Aldis zwölf Kranke. Sie ist müde, scharfzüngig und furchtlos. Mit einem *Healing*-Wurf, oder wenn die Helden ihr einfach zuhören, erfährt man, was sie bemerkt hat:
 
 - Das Fieber folgt nicht den Mücken. Es befiel Höfe weit von den Marschen, die alle Brot aus denselben Säcken gebacken hatten. Wer nur Fisch aß, blieb gesund.
-- Fieberrinde hilft einen Tag lang, dann wird es schlimmer.
+- Fieberrinde hält die Kranken am Leben, aber nur, solange sie jeden Tag neue bekommen. Gesund wird davon niemand.
 - Wer den Weißen Trank nimmt, wird ruhig, aber nicht gesund.
 
-Ihre Fieberrinde ist fast aufgebraucht. Mehr haben nur die Schilfbrüder.
+Ihre Fieberrinde reicht noch für heute. Mehr haben nur die Schilfbrüder.
 
 ### Die Räumung
 
@@ -166,7 +162,7 @@ Hedra hat einen verstümmelten Daumen, ein gutes Gedächtnis und keine Geduld. S
 
 - Das Vertrauen beginnt bei 0. Jeder erfüllte Auftrag gibt +1. Eine Lüge, die Hedra durchschaut, oder ein Verrat an die Helfer gibt −1.
 - Bei 1 nennt Hedra die Reiherinsel: „Dorthin fahren die Boote ohne Licht.“
-- Bei 2 liefert sie Fieberrinde für Aldis; die Kranken überleben bis zum Ende des Abenteuers.
+- Bei 2 liefert sie Fieberrinde für Aldis, genug bis zum Ende des Abenteuers; von da an stirbt keiner ihrer Kranken mehr.
 - Bei 3 stellt sie ein Boot und einen Lotsen für die Marschen (Teil 4).
 
 Wer die Hausregel nicht möchte, lässt Hedra nach zwei erfolgreichen Aufträgen einfach alles herausgeben.
@@ -181,7 +177,7 @@ Hedra bietet drei Aufträge an. Für einen One-Shot reichen zwei.
 
 **Erinnerung für den Loremaster – Verkleidung:** Die weißen Binden der Helfer lassen sich stehlen oder von Tobbe borgen. Wer eine trägt, kommt mit einem *Courtesy*-Wurf an Posten vorbei, mit einer *Riddle*-Lüge auch durch Nachfragen. Zwerge, Elben und Hobbits fallen unter den Seeleuten auf: Ihre Würfe sind *ill-favoured*. Wird ein Verkleideter erkannt, schlägt der Posten Alarm.
 
-**Wenn sie trotzdem gehen:** Verweigern die Helden Hedra jeden Dienst, finden sie die Reiherinsel nur über die Papiere aus den Lagern (Teil 3) und fahren mit Tobbes Kahn, ohne Lotsen.
+**Wenn sie trotzdem gehen:** Verweigern die Helden Hedra jeden Dienst, finden sie die Reiherinsel über das Kornbuch oder Thalmir (Teil 3) und fahren mit Tobbes Kahn, ohne Lotsen.
 
 ### Die Insel der Reiher (optional)
 
@@ -196,7 +192,7 @@ Mardion braucht einen Beweis, der Umbar nennt. Es gibt zwei Orte, an denen die H
 Am Ostufer des Brandbachs stehen dreißig Zelte, ein Pferch für „Genesende“ und Rhaskars Zelt mit der Kasse. Tagsüber laufen hier Kranke, Helfer und Bittsteller durcheinander. Nachts ist es still und bewacht.
 
 - **Hineinkommen:** In Verkleidung mit einem *Courtesy*-Wurf (siehe Teil 2), als Kranke getarnt mit einem *Riddle*-Wurf, oder nachts mit *Stealth*.
-- **Rhaskars Zelt:** Ein *Scan* findet das Kornbuch. Es listet siebzehn Höfe mit dem Tag der Korngabe, und in einer zweiten Spalte steht bei vierzehn von ihnen „befallen“. Das ist ein Beweis für Absicht, aber nicht für Umbar.
+- **Rhaskars Zelt:** Ein *Scan* findet das Kornbuch. Es listet siebzehn Höfe mit dem Tag der Korngabe, und in einer zweiten Spalte steht bei vierzehn von ihnen „befallen“. Das ist ein Beweis für Absicht, aber nicht für Umbar. Eine dritte Spalte führt die Lieferungen „vom Turm“. Tobbe oder Hedra wissen, welcher Turm gemeint ist: der alte Reiherturm in den Marschen.
 - **Aldis' Kranke:** Wurden bei der Räumung Kranke verschleppt, liegen sie hier im Pferch. Sie zu befreien kostet Zeit und löst fast sicher Alarm aus.
 
 ### Der Weidenhof
@@ -207,7 +203,7 @@ Ein ummauerter Hof einen halben Tag landeinwärts, inmitten verwilderter Weiden.
 
 1. **Tor und Mauer:** Zwei Wachen, ein Hund. Wer nicht verkleidet ist, kommt mit *Stealth* über die eingestürzte Nordmauer.
 2. **Die Scheune:** Zwanzig Kranke auf Stroh. Jeder trägt ein Holztäfelchen mit einer Nummer und einem Zeichen für die Gabe, die er bekam. Ein *Healing*-Wurf zeigt: Manche bekommen absichtlich nichts. Wer das sieht, erhält 1 *Shadow*-Punkt (*Dread*).
-3. **Die Schreibstube:** Merricks Tagebuch der Versuche. Ein *Lore*-Wurf findet den Eintrag „Probe sieben: Der Weiße Trank vom Turm wirkt binnen eines Tages.“ Es gibt also ein echtes Gegenmittel. Daneben liegt der Entwurf von Zâkarûns Bericht (Handout).
+3. **Die Schreibstube:** Merricks Tagebuch der Versuche. Ein *Lore*-Wurf findet den Eintrag „Probe sieben: Der Silberne Trank vom Turm wirkt binnen eines Tages.“ Ein Eintrag darüber: „Probe drei: halber Ansatz, verdorben.“ Es gibt also ein echtes Gegenmittel, und es lässt sich nicht beliebig strecken. Merrick schreibt für den Meister auch die Briefe ins Reine; daneben liegt der Entwurf von Zâkarûns Bericht (Handout).
 4. **Der Keller:** Thalmir, abgemagert und fiebrig, aber bei Verstand. Er weiß, wo der Steg auf der Reiherinsel liegt und wie viele Wachen dort sind: sechs, dazu die Leibwache des Meisters, Männer mit den Tätowierungen der Korsaren.
 5. **Der Brunnen:** Hier wird das Wasser für die Kranken geschöpft. Ein *Scan* findet aufgeschlitzte Kornsäcke im Schlamm, darin graue Körner.
 
@@ -217,11 +213,11 @@ Wer entdeckt wird, bekommt es mit Merrick und sechs Helfern zu tun (*Footpads*).
 
 ::: {.letter #zakarun}
 An die Kapitäne von Umbar, Gruß und Gehorsam.\
-Der Kornweg wirkt, wie wir es vorhergesagt haben. Siebzehn Höfe, vierzehn befallen. Die Leute danken dem Hause Saerlond auf Knien und fragen nach nichts. Der Weiße Trank bleibt in den Gewölben der Insel, kein Tropfen davon außerhalb. Gehört uns der Hafen im Winter, finden eure Schiffe im Frühjahr eine offene Tür und eine Küste ohne Wächter.\
+Der Kornweg wirkt, wie wir es vorhergesagt haben. Siebzehn Höfe, vierzehn befallen. Die Leute danken dem Hause Saerlond auf Knien und fragen nach nichts. Der Silberne Trank bleibt in den Gewölben der Insel, kein Tropfen davon außerhalb. Gehört uns der Hafen im Winter, finden eure Schiffe im Frühjahr eine offene Tür und eine Küste ohne Wächter.\
 [Z.]{.sig}
 :::
 
-**Hinweis für den Loremaster:** Der Bericht ist der Beweis, den Mardion sucht. Er ist allerdings nur ein Entwurf, ungesiegelt und nur mit einem Buchstaben gezeichnet. Mardion sagt: „Das reicht, damit ich es glaube. Saerlonds Freunde im Rat nennen es eine Fälschung. Ich brauche das Mittel selbst.“ So bleibt die Truhe auf der Reiherinsel der Kern der Wahl.
+**Hinweis für den Loremaster:** Der Bericht ist der Beweis, den Mardion sucht. Er ist allerdings nur ein Entwurf, ungesiegelt und nur mit einem Buchstaben gezeichnet. Mardion sagt: „Das reicht, damit ich es glaube. Saerlonds Freunde im Rat nennen es eine Fälschung. Ich brauche das Mittel selbst: einen Trank, der genau dieses Fieber heilt, unter Umbars Siegel.“ So bleibt die Truhe auf der Reiherinsel der Kern der Wahl.
 
 ## Teil 4: Fahrt zur Reiherinsel {#teil4}
 
@@ -252,7 +248,7 @@ Die Reiherinsel ist eine flache Erhebung im Schilf. Auf ihr steht der Stumpf ein
 3. **Der Schilfgürtel:** Ein verborgener Zugang an der Nordseite, den Hedras Lotse oder Thalmir kennt. *Stealth* bringt die Helden bis an die Turmmauer.
 4. **Der Turm:** Zâkarûns Stube mit Briefen, Seekarten und einem Korb voller weißer Siegel. Ein *Scan* findet Antworten aus Umbar, in einer Sprache, die in Gondor niemand mehr schreibt: Adûnaïsch, die alte Sprache Númenors. Ein *Lore*-Wurf erkennt sie, lesen kann sie hier niemand.
 5. **Die Fieberküche:** Kessel, Darren mit grauem Korn, Fässer mit Lampenöl. Wer hier ohne Schutz atmet, erhält 2 *Shadow*-Punkte (*Dread*), weil der Ort nach Pest und alter Kunst riecht. Mit dem Öl lässt sich alles in Brand setzen.
-6. **Die Kammer des Weißen Tranks:** Eine eisenbeschlagene Truhe. Zâkarûn läuft als Erstes hierher, wenn Alarm gegeben wird.
+6. **Die Kammer des Silbernen Tranks:** Eine eisenbeschlagene Truhe. Zâkarûn läuft als Erstes hierher, wenn Alarm gegeben wird.
 
 \newpage
 
@@ -271,19 +267,27 @@ Alle Gegner sind *Evil Men* aus den *Core Rules*. Zâkarûn kämpft nicht mit de
 
 **Möglicher Abschluss:** Wenn die Truhe gerettet ist und die Küche brennt, ist das Labor erledigt, egal wie viele Gegner noch stehen. Die übrigen Helfer fliehen mit den Booten.
 
+**Hinweis für den Loremaster:** Erreicht Zâkarûn die Truhe, wirft er sie ins Feuer, aber Eisen brennt langsam. Wer ihr nachspringt, holt sie mit einem *Athletics*-Wurf heraus, angesengt, die Phiolen heil, und erhält dafür *Fatigue* oder eine Brandwunde nach deinem Ermessen. Ohne Truhe gibt es keine Wahl, nur ein Ende wie „Status Quo“ ohne Beweis: Brandhafen leidet bis Yule, und das Haus bleibt geachtet.
+
 ### Zâkarûns Truhe
 
-In der Truhe liegen zwölf Phiolen Weißer Trank und Zâkarûns Rezeptbuch, auf Westron geschrieben, mit Randnotizen in Adûnaïsch. Ein *Healing*- oder *Lore*-Wurf ergibt: Die Phiolen allein retten zwölf Menschen. Mit dem Buch kann eine kundige Heilerin in einigen Tagen mehr brauen. Dieselben Phiolen und dasselbe Buch sind aber auch der einzige Beweis, den Saerlonds Freunde im Rat nicht wegreden können.
+In der Truhe liegen zwölf Phiolen Silberner Trank, jede unter dem Siegel mit dem Schiff und dem Stern, und Zâkarûns Rezeptbuch, auf Westron geschrieben, mit Randnotizen in Adûnaïsch. Ein *Healing*- oder *Lore*-Wurf ergibt:
+
+- Die Phiolen allein retten zwölf Menschen.
+- Als Ansatz mit dem Rezept ergeben sie in vier Tagen genug für ganz Brandhafen. Dabei gehen alle zwölf auf; mit weniger verdirbt der Ansatz (Merricks „Probe drei“). Das Rezept lässt sich an einem Abend abschreiben.
+- Als Beweis taugen Buch und Phiolen nur zusammen: Das Buch nennt Umbar, die versiegelten Phiolen zeigen, dass Umbar das Gegenmittel zu genau diesem Fieber hat. Ein Trank, den Aldis braut, beweist nichts; den nennt man ihren.
 
 Gefangen, sagt Zâkarûn nur: „Ihr werdet sehen, dass Ihr nur eine Wahl habt, und sie wird Euch nicht gefallen.“
 
 ## Die Wahl {#wahl}
 
-Im Morgengrauen kommen die Helden mit der Truhe zurück nach Brandhafen. Am Fuß des Hafenturms warten drei Menschen, und jeder will die Truhe. Spiele die Szene langsam: Jeder spricht einmal, dann entscheiden die Helden.
+Am Abend nach dem Überfall kommen die Helden mit der Truhe zurück nach Brandhafen. Am Fuß des Hafenturms warten drei Menschen, und jeder will die Truhe. Spiele die Szene langsam: Jeder spricht einmal, dann entscheiden die Helden.
 
-- **Mardion** und drei Bewaffnete des Truchsess: „Mit diesem Beweis glaubt der Rat. Ohne ihn segelt Umbar im Frühjahr an diese Küste und brennt jeden Hafen von hier bis Pelargir. Zwölf Leben gegen tausend.“ Er ist bereit, sie mit dem Schwert zu nehmen.
+- **Mardion** und drei Bewaffnete des Truchsess: „Mit diesem Beweis glaubt der Rat. Ohne ihn segelt Umbar im Frühjahr an diese Küste und brennt jeden Hafen von hier bis Pelargir. Zwölf Leben gegen tausend.“ Er reitet noch heute Nacht und ist bereit, die Truhe mit dem Schwert zu nehmen.
 - **Aldis:** „In vier Tagen braue ich genug für ganz Brandhafen. Euer Rat ist weit weg. Meine Kranken sind hier.“
 - **Hedra:** Sie legt einen Beutel Silber auf den Stein. „Ich zahle, und ich verteile. Wer sonst hat Boote für jeden Hof?“ Ein *Insight*-Wurf verrät, dass sie an die zahlen wird, die zahlen können.
+
+**Wenn sie teilen wollen:** Die Spieler werden fragen, ob nicht alle etwas bekommen. Das Rezept dürfen sie abschreiben, aber Mardion und Aldis brauchen beide alle zwölf Phiolen. Warten kann Mardion nicht: Die Helfer, die von der Insel geflohen sind, warnen Pelargir binnen Tagen. „In vier Tagen räumt das Haus seine Kontore, und Saerlonds Freunde haben ihre Antwort fertig. Dann zeigt mein Beweis auf leere Räume.“ Lass die Spieler weitersuchen, solange sie wollen; jeder Weg endet bei derselben Truhe.
 
 Mardion lässt die Truhe nicht ohne Kampf gehen. Wer sie Aldis oder Hedra geben will, muss an ihm und seinen Männern vorbei. Nimm für Mardion die Werte eines *Southerner Champion* und für seine Männer die von *Highway Robbers*. Fliehen die Helden mit der Truhe, holt er sie am selben Tag ein.
 
@@ -291,21 +295,21 @@ Mardion lässt die Truhe nicht ohne Kampf gehen. Wer sie Aldis oder Hedra geben 
 
 ### Status Quo
 
-Die Helden geben die Truhe Mardion. Er nickt, dankt knapp und ist vor Mittag auf dem Weg nach Minas Tirith. Im Rat des Truchsess verstummen Saerlonds Freunde; das Haus schließt still seine Kontore in Pelargir. Die Heiler von Minas Tirith brauen aus der Truhe ein Mittel gegen das Graufieber, doch es kommt erst nach Yule. Im folgenden Jahr überfällt Thorongil Umbar. Ob der Beweis dazu beitrug, erfahren die Helden nie.
+Die Helden geben die Truhe Mardion. Er nickt, dankt knapp und ist noch in der Nacht auf dem Weg nach Minas Tirith. Im Rat des Truchsess verstummen Saerlonds Freunde; das Haus schließt still seine Kontore in Pelargir. Die Heiler von Minas Tirith brauen nach dem Rezept ein Mittel gegen das Graufieber, doch es kommt erst nach Yule nach Brandhafen. Im folgenden Jahr überfällt Thorongil Umbar. Ob der Beweis dazu beitrug, erfahren die Helden nie.
 
 Bis dahin sterben in Brandhafen Dutzende, darunter Tobbe und die Hälfte von Aldis' Kranken. Im Winter fahren die Koggen der Helfer still davon, als wäre nichts gewesen. Aldis spricht nie wieder mit den Helden.
 
 ### Mann des Volkes
 
-Die Helden stellen sich gegen Mardion und bringen ihn und seine Männer um. Aldis braut aus Phiolen und Buch genug Weißen Trank für Brandhafen und die Höfe, und das Fieber erlischt bis zum Winterfilth.
+Die Helden stellen sich gegen Mardion und bringen ihn und seine Männer um. Aldis braut aus Phiolen und Rezept genug Silbernen Trank für Brandhafen und die Höfe, und das Fieber erlischt bis zum Winterfilth. Die Phiolen sind dabei aufgegangen.
 
-Ohne Beweis bleibt das Haus Saerlond geachtet, und seine Freunde im Rat behalten ihre Stimme. Wenn Zâkarûn entkommen ist, richtet er sich an einer anderen Küste eine neue Küche ein. In Dol Amroth und Linhir sucht man die Fremden, die einen Hauptmann des Truchsess erschlagen haben. Die Helden müssen fort aus Gondor.
+Das Buch allein beweist nichts, und wer es bringt, ist ein gesuchter Mörder. So bleibt das Haus Saerlond geachtet, und seine Freunde im Rat behalten ihre Stimme. Wenn Zâkarûn entkommen ist, richtet er sich an einer anderen Küste eine neue Küche ein. In Dol Amroth und Linhir sucht man die Fremden, die einen Hauptmann des Truchsess erschlagen haben. Die Helden müssen fort aus Gondor.
 
 ### Teufelslohn
 
 Die Helden stellen sich gegen Mardion und bringen ihn und seine Männer um. Dann verkaufen sie die Truhe an Hedra. Sie zahlt und warnt: „Ab heute jagen euch Gondor und Umbar. Geht nach Norden.“
 
-Hedra verkauft die Phiolen einzeln an die, die zahlen können, auch an die Helfer. Das Rezeptbuch geht in einer Schänke in Linhir verloren. Das Fieber breitet sich die Küste entlang nach Lebennin aus. Gib jedem Helden *Treasure* nach deinem Ermessen.
+Hedra verkauft die Phiolen einzeln an die, die zahlen können, und Saerlonds Leute kaufen jede zurück, die sie finden, um sie zu vernichten. Das Rezeptbuch geht in einer Schänke in Linhir verloren. Das Fieber breitet sich die Küste entlang nach Lebennin aus. Gib jedem Helden *Treasure* nach deinem Ermessen.
 
 **Hinweis für den Loremaster:** Keines der drei Enden ist das richtige. Wenn die Spieler nach einem vierten Weg suchen, lass sie suchen, aber erfinde keinen, der alle rettet. Die Wahl ist das Herz des Abenteuers.
 
