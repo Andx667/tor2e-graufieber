@@ -367,14 +367,16 @@ def route():
     Rhaskars Verfolgung gestrichelt rot. Sauber gezeichnet, nicht von Hand."""
     font = "font-family=\"TeX Gyre Pagella\""
     grey, line, red, ink = "#6f665c", "#9a9088", "#7a2a1f", "#2b2420"
-    bw, bh, gap, x0, top = 250, 48, 28, 40, 14
-    stages = [("Brandhafen", "Mardion · Aldis · die Räumung"),
+    bw, bh, gap, x0, top = 250, 40, 22, 40, 12
+    stages = [("Minas Tirith", "Audienz beim Truchsess · Mardions Bericht"),
+              ("Die Reise nach Süden", "Pelargir · Linhir · Küstenstraße"),
+              ("Brandhafen", "Mardion · Aldis · die Räumung"),
               ("Die Schilfbrüder", "Vertrauen · Fieberrinde · ein Boot"),
               ("Die Lager", "Furtlager oder Weidenhof · Beweise"),
               ("Fahrt zur Reiherinsel", "Graue Marschen · ein Tag"),
               ("Das Labor", "Fieberküche · Zâkarûns Truhe"),
               ("Die Wahl", "Mardion, Aldis oder Hedra")]
-    legs = ["nächster Morgen", "Reihenfolge frei", "sofort", "ein Tag", "Rückfahrt, ein Tag"]
+    legs = ["am nächsten Morgen", "neun Tage", "nächster Morgen", "Reihenfolge frei", "sofort", "ein Tag", "Rückfahrt, ein Tag"]
     Hs = top * 2 + len(stages) * bh + (len(stages) - 1) * gap
     Ws = 420
     cx = x0 + bw / 2
@@ -389,13 +391,13 @@ def route():
         climax = name == "Das Labor"
         out.append(f'<rect x="{x0}" y="{y}" width="{bw}" height="{bh}" rx="8" fill="{"#f6e7e3" if climax else "#f7f1e6"}" '
                    f'stroke="{red if climax else line}" stroke-width="{1.8 if climax else 1.1}"/>')
-        out.append(f'<text x="{cx}" y="{y + 20}" {font} font-weight="700" font-size="14" fill="{red if climax else ink}" text-anchor="middle">{name}</text>')
-        out.append(f'<text x="{cx}" y="{y + 37}" {font} font-size="11" fill="{grey}" text-anchor="middle">{sub}</text>')
+        out.append(f'<text x="{cx}" y="{y + 17}" {font} font-weight="700" font-size="13.5" fill="{red if climax else ink}" text-anchor="middle">{name}</text>')
+        out.append(f'<text x="{cx}" y="{y + 32}" {font} font-size="10.5" fill="{grey}" text-anchor="middle">{sub}</text>')
         if i < len(legs):
             out.append(f'<path d="M{cx} {y + bh} V{y + bh + gap - 2}" stroke="{line}" stroke-width="1.2" marker-end="url(#a)"/>')
             out.append(f'<text x="{cx + 8}" y="{y + bh + gap / 2 + 4}" {font} font-style="italic" font-size="10.5" fill="{grey}">{legs[i]}</text>')
     # Verfolgung: von den Lagern zur Insel
-    y3, y5 = ys[2] + bh / 2, ys[4] + bh / 2
+    y3, y5 = ys[4] + bh / 2, ys[6] + bh / 2
     px = x0 + bw + 50
     out.append(f'<path d="M{x0 + bw} {y3} H{px} V{y5} H{x0 + bw + 3}" fill="none" stroke="{red}" stroke-width="1.2" stroke-dasharray="5 4" marker-end="url(#r)"/>')
     out.append(f'<text x="{px + 8}" y="{(y3 + y5) / 2 - 4}" {font} font-style="italic" font-size="11" fill="{red}">Rhaskar</text>')

@@ -2,7 +2,7 @@
 
 Ein Abenteuer für *The One Ring, 2nd Edition* · Küste von Belfalas, Spätsommer TA 2979.
 
-Ein One-Shot für 3–4 Spieler (4–5 Stunden) im Süden von Gondor. Die Handlung ist frei nach dem
+Ein One-Shot für 3–4 Spieler (5–6 Stunden) im Süden von Gondor: Der Truchsess schickt die Helden von Minas Tirith aus nach Süden. Die Handlung ist frei nach dem
 Arma-3-Szenario *Old Man* erzählt: Die „Helfer“ eines Handelshauses, hinter dem ein Schwarzer
 Númenórer aus Umbar steht, säen in einem Hafenort an der Küste von Belfalas ein Fieber, und am Ende
 entscheiden die Helden, wer das einzige Gegenmittel bekommt.
