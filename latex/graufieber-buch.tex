@@ -1,0 +1,17 @@
+% Graufieber – Buchfassung: Buchblock zum Binden. Wird von tools/build.py aufgerufen
+% (LuaLaTeX, Arbeitsverzeichnis = Projektwurzel).
+% Doppelseitig mit Bundsteg innen, Titelblatt, alle Seiten A4 hoch (Querseiten gedreht),
+% Seitenzahl durch 4 teilbar. Einzelseiten in Lesereihenfolge, nicht ausgeschossen.
+\documentclass[10pt,twoside]{article}
+\usepackage[buch]{graufieber}
+\input{build/version.tex}
+
+\begin{document}
+
+\fwbooktitle{Graufieber}{Ein Abenteuer für The One Ring, 2nd Edition · Tharbad und Swanfleet, Spätsommer TA 2970}{assets/maps/map-tharbad-players-de.jpg}
+
+\input{latex/inhalt.tex}
+
+\fwfillsheets
+
+\end{document}

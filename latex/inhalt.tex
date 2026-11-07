@@ -1,0 +1,23 @@
+% Inhalt beider Fassungen (graufieber.tex: Blattfassung, graufieber-buch.tex: Buchfassung).
+% Die Dateien in build/ erzeugt das Build-Skript.
+\fwtitle{Graufieber}{Ein Abenteuer für The One Ring, 2nd Edition\fwsubsep Tharbad und Swanfleet, Spätsommer TA 2970}
+
+\input{build/body.tex}
+
+% ---- Rechtehinweis am Ende des Textes
+\fwnotice
+
+% ---- Karten für den Loremaster (nummeriert, quer)
+\fwlmmap[Karten für den Loremaster]{lm-weidenhof}{Karte: Der Weidenhof}%
+  {Loremaster-Version · Nummern wie in Teil 3}{assets/maps/map-weidenhof-de.jpg}{Der Weidenhof}
+\fwlmmap{lm-reiher}{Karte: Die Reiherinsel}%
+  {Loremaster-Version · Nummern wie im Höhepunkt}{assets/maps/map-reiherinsel-de.jpg}{Die Reiherinsel}
+\label{fw-lastnum}
+
+% ---- Handouts für die Spieler (ohne Seitenzahl)
+\input{build/letters.tex}
+\fwhandoutletter{h-calenmir}{Calenmirs Brief}{calenmir}{C.}
+\fwhandoutmap[Handouts für die Spieler]{h-tharbad}{assets/maps/map-tharbad-players-de.jpg}{Karte: Tharbad und die Swanfleet}
+\fwhandoutmap{h-weidenhof}{assets/maps/map-weidenhof-players-de.jpg}{Karte des Weidenhofs}
+\fwhandoutletter{h-vorlund}{Vorlunds Bericht}{vorlund}{Euer Diener V.}
+\fwhandoutmap{h-reiher}{assets/maps/map-reiherinsel-players-de.jpg}{Karte der Reiherinsel}
