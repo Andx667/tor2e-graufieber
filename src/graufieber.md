@@ -47,6 +47,8 @@ Fieberrinde lindert es einen Tag lang, dann kehrt es stärker zurück. Der „We
 
 In Brandhafen kennt man ihn als Meister Saerlond, einen Heiler und Kaufherrn aus Pelargir, von altem Blut und mit sanfter Stimme. Sein wahrer Name ist Zâkarûn. Er ist ein Schwarzer Númenórer aus Umbar, und sein Handelshaus ist eine Maske, die Umbar über Jahre in Pelargir aufgebaut hat. Das Haus hat Freunde im Rat des Truchsess, und wer es anklagt, braucht mehr als einen Verdacht.
 
+**Hinweis für den Loremaster:** Dass in Umbar um TA 2979 noch Schwarze Númenórer wirken, ist erfunden. Tolkien nennt die Korsaren erst Nachkommen Castamirs, später Männer aus Harad; einen Schwarzen Númenórer zeigt er nur im Mund Saurons. Wer es kanonnäher will, macht Zâkarûn zu einem Gesandten Saurons, der Umbar nur benutzt.
+
 Umbar will die Küste von Belfalas schwächen, ehe seine Schiffe wiederkommen. Ein Hafen, dessen Leute dem Haus Saerlond dankbarer sind als Dol Amroth oder Minas Tirith, ist im Frühjahr eine offene Tür. Seine Bewaffneten führt Kapitän Rhaskar: Korsaren in der Tracht gemieteter Wachen. Die Hafenwache von Brandhafen trägt jetzt ebenfalls die weißen Binden des Hauses. Nach außen sind die Helfer geordnet, höflich und großzügig, und wer ihnen dankt, stellt keine Fragen.
 
 ### Die Schilfbrüder
@@ -55,7 +57,7 @@ Die Schilfbrüder sind Schmuggler und Gesetzlose im Schilf der Grauen Marschen. 
 
 ### Mardion und der Truchsess
 
-Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den Küsten. Seit dem Frühjahr ahnt er, wer hinter dem Fieber steckt. Am Hof wird seit Jahren gestritten, ob man Umbar angreifen soll; ein fremder Hauptmann namens Thorongil drängt darauf, andere warnen. Ein Beweis, dass Umbar die Küste von Gondor vergiftet, würde den Streit entscheiden. Dafür ist Mardion bereit, einen Ort sterben zu lassen. Einer seiner Späher, Thalmir, ist seit einer Woche verschwunden.
+Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den Küsten. Seit dem Frühjahr ahnt er, wer hinter dem Fieber steckt. Ein fremder Hauptmann namens Thorongil warnt den Truchsess seit Jahren, dass Umbar eine tödliche Gefahr für die südlichen Lehen sei; andere im Rat halten das für übertrieben. Ein Beweis, dass Umbar die Küste von Gondor vergiftet, würde den Streit entscheiden. Dafür ist Mardion bereit, einen Ort sterben zu lassen. Einer seiner Späher, Thalmir, ist seit einer Woche verschwunden.
 
 ### Einbindung
 
@@ -70,15 +72,15 @@ Die Helden sind Reisende in Dol Amroth oder Linhir. Mardion lässt ihnen einen B
 | Jahr (TA) | Ereignis | Kanon oder erfunden |
 |---|---|---|
 | TA 1448 | Die Söhne Castamirs fliehen nach Umbar; aus ihnen werden die Korsaren. | Kanon |
-| TA 2758 | Flotten aus Umbar verwüsten die Küsten von Gondor. | Kanon |
+| TA 2758 | Drei Flotten aus Umbar und Harad greifen die Küsten von Gondor an. | Kanon |
 | TA 2758 | Die Korsaren brennen den Hafen am Brandbach nieder; seither heißt er Brandhafen. | erfunden |
 | TA 2953 | Ecthelion II. wird Truchsess von Gondor. | Kanon |
-| TA 2957 | Thorongil tritt in den Dienst des Truchsess. | Kanon |
+| TA 2957–2980 | Aragorn dient unerkannt als Thorongil erst Thengel von Rohan, dann dem Truchsess Ecthelion II. | Kanon |
 | TA 2977 | Zâkarûn richtet die Fieberküche im Reiherturm ein. | erfunden |
 | TA 2979, Astron | Erste Fieberfälle in den Höfen um Brandhafen. | erfunden |
 | TA 2979, Thrimidge | Die Helfer des Hauses Saerlond kommen mit zwei Schiffen. | erfunden |
 | TA 2979, Wedmath | Die Hafenwache steht unter Rhaskars Befehl; Thalmir verschwindet; Mardion schreibt. | erfunden |
-| TA 2980 | Thorongil führt eine kleine Flotte gegen Umbar und verbrennt die Schiffe der Korsaren. | Kanon |
+| TA 2980 | Thorongil überfällt Umbar mit einer kleinen Flotte, verbrennt einen großen Teil der Korsarenschiffe und erschlägt den Hauptmann des Hafens. | Kanon |
 
 ### Abenteuerkalender
 
@@ -137,7 +139,7 @@ In der ersten Nacht kommt Rhaskar mit acht Helfern, um Aldis' Kranke „zu ihrem
 
 - Hinhalten mit *Persuade* oder *Courtesy*. Jeder Erfolg verschafft Zeit für zwei Tragen.
 - Die Kranken leise wegtragen: *Stealth* und *Athletics*.
-- Kampf ist möglich, aber lärmend. Die Helfer haben Werte wie *orc soldier*, ohne die Orc-Eigenschaften. Rhaskar zieht sich nach zwei Runden zurück und merkt sich die Gesichter.
+- Kampf ist möglich, aber lärmend. Die Helfer haben die Werte von *Footpads*, Rhaskar die eines *Southerner Champion*. Er zieht sich nach zwei Runden zurück und merkt sich die Gesichter.
 
 Danach ist Aldis eine Geächtete, und die Helden sind verdächtig.
 
@@ -173,7 +175,7 @@ Wer die Hausregel nicht möchte, lässt Hedra nach zwei erfolgreichen Aufträgen
 
 Hedra bietet drei Aufträge an. Für einen One-Shot reichen zwei.
 
-1. **Der Kornkahn:** Nachts überfallen die Helden einen Lastkahn der Helfer in der Bachmündung. An Bord sind sechs Wachen (Werte wie *orc soldier*, ohne die Orc-Eigenschaften) und vierzig Kornsäcke mit weißem Siegel. Ein *Lore*-Wurf zeigt graue, bitter riechende Körner zwischen dem guten Korn. Ein Sack ist ein Beweis, aber er nennt keinen Namen.
+1. **Der Kornkahn:** Nachts überfallen die Helden einen Lastkahn der Helfer in der Bachmündung. An Bord sind sechs Wachen (*Footpads*) und vierzig Kornsäcke mit weißem Siegel. Ein *Lore*-Wurf zeigt graue, bitter riechende Körner zwischen dem guten Korn. Ein Sack ist ein Beweis, aber er nennt keinen Namen.
 2. **Kesse im Stock:** Hedras Bruder Kesse sitzt im Stock an der Hafenwache und soll als „Brunnenvergifter“ gehenkt werden. Ihn zu befreien verlangt *Stealth* oder eine *Riddle*-List. In Verkleidung geht es ganz ohne Kampf (siehe Kasten).
 3. **Wein für die Wache:** Die Helden liefern ein Fass geschmuggelten Wein an Rhaskars Steuermann. Mit einem *Insight*- oder *Courtesy*-Wurf hören sie beim Trinken: „Der Meister will mehr Kranke auf dem Hof. Und neue Säcke von der Insel, bevor im Frühjahr die Schiffe aus dem Süden kommen.“
 
@@ -204,12 +206,12 @@ Ein ummauerter Hof einen halben Tag landeinwärts, inmitten verwilderter Weiden.
 ![Der Weidenhof, Loremaster-Version. Die Nummern entsprechen der Liste; rot gestrichelt: der Weg über die eingestürzte Nordmauer.](assets/maps/map-weidenhof-de.jpg){.map}
 
 1. **Tor und Mauer:** Zwei Wachen, ein Hund. Wer nicht verkleidet ist, kommt mit *Stealth* über die eingestürzte Nordmauer.
-2. **Die Scheune:** Zwanzig Kranke auf Stroh. Jeder trägt ein Holztäfelchen mit einer Nummer und einem Zeichen für die Gabe, die er bekam. Ein *Healing*-Wurf zeigt: Manche bekommen absichtlich nichts. Wer das sieht, macht einen *Shadow test* (*Dread*, 1).
+2. **Die Scheune:** Zwanzig Kranke auf Stroh. Jeder trägt ein Holztäfelchen mit einer Nummer und einem Zeichen für die Gabe, die er bekam. Ein *Healing*-Wurf zeigt: Manche bekommen absichtlich nichts. Wer das sieht, erhält 1 *Shadow*-Punkt (*Dread*).
 3. **Die Schreibstube:** Merricks Tagebuch der Versuche. Ein *Lore*-Wurf findet den Eintrag „Probe sieben: Der Weiße Trank vom Turm wirkt binnen eines Tages.“ Es gibt also ein echtes Gegenmittel. Daneben liegt der Entwurf von Zâkarûns Bericht (Handout).
 4. **Der Keller:** Thalmir, abgemagert und fiebrig, aber bei Verstand. Er weiß, wo der Steg auf der Reiherinsel liegt und wie viele Wachen dort sind: sechs, dazu die Leibwache des Meisters, Männer mit den Tätowierungen der Korsaren.
 5. **Der Brunnen:** Hier wird das Wasser für die Kranken geschöpft. Ein *Scan* findet aufgeschlitzte Kornsäcke im Schlamm, darin graue Körner.
 
-Wer entdeckt wird, bekommt es mit Merrick und sechs Helfern zu tun (Werte wie *orc soldier*, ohne die Orc-Eigenschaften). Merrick selbst kämpft nicht. Er versucht, das Tagebuch zu verbrennen.
+Wer entdeckt wird, bekommt es mit Merrick und sechs Helfern zu tun (*Footpads*). Merrick selbst kämpft nicht. Er versucht, das Tagebuch zu verbrennen.
 
 ### Zâkarûns Bericht (Handout)
 
@@ -229,11 +231,11 @@ Die Grauen Marschen sind ein Labyrinth aus Schilf, Prielen und Inseln, die bei F
 
 ### Ereignisse
 
-- **Schwäne über dem Schilf** (*Joyful Sight*): Bei Sonnenaufgang steigt ein ganzer Zug weißer Schwäne auf und zieht nach Westen, nach Dol Amroth. Wer sich die Zeit nimmt, gewinnt 1 *Hope* zurück. Ein Elb denkt an Edhellond, den verlassenen Hafen seines Volkes jenseits der Bucht.
+- **Schwäne über dem Schilf** (*Joyful Sight*): Bei Sonnenaufgang steigt ein ganzer Zug weißer Schwäne auf und zieht nach Westen, nach Dol Amroth. Gelingt der Wurf, gewinnt jeder in der Gruppe 1 *Hope* zurück. Ein Elb denkt an Edhellond, den Hafen seines Volkes jenseits von Dol Amroth, verlassen, seit das letzte Schiff davon segelte.
 - **Das Boot ohne Licht** (*Chance-meeting*): Ein Nachschubkahn der Helfer kommt aus der Lagune. Die Helden können sich mit *Stealth* im Schilf verbergen, sich in Verkleidung mit *Courtesy* vorbeilügen oder den Kahn überfallen. Bei einem Überfall erfahren sie die Parole für den Steg: „Korn für den Turm.“
-- **Die Mücken** (*Mishap*): Ein *Athletics*-Wurf, um die Nacht durchzurudern. Bei einem Misserfolg kostet sie jeden Helden zusätzliche *Fatigue*.
-- **Verirrt im Schilf** (*Ill Choices*): Nur ohne Lotsen. Ein *Explore*-Wurf; bei einem Misserfolg verlieren die Helden einen halben Tag an die Flut, und Rhaskar holt auf.
-- **Rhaskars Spur** (*Ill Choices*): Die Helden hören hinter sich Ruder. Sie können einen Hinterhalt legen (ein Kampf gegen Rhaskar und zehn Helfer im Schilf) oder weiterfahren, dann wartet Rhaskar im Höhepunkt auf der Insel. Überspringbar: Ohne Verfolgung steht Rhaskar einfach auf der Reiherinsel.
+- **Die Mücken** (*Mishap*): Ein *Athletics*-Wurf, um die Nacht durchzurudern. Bei einem Misserfolg dauert die Fahrt einen halben Tag länger, der Held erhält zusätzliche *Fatigue*, und Rhaskar holt auf.
+- **Verirrt im Schilf** (*Despair*): Nur ohne Lotsen. Nachts zwischen toten Prielen, Lichter über dem Wasser, die keine Laternen sind. Ein *Explore*-Wurf; bei einem Misserfolg erhält jeder in der Gruppe 1 *Shadow*-Punkt (*Dread*), und die Flut kostet sie einen halben Tag.
+- **Rhaskars Spur** (*Ill Choices*): Die Helden hören hinter sich Ruder. Wer den Wurf macht und scheitert, erhält 1 *Shadow*-Punkt (*Dread*). Dann entscheiden sie: Sie können einen Hinterhalt legen (ein Kampf gegen Rhaskar und zehn Helfer im Schilf, *Footpads*) oder weiterfahren, dann wartet Rhaskar im Höhepunkt auf der Insel. Überspringbar: Ohne Verfolgung steht Rhaskar einfach auf der Reiherinsel.
 
 **Hinweis für den Loremaster:** Hat die Gruppe Thalmir befreit, kann er sie führen statt eines Lotsen. Er ist allerdings fiebrig und muss bei jedem Ereignis von einem Helden gestützt werden.
 
@@ -248,8 +250,8 @@ Die Reiherinsel ist eine flache Erhebung im Schilf. Auf ihr steht der Stumpf ein
 1. **Der Steg:** Zwei Wachen und eine Laterne. Mit der Parole („Korn für den Turm“) und Verkleidung genügt ein *Courtesy*-Wurf.
 2. **Das Wachfeuer:** Vier Helfer würfeln. Ein Horn hängt am Pfahl; wer es zuerst erreicht, entscheidet über den Alarm.
 3. **Der Schilfgürtel:** Ein verborgener Zugang an der Nordseite, den Hedras Lotse oder Thalmir kennt. *Stealth* bringt die Helden bis an die Turmmauer.
-4. **Der Turm:** Zâkarûns Stube mit Briefen, Seekarten und einem Korb voller weißer Siegel. Ein *Scan* findet Antworten aus Umbar, in einer Schrift, die kein Mensch in Gondor mehr schreibt: Adûnaïsch. Ein *Lore*-Wurf erkennt die Sprache, lesen kann sie hier niemand.
-5. **Die Fieberküche:** Kessel, Darren mit grauem Korn, Fässer mit Lampenöl. Wer hier ohne Schutz atmet, macht einen *Shadow test* (*Dread*, 2), weil der Ort nach Pest und alter Kunst riecht. Mit dem Öl lässt sich alles in Brand setzen.
+4. **Der Turm:** Zâkarûns Stube mit Briefen, Seekarten und einem Korb voller weißer Siegel. Ein *Scan* findet Antworten aus Umbar, in einer Sprache, die in Gondor niemand mehr schreibt: Adûnaïsch, die alte Sprache Númenors. Ein *Lore*-Wurf erkennt sie, lesen kann sie hier niemand.
+5. **Die Fieberküche:** Kessel, Darren mit grauem Korn, Fässer mit Lampenöl. Wer hier ohne Schutz atmet, erhält 2 *Shadow*-Punkte (*Dread*), weil der Ort nach Pest und alter Kunst riecht. Mit dem Öl lässt sich alles in Brand setzen.
 6. **Die Kammer des Weißen Tranks:** Eine eisenbeschlagene Truhe. Zâkarûn läuft als Erstes hierher, wenn Alarm gegeben wird.
 
 \newpage
@@ -258,12 +260,12 @@ Die Reiherinsel ist eine flache Erhebung im Schilf. Auf ihr steht der Stumpf ein
 
 | Welle | Zeit | Gegner | Was auf dem Spiel steht |
 |---|---|---|---|
-| 1 | Anlandung, Mitternacht | 2 Wachen am Steg (*orc soldier*) | Ob Alarm gegeben wird |
-| 2 | Hof und Turm | 4 Helfer am Wachfeuer (*orc soldier*); Rhaskar und seine Männer, falls er nicht im Schilf besiegt wurde (Rhaskar: *orc chieftain*) | Zâkarûns Briefe im Turm |
-| 3 | Gewölbe | Zâkarûn und seine Leibwache, 4 Korsaren (*orc soldier*) | Ob Zâkarûn die Truhe ins Feuer wirft |
+| 1 | Anlandung, Mitternacht | 2 Wachen am Steg (*Footpads*) | Ob Alarm gegeben wird |
+| 2 | Hof und Turm | 4 Helfer am Wachfeuer (*Highway Robbers*); Rhaskar und seine Männer, falls er nicht im Schilf besiegt wurde (Rhaskar: *Southerner Champion*) | Zâkarûns Briefe im Turm |
+| 3 | Gewölbe | Zâkarûn und seine Leibwache, 4 Korsaren (*Highway Robbers*) | Ob Zâkarûn die Truhe ins Feuer wirft |
 | 4 | Feuer | Die brennende Küche; ein *Athletics*-Wurf je Held, um ins Freie zu kommen | Raus vor dem Einsturz, mit der Truhe |
 
-Alle Gegner sind Menschen: Nimm die Werte ohne die Orc-Eigenschaften. Zâkarûn kämpft nicht mit der Klinge. Er verhandelt, lügt und flieht, wenn er kann. In die Enge getrieben, spricht er ein Wort in alter Sprache, und das Licht der Laternen wird kalt: Jeder Held, der ihn hört, macht einen *Shadow test* (*Sorcery*, 2). Danach ist er fort, durch das Schilf, wenn ihn niemand festhält.
+Alle Gegner sind *Evil Men* aus den *Core Rules*. Zâkarûn kämpft nicht mit der Klinge. Er verhandelt, lügt und flieht, wenn er kann. In die Enge getrieben, spricht er ein Wort in alter Sprache, und das Licht der Laternen wird kalt: Jeder Held, der ihn hört, erhält 2 *Shadow*-Punkte (*Sorcery*). Danach ist er fort, durch das Schilf, wenn ihn niemand festhält.
 
 **Hinweis für den Loremaster:** Kein Alarm bis zur Welle 3 ist ein großer Erfolg. Dann erreicht Zâkarûn die Truhe nicht rechtzeitig, und Welle 2 entfällt ganz oder zum Teil.
 
@@ -283,13 +285,13 @@ Im Morgengrauen kommen die Helden mit der Truhe zurück nach Brandhafen. Am Fuß
 - **Aldis:** „In vier Tagen braue ich genug für ganz Brandhafen. Euer Rat ist weit weg. Meine Kranken sind hier.“
 - **Hedra:** Sie legt einen Beutel Silber auf den Stein. „Ich zahle, und ich verteile. Wer sonst hat Boote für jeden Hof?“ Ein *Insight*-Wurf verrät, dass sie an die zahlen wird, die zahlen können.
 
-Mardion lässt die Truhe nicht ohne Kampf gehen. Wer sie Aldis oder Hedra geben will, muss an ihm und seinen Männern vorbei. Baue Mardion auf der Grundlage von *orc chieftain* und seine Männer auf der von *orc soldier*, jeweils ohne die Orc-Eigenschaften. Fliehen die Helden mit der Truhe, holt er sie am selben Tag ein.
+Mardion lässt die Truhe nicht ohne Kampf gehen. Wer sie Aldis oder Hedra geben will, muss an ihm und seinen Männern vorbei. Nimm für Mardion die Werte eines *Southerner Champion* und für seine Männer die von *Highway Robbers*. Fliehen die Helden mit der Truhe, holt er sie am selben Tag ein.
 
-**Erinnerung für den Loremaster – Schatten:** Einen Hauptmann von Gondor zu töten, der gegen Umbar kämpft, ist eine *Misdeed* der schwersten Art. Vergib *Shadow*-Punkte nach den *Core Rules*. Wer die Truhe für Silber verkauft, macht darüber hinaus einen *Shadow test* (*Greed*).
+**Erinnerung für den Loremaster – Schatten:** Einen Hauptmann von Gondor zu töten, der gegen Umbar kämpft, ist eine *Misdeed* der schwersten Art. Vergib *Shadow*-Punkte nach den *Core Rules*. Wer die Truhe für Silber verkauft, erhält darüber hinaus 1 *Shadow*-Punkt (*Greed*).
 
 ### Status Quo
 
-Die Helden geben die Truhe Mardion. Er nickt, dankt knapp und ist vor Mittag auf dem Weg nach Minas Tirith. Im Rat des Truchsess verstummen Saerlonds Freunde; das Haus schließt still seine Kontore in Pelargir. Die Heiler von Minas Tirith brauen aus der Truhe ein Mittel gegen das Graufieber, doch es kommt erst nach Yule. Im Frühjahr segelt Thorongil gegen Umbar. Ob der Beweis dazu beitrug, erfahren die Helden nie.
+Die Helden geben die Truhe Mardion. Er nickt, dankt knapp und ist vor Mittag auf dem Weg nach Minas Tirith. Im Rat des Truchsess verstummen Saerlonds Freunde; das Haus schließt still seine Kontore in Pelargir. Die Heiler von Minas Tirith brauen aus der Truhe ein Mittel gegen das Graufieber, doch es kommt erst nach Yule. Im folgenden Jahr überfällt Thorongil Umbar. Ob der Beweis dazu beitrug, erfahren die Helden nie.
 
 Bis dahin sterben in Brandhafen Dutzende, darunter Tobbe und die Hälfte von Aldis' Kranken. Im Winter fahren die Koggen der Helfer still davon, als wäre nichts gewesen. Aldis spricht nie wieder mit den Helden.
 
@@ -318,8 +320,9 @@ Welches Ende es auch wird: Umbar verliert eine Küche, aber nicht sein Interesse
 
 ### Fellowship Phase
 
-- Helden mit viel *Shadow* nutzen das *Undertaking* *Heal Scars*.
-- Vergib *Adventure points* und *Skill points* wie gewohnt. Wer im Status-Quo-Ende Aldis' Kranke sterben sah, darf ein Merkmal „vom Fieber gezeichnet“ als *Distinctive Feature* nehmen, wenn der Spieler möchte.
+- Endet das Abenteuer mit der Truhe in Mardions oder Aldis' Händen, darf jeder Held *Shadow*-Punkte nach deinem Ermessen ablegen, wie es die *Core Rules* für einen Erfolg gegen den Schatten vorsehen.
+- Wer *Shadow Scars* davongetragen hat, kann in der *Fellowship Phase* zur Yule-Zeit das *Undertaking* *Heal Scars* wählen.
+- Vergib *Adventure points* und *Skill points* wie gewohnt. Wer im Status-Quo-Ende Aldis' Kranke sterben sah, darf ein Merkmal „vom Fieber gezeichnet“ als *Distinctive Feature* nehmen, wenn der Spieler möchte (Hausregel).
 
 ## Anhang: Wichtige NSCs {#anhang-nscs .nonotes}
 
