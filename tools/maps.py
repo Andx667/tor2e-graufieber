@@ -247,14 +247,14 @@ def weidenhof():
     # Weg nach Osten zur Furt
     s += path(rough([(401, 460), (430, 520), (560, 548), (700, 540), (790, 520)], jit=1.3, seed=690), 1.2)
     s += path(rough([(420, 458), (450, 512), (566, 534), (700, 526), (790, 506)], jit=1.3, seed=691), 1.2)
-    s += label(760, 500, "nach Tharbad · ½ Tag", 17, anchor="end")
+    s += label(760, 500, "nach Brandhafen · ½ Tag", 17, anchor="end")
     # Schleichweg über die eingestürzte Mauer
     if GM:
         s += path(rough([(360, 40), (366, 90), (378, 140), (392, 220), (398, 320)], jit=0.8, seed=700), 1.2, dash="4 4", col=RED)
         s += label(372, 40, "über die Mauer (Stealth)", 15, anchor="start", col=RED)
     s += willows(110, 220, 10, 60, 710) + willows(700, 380, 8, 50, 711) + willows(130, 380, 5, 40, 712)
     s += compass(735, 92)
-    s += cartouche(28, 24, "Der Weidenhof", "Lager der Helfer, Halimath TA 2970" if GM else "von der Weidenreihe aus gesehen", 280)
+    s += cartouche(28, 24, "Der Weidenhof", "Lager der Helfer, Halimath TA 2979" if GM else "von der Weidenreihe aus gesehen", 280)
     s += label(772, 588, "Skizze für den Loremaster · nicht maßstabsgetreu" if GM else "Kohle auf Rinde, eilig gezeichnet", 15, anchor="end", col=BROWN)
     return frame(s, 41)
 
@@ -302,76 +302,79 @@ def reiherinsel():
         s += label(562, 305, "Truhe", 14) + num(614, 298, 6)
         s += label(548, 344, "Gewölbe (unter der Erde)", 13, col=BROWN)
     s += compass(735, 470)
-    s += cartouche(28, 24, "Die Reiherinsel", "in der Swanfleet · Halimath TA 2970" if GM else "wie Hethrin sie beschrieb", 280)
+    s += cartouche(28, 24, "Die Reiherinsel", "in den Grauen Marschen · Halimath TA 2979" if GM else "wie Thalmir sie beschrieb", 280)
     s += label(772, 588, "Skizze für den Loremaster · nicht maßstabsgetreu" if GM else "", 15, anchor="end", col=BROWN)
     return frame(s, 53)
 
 
-# ---------------- Tharbad und die Swanfleet (nur Spieler) ----------------
-def tharbad():
+# ---------------- Brandhafen und die Grauen Marschen (nur Spieler) ----------------
+def brandhafen():
     s = ""
-    MI = 7.6  # Karteneinheiten je Meile: Tharbad – Swanfleet etwa 40 Meilen
-    # Greyflood: von der Swanfleet im Nordosten nach Südwesten
-    river = [(640, 150), (560, 210), (470, 262), (395, 330), (330, 390), (250, 440), (150, 500), (40, 560)]
-    s += path(rough([(x, y - 9) for x, y in river], jit=1.6, seed=1000), 1.5)
-    s += path(rough([(x, y + 9) for x, y in river], jit=1.6, seed=1001), 1.5)
-    s += label(212, 452, "Greyflood", 24, rot=-31)
-    # Mitheithel und Glanduin münden in die Swanfleet
-    s += path(rough([(790, 70), (720, 110), (660, 140)], jit=1.4, seed=1002), 1.3)
-    s += path(rough([(600, 20), (620, 80), (640, 140)], jit=1.4, seed=1003), 1.3)
-    s += label(770, 62, "Mitheithel", 17, anchor="end", rot=-28) + label(586, 44, "Glanduin", 17, anchor="end")
-    # Swanfleet: Sumpf mit Kanälen und Schilf
-    marsh = blob(640, 150, 120, 72, irr=0.18, n=26, seed=1004)
-    s += path(rough(marsh, closed=True, jit=1.8, seed=1005), 1.0, dash="3 4", op=0.7)
-    s += reeds(640, 150, 90, 110, 60, 1006)
-    for k in range(5):
-        s += path(rough([(560 + k * 30, 120 + (k % 2) * 30), (600 + k * 30, 150 + (k % 3) * 18)], jit=1.2, seed=1010 + k), 0.8, op=0.7)
-    s += label(650, 238, "Swanfleet", 26) + label(650, 258, "(Nîn-in-Eilph)", 16, col=BROWN)
-    # Greenway: Nord-Süd über die Furt
-    s += path(rough([(384, 0), (388, 120), (392, 250), (395, 330)], jit=1.4, seed=1020), 1.3)
-    s += path(rough([(395, 330), (420, 430), (450, 540), (470, 600)], jit=1.4, seed=1021), 1.3)
-    s += label(400, 40, "der Greenway · nach Bree", 18, anchor="start")
-    s += label(486, 590, "nach Dunland und Isengard", 17, anchor="start")
-    # Tharbad: Ruinen und die gebrochene Brücke
-    for k, (x, y) in enumerate([(360, 300), (378, 286), (420, 352), (436, 340), (350, 322)]):
-        s += house(x - 6, y - 5, 12, 10, 1030 + k, lw=1.2)
-    s += path(rough([(381, 318), (390, 330)], jit=0.4, seed=1040), 3.0) + path(rough([(400, 338), (408, 346)], jit=0.4, seed=1041), 3.0)
-    s += label(330, 300, "Tharbad", 26, anchor="end") + label(330, 320, "die Ruinen an der Furt", 15, anchor="end", col=BROWN)
-    # Weidenhof im Westen
-    s += house(186, 290, 18, 14, 1050, lw=1.4)
-    s += path(rough([(204, 300), (280, 310), (360, 312)], jit=1.0, seed=1051), 1.0, dash="4 4")
-    s += label(195, 276, "Weidenhof", 17)
-    s += willows(150, 330, 5, 30, 1052)
-    # Landschaften
-    s += label(160, 170, "Minhiriath", 30, col=BROWN) + label(560, 470, "Enedwaith", 28, col=BROWN)
-    s += willows(500, 130, 6, 50, 1060) + trees(110, 110, 10, 50, 1061) + trees(620, 420, 8, 50, 1062)
+    MI = 18  # Karteneinheiten je Meile: Brandhafen – Reiherinsel etwa 20 Meilen
+    # Küste: Land oben, die Bucht von Belfalas unten
+    coast = [(0, 410), (90, 420), (180, 400), (260, 420), (300, 440), (340, 426), (420, 400),
+             (520, 404), (620, 396), (720, 410), (800, 400)]
+    sea = coast + [(800, 600), (0, 600)]
+    s += path(rough(sea, closed=True, jit=1.2, seed=1100), 0.1, fill=WATER, op=0.45)
+    s += path(rough(coast, jit=1.6, seed=1101), 1.8)
+    s += waves(20, 470, 780, 580, 70, 1102)
+    s += label(560, 540, "Bucht von Belfalas", 30, col=BROWN)
+    # Graue Marschen: Lagune hinter einer Nehrung östlich des Ortes
+    lagoon = blob(590, 352, 200, 44, irr=0.16, n=30, seed=1103)
+    s += path(rough(lagoon, closed=True, jit=1.4, seed=1104), 1.0, fill=WATER, op=0.6)
+    s += reeds(590, 340, 120, 190, 40, 1105) + reeds(470, 300, 25, 50, 20, 1106) + reeds(720, 300, 25, 50, 20, 1107)
+    for k in range(6):
+        s += path(rough([(420 + k * 60, 330 + (k % 2) * 30), (460 + k * 60, 360 + (k % 3) * 10)], jit=1.2, seed=1110 + k), 0.8, op=0.7)
+    s += label(600, 268, "die Grauen Marschen", 26)
+    # Brandbach von Norden in den Hafen
+    s += path(rough([(390, 0), (350, 120), (300, 260), (300, 360), (304, 432)], jit=1.4, seed=1120), 1.3)
+    s += path(rough([(406, 0), (366, 120), (316, 260), (316, 360), (322, 432)], jit=1.4, seed=1121), 1.3)
+    s += label(318, 220, "Brandbach", 18, rot=-62)
+    # Brandhafen: Mole, Ruinen, Hafenturm
+    s += path(rough([(322, 436), (352, 470), (372, 472)], jit=0.8, seed=1130), 3.0)
+    for k, (x, y) in enumerate([(330, 392), (346, 404), (276, 400), (288, 386), (340, 376), (262, 418)]):
+        s += house(x - 6, y - 5, 12, 10, 1131 + k, lw=1.2)
+    s += f'<circle cx="374" cy="470" r="6" fill="#d9c69e" stroke="{INK}" stroke-width="1.6"/>'
+    s += label(180, 296, "Brandhafen", 26) + label(180, 314, "der verbrannte Hafen", 15, col=BROWN)
+    s += path(rough([(200, 322), (250, 352), (270, 384)], jit=0.6, seed=1135), 0.8, dash="2 3")
+    # Küstenstraße von Dol Amroth nach Linhir, über die Furt
+    road = [(0, 330), (120, 345), (220, 365), (306, 372), (400, 300), (520, 240), (660, 220), (800, 200)]
+    s += path(rough(road, jit=1.2, seed=1140), 1.2) + path(rough([(x, y + 12) for x, y in road], jit=1.2, seed=1141), 1.2)
+    s += label(20, 372, "nach Dol Amroth", 17, anchor="start") + label(785, 186, "nach Linhir", 17, anchor="end")
+    s += path(rough([(296, 368), (322, 374)], jit=0.4, seed=1142), 1.0, dash="2 2")
+    # Weidenhof landeinwärts
+    s += house(150, 196, 18, 14, 1150, lw=1.4)
+    s += path(rough([(168, 206), (230, 260), (300, 368)], jit=1.0, seed=1151), 1.0, dash="4 4")
+    s += label(160, 186, "Weidenhof", 17) + willows(120, 240, 5, 30, 1152)
+    s += label(470, 110, "Belfalas", 32, col=BROWN)
+    s += trees(620, 110, 9, 50, 1160) + trees(90, 110, 8, 40, 1161) + willows(480, 180, 5, 40, 1162)
     # Maßstab
-    x0, y0 = 560, 360
-    s += path(f"M{x0} {y0} L{x0 + 20 * MI} {y0}", 1.6)
-    for m in (0, 10, 20):
+    x0, y0 = 40, 552
+    s += path(f"M{x0} {y0} L{x0 + 10 * MI} {y0}", 1.6)
+    for m in (0, 5, 10):
         s += path(f"M{x0 + m * MI} {y0 - 6} L{x0 + m * MI} {y0 + 6}", 1.4)
         s += label(x0 + m * MI, y0 + 22, f"{m}", 15)
-    s += path(f"M{x0} {y0} L{x0 + 10 * MI} {y0}", 4, op=0.8)
-    s += label(x0 + 20 * MI + 12, y0 + 5, "Meilen", 15, anchor="start")
-    s += compass(735, 520)
-    s += cartouche(28, 24, "Tharbad und die Swanfleet", "wie Tobbe sie beschreibt", 300)
+    s += path(f"M{x0} {y0} L{x0 + 5 * MI} {y0}", 4, op=0.8)
+    s += label(x0 + 10 * MI + 12, y0 + 5, "Meilen", 15, anchor="start")
+    s += compass(745, 520)
+    s += cartouche(28, 24, "Brandhafen", "und die Grauen Marschen, wie Tobbe sie beschreibt", 330)
     return frame(s, 67)
 
 
 # ---------------- Routendiagramm (Überblick) ----------------
 def route():
     """Senkrechter Stapel der Stationen, Reisezeiten an den Pfeilen, Höhepunkt rot,
-    Dregors Verfolgung gestrichelt rot. Sauber gezeichnet, nicht von Hand."""
+    Rhaskars Verfolgung gestrichelt rot. Sauber gezeichnet, nicht von Hand."""
     font = "font-family=\"TeX Gyre Pagella\""
     grey, line, red, ink = "#6f665c", "#9a9088", "#7a2a1f", "#2b2420"
     bw, bh, gap, x0, top = 250, 48, 28, 40, 14
-    stages = [("Tharbad", "Calenmir · Aldis · die Räumung"),
+    stages = [("Brandhafen", "Mardion · Aldis · die Räumung"),
               ("Die Schilfbrüder", "Vertrauen · Fieberrinde · ein Boot"),
               ("Die Lager", "Furtlager oder Weidenhof · Beweise"),
-              ("Fahrt zur Reiherinsel", "Swanfleet · zwei Tage"),
-              ("Das Labor", "Fieberküche · Vorlunds Truhe"),
-              ("Die Wahl", "Calenmir, Aldis oder Hedra")]
-    legs = ["nächster Morgen", "Reihenfolge frei", "sofort", "zwei Tage", "bis Morgengrauen"]
+              ("Fahrt zur Reiherinsel", "Graue Marschen · ein Tag"),
+              ("Das Labor", "Fieberküche · Zâkarûns Truhe"),
+              ("Die Wahl", "Mardion, Aldis oder Hedra")]
+    legs = ["nächster Morgen", "Reihenfolge frei", "sofort", "ein Tag", "bis Morgengrauen"]
     Hs = top * 2 + len(stages) * bh + (len(stages) - 1) * gap
     Ws = 420
     cx = x0 + bw / 2
@@ -395,7 +398,7 @@ def route():
     y3, y5 = ys[2] + bh / 2, ys[4] + bh / 2
     px = x0 + bw + 50
     out.append(f'<path d="M{x0 + bw} {y3} H{px} V{y5} H{x0 + bw + 3}" fill="none" stroke="{red}" stroke-width="1.2" stroke-dasharray="5 4" marker-end="url(#r)"/>')
-    out.append(f'<text x="{px + 8}" y="{(y3 + y5) / 2 - 4}" {font} font-style="italic" font-size="11" fill="{red}">Dregor</text>')
+    out.append(f'<text x="{px + 8}" y="{(y3 + y5) / 2 - 4}" {font} font-style="italic" font-size="11" fill="{red}">Rhaskar</text>')
     out.append(f'<text x="{px + 8}" y="{(y3 + y5) / 2 + 10}" {font} font-style="italic" font-size="11" fill="{red}">verfolgt</text>')
     out.append("</svg>")
     return "\n".join(out), Ws * 4, Hs * 4
@@ -409,7 +412,7 @@ if __name__ == "__main__":
         suf = "" if gm else "-players"
         jobs += [("map-weidenhof" + suf, weidenhof()), ("map-reiherinsel" + suf, reiherinsel())]
     GM = False
-    jobs.append(("map-tharbad-players", tharbad()))
+    jobs.append(("map-brandhafen-players", brandhafen()))
     from PIL import Image
     with sync_playwright() as p:
         b = p.chromium.launch()

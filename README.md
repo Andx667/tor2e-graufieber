@@ -1,10 +1,11 @@
 # Graufieber
 
-Ein Abenteuer für *The One Ring, 2nd Edition* · Tharbad und Swanfleet, Spätsommer TA 2970.
+Ein Abenteuer für *The One Ring, 2nd Edition* · Küste von Belfalas, Spätsommer TA 2979.
 
-Ein One-Shot für 3–4 Spieler (4–5 Stunden), auch als Seitenabenteuer in „Gilraen's Watch“
-spielbar. Die Handlung ist frei nach dem Arma-3-Szenario *Old Man* erzählt: Sarumans „Helfer“
-säen in Tharbad ein Fieber, und am Ende entscheiden die Helden, wer das einzige Gegenmittel bekommt.
+Ein One-Shot für 3–4 Spieler (4–5 Stunden) im Süden von Gondor. Die Handlung ist frei nach dem
+Arma-3-Szenario *Old Man* erzählt: Die „Helfer“ eines Handelshauses, hinter dem ein Schwarzer
+Númenórer aus Umbar steht, säen in einem Hafenort an der Küste von Belfalas ein Fieber, und am Ende
+entscheiden die Helden, wer das einzige Gegenmittel bekommt.
 
 Dieses Repository enthält den Text des Abenteuers und die Pipeline, die daraus die
 Druckfassung baut. Sie ist von [tor2e-finsterwacht](https://github.com/Andx667/tor2e-finsterwacht)
@@ -90,5 +91,6 @@ Code, Layout, Karten und der eigene Text stehen unter der MIT-Lizenz, siehe [LIC
 
 ## Geschichte
 
-Der erste Entwurf entstand als Claude-Doc. Ab Version 1.0 ist dieses Repository die
-maßgebliche Quelle.
+Der erste Entwurf entstand als Claude-Doc (noch in Tharbad, mit Saruman als Gegenspieler).
+Version 1.0 übernahm diese Fassung; ab Version 1.1 spielt das Abenteuer an der Küste von Belfalas.
+Dieses Repository ist die maßgebliche Quelle.
