@@ -203,7 +203,7 @@ Wenn die Helden ihr Anliegen vorbringen, ist das ein Rat nach den *Core Rules*. 
 - Dazu den Ort, an den die Boote ohne Licht fahren: *bold request*, *Resistance* 6. Wer das verrät, macht sich Rhaskar zum Feind.
 - Dazu ein Boot und einen Lotsen bis an die Reiherinsel: *outrageous request*, *Resistance* 9. Sie soll ihre Leute in die Höhle des Gegners schicken.
 
-**Haltung:** Hedra ist *reluctant*, solange die Helden ihr nichts gebracht haben. Nach einem erfüllten Auftrag ist sie *open*, nach zweien *friendly*. Eine Lüge, die sie durchschaut, kostet eine Stufe.
+**_Attitude_:** Hedra ist *reluctant*, solange die Helden ihr nichts gebracht haben. Nach einem erfüllten Auftrag ist sie *open*, nach zweien *friendly*. Eine Lüge, die sie durchschaut, kostet eine Stufe.
 
 **Introduction:** Höflichkeit hält Hedra für Zollbeamtengerede. *Awe* wirkt bei ihr, ebenso ein *Riddle*-Wurf, der ihre Sprache spricht. Das Ergebnis bestimmt wie üblich das *time limit*.
 
@@ -214,7 +214,7 @@ Wenn die Helden ihr Anliegen vorbringen, ist das ein Rat nach den *Core Rules*. 
 - Ihr Bruder Kesse, wenn die Helden ihn befreit haben (*Persuade*, *favoured*).
 - Was sie wirklich will, erkennt ein *Insight*-Wurf: nicht Rache, sondern ihren Anteil am Handel.
 
-Sagen die Helden, dass der Truchsess sie schickt, wird Hedra misstrauisch, denn sie schmuggelt am Zoll von Dol Amroth vorbei: Ihre Haltung sinkt um eine Stufe. Versprechen sie ihr im selben Atemzug Fürsprache beim Truchsess, steigt sie stattdessen um eine.
+Sagen die Helden, dass der Truchsess sie schickt, wird Hedra misstrauisch, denn sie schmuggelt am Zoll von Dol Amroth vorbei: Ihre *Attitude* sinkt um eine Stufe. Versprechen sie ihr im selben Atemzug Fürsprache beim Truchsess, steigt sie stattdessen um eine.
 
 **Ausgang:**
 
