@@ -377,7 +377,7 @@ def route():
     bw, bh, gap, x0, top = 250, 40, 22, 40, 12
     stages = [("Nach Süden", "Auftrag des Truchsess · Pelargir · Linhir"),
               ("Brandhafen", "Mardion · Aldis · die Räumung"),
-              ("Die Schilfbrüder", "Vertrauen · Fieberrinde · ein Boot"),
+              ("Die Schilfbrüder", "Aufträge · Rat um Rinde und Boot"),
               ("Die Lager", "Furtlager oder Weidenhof · Beweise"),
               ("Fahrt zur Reiherinsel", "Graue Marschen · ein Tag"),
               ("Das Labor", "Fieberküche · Zâkarûns Truhe"),

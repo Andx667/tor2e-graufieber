@@ -16,7 +16,7 @@ Im Spätsommer TA 2979 geht in Brandhafen, einem kleinen Fischerdorf an der Küs
 
 1. [**Nach Süden**](#teil1) – der Auftrag des Truchsesses, neun Tage Reise.
 2. [**Brandhafen**](#teil2) – Mardion, Aldis, die Räumung.
-3. [**Die Schilfbrüder**](#teil3) – Vertrauen, Fieberrinde, ein Boot.
+3. [**Die Schilfbrüder**](#teil3) – Aufträge und ein Rat um Rinde und Boot.
 4. [**Die Lager**](#teil4) – Beweise, verkleidet oder heimlich.
 5. [**Fahrt zur Reiherinsel**](#teil5) – ein Tag durch die Marschen.
 6. [**Das Labor**](#hoehepunkt) – Fieberküche und Zâkarûns Truhe.
@@ -86,7 +86,7 @@ Im Wedmath bittet Mardion den Truchsess um Fremde, die am Hof niemand kennt. Ect
 |---|---|---|---|
 | 1–9 | 22.–30. Wedmath | Minas Tirith bis Linhir | Aufbruch und Reise nach Süden. |
 | 10 | 1. Halimath | Brandhafen | Ankunft an der Furt, Treffen mit Mardion, Aldis' Spital. Nachts: die Räumung. |
-| 11 | 2. Halimath | Rand der Marschen | Die Schilfbrüder, zwei Aufträge. |
+| 11 | 2. Halimath | Rand der Marschen | Die Schilfbrüder: Aufträge und Rat. |
 | 12 | 3. Halimath | Furtlager oder Weidenhof | Beweise. Danach nimmt Rhaskar die Verfolgung auf. |
 | 13 | 4. Halimath | Graue Marschen | Fahrt zur Reiherinsel. |
 | 14 | Nacht zum 5. Halimath | Reiherinsel | Überfall auf das Labor. |
@@ -183,18 +183,9 @@ Aldis braucht Fieberrinde, und die Helden brauchen jemanden, der die Grauen Mars
 
 Hedra hat einen verstümmelten Daumen, ein gutes Gedächtnis und keine Geduld. Sie hält die Helden für Spitzel, bis sie das Gegenteil beweisen. „Ihr wollt Rinde? Jeder will Rinde. Was bringt ihr?“
 
-**Hausregel – Vertrauen der Schilfbrüder:**
-
-- Das Vertrauen beginnt bei 0. Jeder erfüllte Auftrag gibt +1. Eine Lüge, die Hedra durchschaut, oder ein Verrat an die Helfer gibt −1.
-- Bei 1 nennt Hedra die Reiherinsel: „Dorthin fahren die Boote ohne Licht.“
-- Bei 2 liefert sie Fieberrinde für Aldis, genug bis zum Ende des Abenteuers; von da an stirbt keiner ihrer Kranken mehr.
-- Bei 3 stellt sie ein Boot und einen Lotsen für die Marschen (Teil 5).
-
-Wer die Hausregel nicht möchte, lässt Hedra nach zwei erfolgreichen Aufträgen einfach alles herausgeben.
-
 ### Aufträge
 
-Hedra bietet drei Aufträge an. Für einen One-Shot reichen zwei.
+Hedra redet erst über Rinde und Boote, wenn die Helden ihr etwas gebracht haben. Sie bietet drei Aufträge an; jeder erfüllte macht sie im Rat zugänglicher. Für einen One-Shot reichen einer oder zwei.
 
 1. **Der Kornkahn:** Nachts überfallen die Helden einen Lastkahn der Helfer in der Bachmündung. An Bord sind sechs Wachen (*Footpads*) und vierzig Kornsäcke mit weißem Siegel. Ein *Lore*-Wurf zeigt graue, bitter riechende Körner zwischen dem guten Korn. Ein Sack ist ein Beweis, aber er nennt keinen Namen.
 2. **Kesse im Stock:** Hedras Bruder Kesse sitzt im Stock an der Hafenwache und soll als „Brunnenvergifter“ gehenkt werden. Ihn zu befreien verlangt *Stealth* oder eine *Riddle*-List. In Verkleidung geht es ganz ohne Kampf (siehe Kasten).
@@ -202,11 +193,39 @@ Hedra bietet drei Aufträge an. Für einen One-Shot reichen zwei.
 
 **Erinnerung für den Loremaster – Verkleidung:** Die weißen Binden der Helfer lassen sich stehlen oder von Tobbe borgen. Wer eine trägt, kommt mit einem *Courtesy*-Wurf an Posten vorbei, mit einer *Riddle*-Lüge auch durch Nachfragen. Zwerge, Elben und Hobbits fallen unter den Seeleuten auf: Ihre Würfe sind *ill-favoured*. Wird ein Verkleideter erkannt, schlägt der Posten Alarm.
 
-**Wenn sie trotzdem gehen:** Verweigern die Helden Hedra jeden Dienst, finden sie die Reiherinsel über das Kornbuch oder Thalmir (Teil 4) und fahren mit Tobbes Kahn, ohne Lotsen.
+### Rat in der Schwanenwehr
+
+Wenn die Helden ihr Anliegen vorbringen, ist das ein Rat nach den *Core Rules*. Hedra sitzt auf einem umgedrehten Boot, ihre Leute stehen im Schilf und hören zu.
+
+**Resistance:** Sie richtet sich danach, worum die Helden bitten.
+
+- Fieberrinde für Aldis: *reasonable request*, *Resistance* 3. Hedra verliert nichts, sie verdient sogar.
+- Dazu den Ort, an den die Boote ohne Licht fahren: *bold request*, *Resistance* 6. Wer das verrät, macht sich Rhaskar zum Feind.
+- Dazu ein Boot und einen Lotsen bis an die Reiherinsel: *outrageous request*, *Resistance* 9. Sie soll ihre Leute in die Höhle des Gegners schicken.
+
+**Haltung:** Hedra ist *reluctant*, solange die Helden ihr nichts gebracht haben. Nach einem erfüllten Auftrag ist sie *open*, nach zweien *friendly*. Eine Lüge, die sie durchschaut, kostet eine Stufe.
+
+**Introduction:** Höflichkeit hält Hedra für Zollbeamtengerede. *Awe* wirkt bei ihr, ebenso ein *Riddle*-Wurf, der ihre Sprache spricht. Das Ergebnis bestimmt wie üblich das *time limit*.
+
+**Interaction:** Was zieht:
+
+- Aldis' Kranke, ehrlich geschildert (*Enhearten*).
+- Der Hafen, den sie zurückbekommt, wenn die Helfer fallen (*Persuade*).
+- Ihr Bruder Kesse, wenn die Helden ihn befreit haben (*Persuade*, *favoured*).
+- Was sie wirklich will, erkennt ein *Insight*-Wurf: nicht Rache, sondern ihren Anteil am Handel.
+
+Sagen die Helden, dass der Truchsess sie schickt, wird Hedra misstrauisch, denn sie schmuggelt am Zoll von Dol Amroth vorbei: Ihre Haltung sinkt um eine Stufe. Versprechen sie ihr im selben Atemzug Fürsprache beim Truchsess, steigt sie stattdessen um eine.
+
+**Ausgang:**
+
+- **Erfolg:** Hedra gewährt, worum die Helden gebeten haben. Fieberrinde hält Aldis' Kranke bis zum Ende des Abenteuers am Leben; der Ort ist der alte Reiherturm; Boot und Lotse warten am nächsten Morgen.
+- **Scheitern:** Die Helden bekommen nichts, oder sie wählen den Erfolg mit Preis: Hedra gewährt alles, aber die Helden schulden ihr etwas. Sie wird es in der Wahl einfordern.
+
+**Wenn sie trotzdem gehen:** Verweigern die Helden Hedra jeden Dienst oder scheitert der Rat, finden sie die Reiherinsel über das Kornbuch oder Thalmir (Teil 4) und fahren mit Tobbes Kahn, ohne Lotsen.
 
 ### Die Insel der Reiher (optional)
 
-Ist das Vertrauen hoch, erzählt Hedra am Feuer von dem Turm, den ihre Großmutter mied. Dort sollen die Wächter der Könige an einer Seuche gestorben sein, als die Korsaren zum ersten Mal kamen. Seit zwei Jahren brennt nachts Licht darin, und kein Reiher nistet mehr dort. Überspringbar
+Ist Hedra den Helden *friendly* gesinnt, erzählt sie am Feuer von dem Turm, den ihre Großmutter mied. Dort sollen die Wächter der Könige an einer Seuche gestorben sein, als die Korsaren zum ersten Mal kamen. Seit zwei Jahren brennt nachts Licht darin, und kein Reiher nistet mehr dort. Überspringbar
 
 ## Teil 4: Die Lager {#teil4}
 
@@ -246,7 +265,7 @@ Der Kornweg wirkt, wie wir es vorhergesagt haben. Siebzehn Höfe, vierzehn befal
 
 ## Teil 5: Fahrt zur Reiherinsel {#teil5}
 
-**Route:** Von Brandhafen mit dem Boot durch die Lagune der Grauen Marschen nach Osten, etwa 20 Meilen durch Schilf und Priele, ein Tag. Die Marschen zählen als *Wild Land*. Mit Hedras Lotsen (Vertrauen 3) wählst du zwei Ereignisse aus der Liste. Ohne Lotsen kommt „Verirrt im Schilf“ dazu.
+**Route:** Von Brandhafen mit dem Boot durch die Lagune der Grauen Marschen nach Osten, etwa 20 Meilen durch Schilf und Priele, ein Tag. Die Marschen zählen als *Wild Land*. Mit Hedras Lotsen (aus dem Rat in Teil 3) wählst du zwei Ereignisse aus der Liste. Ohne Lotsen kommt „Verirrt im Schilf“ dazu.
 
 Die Grauen Marschen sind ein Labyrinth aus Schilf, Prielen und Inseln, die bei Flut verschwinden. Schwäne ziehen darüber, und Mücken stehen wie Rauch über dem Wasser. Hinter den Helden ist Rhaskar mit einem schnellen Boot und zehn Mann.
 
@@ -305,7 +324,7 @@ Am Abend nach dem Überfall kommen die Helden mit der Truhe zurück nach Brandha
 
 - **Mardion** und drei Bewaffnete des Truchsesses: „Mit diesem Beweis glaubt der Rat. Ohne ihn segelt Umbar im Frühjahr an diese Küste und brennt jeden Hafen von hier bis Pelargir. Zwölf Leben gegen tausend.“ Er reitet noch heute Nacht und ist bereit, die Truhe mit dem Schwert zu nehmen.
 - **Aldis:** „In vier Tagen braue ich genug für ganz Brandhafen. Euer Rat ist weit weg. Meine Kranken sind hier.“
-- **Hedra:** Sie legt einen Beutel Silber auf den Stein. „Ich zahle, und ich verteile. Wer sonst hat Boote für jeden Hof?“ Ein *Insight*-Wurf verrät, dass sie an die zahlen wird, die zahlen können.
+- **Hedra:** Sie legt einen Beutel Silber auf den Stein. „Ich zahle, und ich verteile. Wer sonst hat Boote für jeden Hof?“ Ein *Insight*-Wurf verrät, dass sie an die zahlen wird, die zahlen können. Schulden die Helden ihr aus dem Rat noch etwas, fordert sie es jetzt ein: die Truhe.
 
 **Wenn sie teilen wollen:** Die Spieler werden fragen, ob nicht alle etwas bekommen. Das Rezept dürfen sie abschreiben, aber Mardion und Aldis brauchen beide alle zwölf Phiolen. Warten kann Mardion nicht: Die Helfer, die von der Insel geflohen sind, warnen Pelargir binnen Tagen. „In vier Tagen räumt das Haus seine Kontore, und Saerlonds Freunde haben ihre Antwort fertig. Dann zeigt mein Beweis auf leere Räume.“ Lass die Spieler weitersuchen, solange sie wollen; jeder Weg endet bei derselben Truhe.
 
