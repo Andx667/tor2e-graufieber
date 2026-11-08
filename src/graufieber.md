@@ -102,6 +102,8 @@ Das Abenteuer beginnt auf der Straße. Die Helden haben ihren Auftrag schon: Ect
 - **Warum Fremde:** „Das Haus Saerlond hat Freunde in diesem Turm. Jeden Hauptmann, den ich schicke, kennen sie, ehe er Pelargir erreicht. Euch kennt niemand.“
 - **Der Lohn:** Pferde, Silber für die Reise und ein Lohn nach der Rückkehr (*Treasure* nach deinem Ermessen). Einen Geleitbrief gibt es nicht: „Ein Siegel des Truchsesses ist in Brandhafen ein Todesurteil.“
 
+**Wer die Helden sind:** Ecthelion braucht Leute, die am Hof niemand kennt. Bree-Leute, Bardinger und Rohirrim sind ohnehin Fremde in Gondor; Gondorer passen, wenn sie aus einem fernen Lehen wie Anfalas oder Lamedon stammen und nie in der Zitadelle gedient haben. Ein Satz pro Held genügt, warum er gerade in Minas Tirith war.
+
 ### Mardions Bericht (Handout)
 
 ::: {.letter #mardion}
@@ -130,10 +132,10 @@ Die Helden kommen am 1. Halimath, müde von der Straße. Am Ende von Teil 2 kenn
 
 ### An der Furt
 
-Wo die Küstenstraße den Brandbach quert, sperrt ein Schlagbaum den Weg. Vier Helfer mit weißen Binden prüfen jeden Reisenden auf Fieber. Sie bieten einen Becher Weißen Trank an, „zum Schutz“. Für Gesunde ist er harmlos, aber wer ihn trinkt, gilt als Freund und wird nicht durchsucht.
+Wo die Küstenstraße den Brandbach quert, sperrt ein Schlagbaum den Weg. Vier Helfer mit weißen Binden prüfen jeden Reisenden auf Fieber. Sie bieten einen Becher Weißen Trank an, „zum Schutz“. Für Gesunde ist er harmlos, und wer ihn trinkt, gilt als Freund.
 
 - Ein *Insight*-Wurf zeigt: Die höflichen Wachen sind Seeleute, keine Söldner. Sie gehen breitbeinig, haben Teer unter den Nägeln und warten auf einen Vorwand.
-- Ein *Courtesy*-Wurf bringt die Helden ohne Durchsuchung durch. Bei einem Misserfolg nehmen die Wachen ihnen auffällige Waffen „bis zur Abreise“ ab.
+- Ein *Courtesy*-Wurf bringt die Helden ohne Aufsehen durch. Bei einem Misserfolg werden ihre Bündel durchsucht, aber ihre Waffen behalten sie: Das Haus will freundlich wirken. Von da an hat ein Helfer sie stets im Blick.
 - Mit einem *Scan* sehen die Helden Kornsäcke, mit weißem Siegelwachs verschnürt, das ein Schiff unter einem Stern zeigt. Die Säcke warten auf einem Karren, der ins Hinterland fährt.
 
 ### Der Mann, der die Möwen füttert
@@ -142,7 +144,7 @@ Mardion sitzt im Fischermantel auf dem Stumpf des alten Hafenturms und füttert 
 
 Er weiß Folgendes: Jeder Hof, der Weißkorn bekam, bekam drei Wochen später das Fieber. Die schwersten Fälle bringen die Helfer zum Weidenhof, einen halben Tag landeinwärts. Nachts fahren Boote ohne Licht in die Grauen Marschen. Sein Späher Thalmir wollte sich den Weidenhof ansehen und kam nicht zurück.
 
-Er will zwei Dinge: einen Beweis, der Umbar nennt, und den Ort, an dem das Fieber gemacht wird. „Saerlond hat Freunde im Rat. Ohne Beweis ist es mein Wort gegen ein Haus, das halb Belfalas gefüttert hat. Das reicht nicht.“ Was der Truchsess versprochen hat, bestätigt er; nach Methoden fragt er nicht. Er selbst bleibt unsichtbar; seine drei Männer beobachten Straße und Hafen.
+Er will zwei Dinge: den Ort, an dem das Fieber gemacht wird, und einen Beweis, den Saerlonds Freunde nicht wegreden können. „Briefe kann man fälschen, und sie werden jeden Brief eine Fälschung nennen. Wer ein Fieber macht, hat auch ein Mittel dagegen, sonst stürben seine eigenen Leute. Bringt mir das Mittel.“ Was der Truchsess versprochen hat, bestätigt er; nach Methoden fragt er nicht. Er selbst bleibt unsichtbar; seine drei Männer beobachten Straße und Hafen.
 
 ### Aldis' Spital
 
@@ -154,6 +156,15 @@ Im alten Zollhaus pflegt die Kräuterfrau Aldis zwölf Kranke. Sie ist müde, sc
 
 Ihre Fieberrinde reicht noch für heute. Mehr haben nur die Schilfbrüder.
 
+**Hausregel – Graufieber bei Helden:**
+
+- Anstecken kann sich, wer Brot aus Weißkorn isst oder in der Fieberküche ohne Tuch vor dem Mund atmet. Ein *Healing*- oder *Lore*-Wurf vor dem Essen erkennt die grauen Körner. Wer nur Fisch isst, ist sicher.
+- Vom Brot bricht das Fieber erst nach drei Wochen aus, also nach dem Abenteuer. Die Dämpfe der Küche wirken schneller: am nächsten Morgen.
+- Ein kranker Held ist *Weary*, bis er geheilt ist. Bekommt er an einem Tag keine Fieberrinde, ist er an diesem Tag zusätzlich *Miserable*.
+- Heilen kann ihn nur eine Phiole Silberner Trank, und jede Phiole, die ein Held trinkt, fehlt Aldis' Ansatz oder Mardions Beweis.
+
+Die Hausregel nutzt die Zustände *Weary* und *Miserable* aus den *Core Rules*. Wer keine kranken Helden möchte, lässt die Regel weg: Mit drei Wochen Ausbruchszeit erkrankt ohnehin niemand vor dem Ende.
+
 ### Die Räumung
 
 In der ersten Nacht kommt Rhaskar mit acht Helfern, um Aldis' Kranke „zu ihrem Schutz“ ins Furtlager zu bringen. Aldis bittet die Helden, die Kranken in die Keller unter dem Zollhaus zu schaffen.
@@ -161,6 +172,8 @@ In der ersten Nacht kommt Rhaskar mit acht Helfern, um Aldis' Kranke „zu ihrem
 - **Hinhalten:** *Persuade* oder *Courtesy*. Jeder Erfolg verschafft Zeit für zwei Tragen.
 - **Wegtragen:** leise, mit *Stealth* und *Athletics*.
 - **Kämpfen:** möglich, aber laut. Die Helfer haben die Werte von *Footpads*, Rhaskar die eines *Southerner Champion*. Er zieht sich nach zwei Runden zurück und merkt sich die Gesichter.
+
+Wen Rhaskar in dieser Nacht gesehen hat, der würfelt in Verkleidung *ill-favoured*. Fällt Rhaskar, übernimmt sein Steuermann Karsk seine Rolle in allen späteren Szenen, mit denselben Werten.
 
 Danach ist Aldis eine Geächtete, und die Helden sind verdächtig.
 
@@ -177,7 +190,7 @@ Danach ist Aldis eine Geächtete, und die Helden sind verdächtig.
 
 ## Teil 3: Die Schilfbrüder {#teil3}
 
-Aldis braucht Fieberrinde, und die Helden brauchen jemanden, der die Grauen Marschen kennt. Beides haben nur die Schilfbrüder. Den Weg zu ihnen kennt Tobbe, der alte Fährmann, der seine weiße Binde nur trägt, um sein Boot zu behalten. Er bringt die Helden im Morgennebel zur Schwanenwehr, einem halb versunkenen Wehr am Rand der Lagune. Unterwegs zeichnet er ihnen die Gegend in den Sand: Gib den Spielern die Karte von Brandhafen und den Grauen Marschen (Handout).
+Aldis braucht Fieberrinde, und die Helden brauchen jemanden, der die Grauen Marschen kennt. Beides haben nur die Schilfbrüder. Gehen die Helden nicht von selbst zu ihnen, lässt Hedra ihnen nach der Räumung ausrichten, wer sich mit Rhaskar anlege, dürfe an der Schwanenwehr reden. Lehnen sie ab, bleibt es dabei. Den Weg zu ihnen kennt Tobbe, der alte Fährmann, der seine weiße Binde nur trägt, um sein Boot zu behalten. Er bringt die Helden im Morgennebel zur Schwanenwehr, einem halb versunkenen Wehr am Rand der Lagune. Unterwegs zeichnet er ihnen die Gegend in den Sand: Gib den Spielern die Karte von Brandhafen und den Grauen Marschen (Handout).
 
 ### Hedra Schilfhand
 
@@ -189,9 +202,9 @@ Hedra redet erst über Rinde und Boote, wenn die Helden ihr etwas gebracht haben
 
 1. **Der Kornkahn:** Nachts überfallen die Helden einen Lastkahn der Helfer in der Bachmündung. An Bord sind sechs Wachen (*Footpads*) und vierzig Kornsäcke mit weißem Siegel. Ein *Lore*-Wurf zeigt graue, bitter riechende Körner zwischen dem guten Korn. Ein Sack ist ein Beweis, aber er nennt keinen Namen.
 2. **Kesse im Stock:** Hedras Bruder Kesse sitzt im Stock an der Hafenwache und soll als „Brunnenvergifter“ gehenkt werden. Ihn zu befreien verlangt *Stealth* oder eine *Riddle*-List. In Verkleidung geht es ganz ohne Kampf (siehe Kasten).
-3. **Wein für die Wache:** Die Helden liefern ein Fass geschmuggelten Wein an Rhaskars Steuermann. Mit einem *Insight*- oder *Courtesy*-Wurf hören sie beim Trinken: „Der Meister will mehr Kranke auf dem Hof. Und neue Säcke von der Insel, bevor im Frühjahr die Schiffe aus dem Süden kommen.“
+3. **Wein für die Wache:** Die Helden liefern ein Fass geschmuggelten Wein an Karsk, Rhaskars Steuermann. Mit einem *Insight*- oder *Courtesy*-Wurf hören sie beim Trinken: „Der Meister will mehr Kranke auf dem Hof. Und neue Säcke von der Insel, bevor im Frühjahr die Schiffe aus dem Süden kommen.“
 
-**Erinnerung für den Loremaster – Verkleidung:** Die weißen Binden der Helfer lassen sich stehlen oder von Tobbe borgen. Wer eine trägt, kommt mit einem *Courtesy*-Wurf an Posten vorbei, mit einer *Riddle*-Lüge auch durch Nachfragen. Zwerge, Elben und Hobbits fallen unter den Seeleuten auf: Ihre Würfe sind *ill-favoured*. Wird ein Verkleideter erkannt, schlägt der Posten Alarm.
+**Erinnerung für den Loremaster – Verkleidung:** Die weißen Binden der Helfer lassen sich stehlen oder von Tobbe borgen. Wer eine trägt, kommt mit einem *Courtesy*-Wurf an Posten vorbei, mit einer *Riddle*-Lüge auch durch Nachfragen. Zwerge, Elben und Hobbits fallen unter den Seeleuten auf, ebenso jeder, den Rhaskar bei der Räumung gesehen hat: Ihre Würfe sind *ill-favoured*. Wird ein Verkleideter erkannt, schlägt der Posten Alarm.
 
 ### Rat in der Schwanenwehr
 
@@ -229,7 +242,7 @@ Ist Hedra den Helden *friendly* gesinnt, erzählt sie am Feuer von dem Turm, den
 
 ## Teil 4: Die Lager {#teil4}
 
-Mardion braucht einen Beweis, der Umbar nennt. Es gibt zwei Orte, an denen die Helden ihn finden können. Für einen One-Shot reicht einer; das Furtlager ist schneller, der Weidenhof ergiebiger. Sobald die Helden mit Beweisen entkommen, nimmt Rhaskar die Verfolgung auf (Teil 5).
+Mardion braucht den Ort der Fieberküche und einen Beweis. Zwei Lager bringen die Helden auf die Spur. Für einen One-Shot reicht einer; das Furtlager ist schneller, der Weidenhof ergiebiger. Sobald die Helden mit Beweisen entkommen, nimmt Rhaskar die Verfolgung auf (Teil 5).
 
 ### Das Furtlager
 
@@ -253,6 +266,17 @@ Ein ummauerter Hof einen halben Tag landeinwärts, inmitten verwilderter Weiden.
 
 Wer entdeckt wird, bekommt es mit Merrick und sechs Helfern zu tun (*Footpads*). Merrick selbst kämpft nicht. Er versucht, das Tagebuch zu verbrennen.
 
+### Die Kranken in der Scheune
+
+Die zwanzig in der Scheune sind Merricks Versuch. Acht bekommen den Weißen Trank, sechs Fieberrinde, sechs gar nichts; die Täfelchen sagen, wer zu welcher Gruppe gehört. Wer nichts bekommt, stirbt binnen einer Woche. Gute Helden werden sie nicht zurücklassen wollen.
+
+- **Heimlich holen:** Im Hof stehen zwei Karren, und der Weg über die Nordmauer ist zu schmal dafür. Wer die Kranken leise durchs Tor bringen will, braucht die Torwachen auf seiner Seite: verkleidet mit einem *Riddle*-Wurf („Verlegung nach Brandhafen, Befehl des Meisters“) oder überwältigt, ehe sie rufen. Für jede Fuhre von zehn Kranken ein *Stealth*-Wurf des Kutschers.
+- **Offen befreien:** Nach einem Kampf am Hof ist der Weg frei, aber Merrick flieht, wenn ihn niemand festhält.
+- **Wohin:** Aldis nimmt sie auf, wenn sie Fieberrinde hat (Rat mit Hedra). Ohne Rinde stirbt jeden Tag einer von ihnen wie von ihren eigenen Kranken. Die Leute in Kiesbucht und Möwenhaken nehmen Verwandte auf, wenn man sie fragt.
+- **Zurücklassen:** Die Helden können wiederkommen. Bis dahin sterben die sechs ohne Gabe, und Merrick bringt die übrigen auf die Reiherinsel, „zur Sicherheit“.
+
+**Hinweis für den Loremaster:** Entkommt Merrick, warnt er die Reiherinsel. Dann ist dort in der Nacht jede Wache doppelt besetzt, und das Horn bläst beim ersten Verdacht. Wer den Hof befreit, gewinnt Dankbarkeit in den Dörfern: Bei der Wahl stehen Leute aus Kiesbucht und Möwenhaken hinter Aldis.
+
 ### Zâkarûns Bericht (Handout)
 
 ::: {.letter #zakarun}
@@ -261,7 +285,7 @@ Der Kornweg wirkt, wie wir es vorhergesagt haben. Siebzehn Höfe, vierzehn befal
 [Z.]{.sig}
 :::
 
-**Hinweis für den Loremaster:** Der Bericht ist der Beweis, den Mardion sucht. Er ist allerdings nur ein Entwurf, ungesiegelt und nur mit einem Buchstaben gezeichnet. Mardion sagt: „Das reicht, damit ich es glaube. Saerlonds Freunde im Rat nennen es eine Fälschung. Ich brauche das Mittel selbst: einen Trank, der genau dieses Fieber heilt, unter Umbars Siegel.“ So bleibt die Truhe auf der Reiherinsel der Kern der Wahl.
+**Hinweis für den Loremaster:** Der Bericht nennt Umbar, aber er ist nur ein Entwurf, ungesiegelt und mit einem Buchstaben gezeichnet. Mardion sagt, was er von Anfang an gesagt hat: „Das reicht, damit ich es glaube. Im Rat nennen sie es eine Fälschung. Ich brauche das Mittel selbst.“ So bleibt die Truhe auf der Reiherinsel der Kern der Wahl.
 
 ## Teil 5: Fahrt zur Reiherinsel {#teil5}
 
@@ -291,7 +315,7 @@ Die Reiherinsel ist eine flache Erhebung im Schilf. Auf ihr steht der Stumpf ein
 2. **Das Wachfeuer:** Vier Helfer würfeln. Ein Horn hängt am Pfahl.
 3. **Der Schilfgürtel:** Ein verborgener Zugang an der Nordseite, den Hedras Lotse oder Thalmir kennt. *Stealth* bringt die Helden bis an die Turmmauer.
 4. **Der Turm:** Zâkarûns Stube mit Briefen, Seekarten und einem Korb voller weißer Siegel. Ein *Scan* findet Antworten aus Umbar, in einer Sprache, die in Gondor niemand mehr schreibt: Adûnaïsch, die alte Sprache Númenors. Ein *Lore*-Wurf erkennt sie, lesen kann sie hier niemand.
-5. **Die Fieberküche:** Kessel, Darren mit grauem Korn, Fässer mit Lampenöl. Wer hier ohne Schutz atmet, erhält 2 *Shadow*-Punkte (*Dread*), weil der Ort nach Pest und alter Kunst riecht. Mit dem Öl lässt sich alles in Brand setzen.
+5. **Die Fieberküche:** Kessel, Darren mit grauem Korn, Fässer mit Lampenöl. Wer hier ohne Schutz atmet, erhält 2 *Shadow*-Punkte (*Dread*), weil der Ort nach Pest und alter Kunst riecht, und steckt sich an, wenn du die Hausregel aus Teil 2 nutzt. Mit dem Öl lässt sich alles in Brand setzen.
 6. **Die Kammer des Silbernen Tranks:** Eine eisenbeschlagene Truhe.
 
 ### Die Lage in dieser Nacht
@@ -326,11 +350,22 @@ Am Abend nach dem Überfall kommen die Helden mit der Truhe zurück nach Brandha
 - **Aldis:** „In vier Tagen braue ich genug für ganz Brandhafen. Euer Rat ist weit weg. Meine Kranken sind hier.“
 - **Hedra:** Sie legt einen Beutel Silber auf den Stein. „Ich zahle, und ich verteile. Wer sonst hat Boote für jeden Hof?“ Ein *Insight*-Wurf verrät, dass sie an die zahlen wird, die zahlen können. Schulden die Helden ihr aus dem Rat noch etwas, fordert sie es jetzt ein: die Truhe.
 
-**Wenn sie teilen wollen:** Die Spieler werden fragen, ob nicht alle etwas bekommen. Das Rezept dürfen sie abschreiben, aber Mardion und Aldis brauchen beide alle zwölf Phiolen. Warten kann Mardion nicht: Die Helfer, die von der Insel geflohen sind, warnen Pelargir binnen Tagen. „In vier Tagen räumt das Haus seine Kontore, und Saerlonds Freunde haben ihre Antwort fertig. Dann zeigt mein Beweis auf leere Räume.“ Lass die Spieler weitersuchen, solange sie wollen; jeder Weg endet bei derselben Truhe.
+**Wenn sie teilen wollen:** Die Spieler werden fragen, ob nicht alle etwas bekommen. Das Rezept dürfen sie abschreiben, aber Mardion und Aldis brauchen beide alle zwölf Phiolen. Warten kann Mardion nicht: Die Helfer, die von der Insel geflohen sind, warnen Pelargir binnen Tagen. „In vier Tagen räumt das Haus seine Kontore, und Saerlonds Freunde haben ihre Antwort fertig.“ Ein einfaches Teilen gibt es nicht. Einen besseren Weg können die Spieler sich aber verdienen (siehe „Der verdiente Weg“).
 
-Mardion lässt die Truhe nicht ohne Kampf gehen. Wer sie Aldis oder Hedra geben will, muss an ihm und seinen Männern vorbei. Nimm für Mardion die Werte eines *Southerner Champion* und für seine Männer die von *Highway Robbers*. Fliehen die Helden mit der Truhe, holt er sie am selben Tag ein.
+### Rat mit Mardion
 
-**Erinnerung für den Loremaster – Schatten:** Einen Hauptmann von Gondor zu töten, der gegen Umbar kämpft, ist eine *Misdeed* der schwersten Art. Vergib *Shadow*-Punkte nach den *Core Rules*. Wer die Truhe für Silber verkauft, erhält darüber hinaus 1 *Shadow*-Punkt (*Greed*).
+Mardion lässt die Truhe nicht ohne Weiteres gehen, aber er lässt mit sich reden. Wer ihn umstimmen will, führt einen Rat nach den *Core Rules*.
+
+- **_Resistance_:** Die ganze Truhe für Aldis ist ein *outrageous request* (9). Ein Vorschlag, der Mardion einen brauchbaren Beweis lässt, etwa Buch, Bericht und die leeren versiegelten Phiolen, ist ein *bold request* (6).
+- **_Attitude_:** *open*; *friendly*, wenn die Helden Thalmir gerettet haben; *reluctant*, wenn sie ihm Funde verschwiegen haben.
+- **_Interaction_:** Was zieht: Thalmir, der für die Helden spricht (*favoured*); die Rechnung „zwölf Leben gegen tausend“ umgedreht, denn Aldis rettet mehr als zwölf (*Persuade*); ein Gefangener, der mehr beweist als jede Phiole.
+- **Erfolg:** Mardion gibt nach und nimmt, was ihm der Vorschlag lässt. Weiter mit „Der verdiente Weg“.
+- **Erfolg mit Preis** (*success with woe*): Mardion gibt nach, meldet die Helden aber dem Truchsess als Leute, die ein Dorf über Gondor gestellt haben. Den Lohn gibt es nicht.
+- **Scheitern:** Mardion nimmt die Truhe, oder die Helden halten ihn mit Gewalt auf.
+
+Wer Mardion mit Gewalt aufhält, muss an ihm und seinen Männern vorbei. Nimm für Mardion die Werte eines *Southerner Champion* und für seine Männer die von *Highway Robbers*. Fliehen die Helden mit der Truhe, holt er sie am selben Tag ein.
+
+**Erinnerung für den Loremaster – Schatten:** Einen Hauptmann von Gondor zu töten, der gegen Umbar kämpft, ist eine *Misdeed* der schwersten Art. Wer ihn nur überwältigt und bindet, begeht eine leichtere. Vergib *Shadow*-Punkte nach den *Core Rules*. Wer die Truhe für Silber verkauft, erhält darüber hinaus 1 *Shadow*-Punkt (*Greed*).
 
 ### Status Quo
 
@@ -340,19 +375,30 @@ Im Rat des Truchsesses verstummen Saerlonds Freunde; das Haus schließt still se
 
 Bis das Mittel kommt, sterben in Brandhafen Dutzende, darunter Tobbe und die Hälfte von Aldis' Kranken. Im Winter fahren die Koggen der Helfer still davon, als wäre nichts gewesen. Aldis spricht nie wieder mit den Helden.
 
+### Der verdiente Weg
+
+Ein besseres Ende gibt es, aber die Spieler müssen es sich verdienen:
+
+- **Mit Zâkarûn als Gefangenem:** Ein lebender Schwarzer Númenórer beweist mehr als jede Phiole. Mardion nimmt ihn und das Buch, Aldis bekommt die Phiolen.
+- **Mit einem klugen Vorschlag oder einem gewonnenen Rat:** Mardion nimmt Buch, Bericht und die leeren versiegelten Phiolen, Aldis braut.
+
+In beiden Fällen erlischt das Fieber bis zum Winterfilth, und der Truchsess hat genug, um zu glauben. Mit einem Gefangenen verstummen Saerlonds Freunde im Rat, und das Haus fällt. Ohne ihn bleibt es ein Verdacht, den der Rat wägt; das Haus schließt still seine Kontore. Der Truchsess zahlt den Lohn, wenn Mardion ihn nicht verweigert. Im folgenden Jahr überfällt Thorongil Umbar.
+
 ### Mann des Volkes
 
-Die Helden stellen sich gegen Mardion und bringen ihn und seine Männer um. Aldis braut aus Phiolen und Rezept genug Silbernen Trank für Brandhafen und die Höfe, und das Fieber erlischt bis zum Winterfilth. Die Phiolen sind dabei aufgegangen.
+Die Helden halten Mardion mit Gewalt auf und geben die Truhe Aldis. Aldis braut aus Phiolen und Rezept genug Silbernen Trank für Brandhafen und die Höfe, und das Fieber erlischt bis zum Winterfilth. Die Phiolen sind dabei aufgegangen.
 
-Das Buch allein beweist nichts, und wer es bringt, ist ein gesuchter Mörder. So bleibt das Haus Saerlond geachtet, und seine Freunde im Rat behalten ihre Stimme. Wenn Zâkarûn entkommen ist, richtet er sich an einer anderen Küste eine neue Küche ein. In Dol Amroth und Linhir sucht man die Fremden, die einen Hauptmann des Truchsesses erschlagen haben. Die Helden müssen fort aus Gondor.
+Das Buch allein beweist nichts. So bleibt das Haus Saerlond geachtet, und seine Freunde im Rat behalten ihre Stimme. Wenn Zâkarûn entkommen ist, richtet er sich an einer anderen Küste eine neue Küche ein.
+
+Haben die Helden Mardion getötet, sucht man sie in ganz Gondor als Mörder, und sie müssen fort. Haben sie ihn nur überwältigt, meldet er sie dem Truchsess: kein Lohn, und in Minas Tirith sind sie nicht mehr willkommen.
 
 ### Teufelslohn
 
-Die Helden stellen sich gegen Mardion und bringen ihn und seine Männer um. Dann verkaufen sie die Truhe an Hedra. Sie zahlt und warnt: „Ab heute jagen euch Gondor und Umbar. Geht nach Norden.“
+Die Helden halten Mardion mit Gewalt auf, getötet oder überwältigt, und verkaufen die Truhe an Hedra. Sie zahlt und warnt: „Ab heute jagen euch Gondor und Umbar. Geht nach Norden.“
 
 Hedra verkauft die Phiolen einzeln an die, die zahlen können, und Saerlonds Leute kaufen jede zurück, die sie finden, um sie zu vernichten. Das Rezeptbuch geht in einer Schänke in Linhir verloren. Das Fieber breitet sich die Küste entlang nach Lebennin aus. Gib jedem Helden *Treasure* nach deinem Ermessen.
 
-**Hinweis für den Loremaster:** Keines der drei Enden ist das richtige. Wenn die Spieler nach einem vierten Weg suchen, lass sie suchen, aber erfinde keinen, der alle rettet. Die Wahl ist das Herz des Abenteuers.
+**Hinweis für den Loremaster:** Keines der drei harten Enden ist das richtige. Den verdienten Weg schenkst du nicht her: Er braucht einen Gefangenen, einen klugen Vorschlag oder einen gewonnenen Rat. Ohne das bleibt die Wahl das Herz des Abenteuers.
 
 ## Nachspiel und lose Fäden {#nachspiel}
 
@@ -361,11 +407,12 @@ Welches Ende es auch wird: Umbar verliert eine Küche, aber nicht sein Interesse
 - **Zâkarûn:** Ist er entkommen, taucht er Jahre später unter neuem Namen in Pelargir oder Lebennin auf. Ist er gefangen, verlangt Mardion ihn für Minas Tirith, und Aldis will ihn hängen sehen.
 - **Rhaskar:** Lebt er, vergisst er die Gesichter nicht. Er ist ein guter Wiederkehrer, wenn die Helden je wieder zur See fahren.
 - **Thalmir:** Gerettet, ist er den Helden etwas schuldig, auch gegen Mardion. Nach „Mann des Volkes“ warnt er sie einmal, ehe die Häscher des Truchsesses kommen.
+- **Karsk:** Hat er Rhaskars Platz eingenommen, gilt für ihn, was oben für Rhaskar steht.
 - **Brandhafen:** Nach „Status Quo“ fehlt in jedem Haus jemand. Nach „Mann des Volkes“ gibt es dort Freunde und Spitzel aus Umbar. Nach „Teufelslohn“ stehen die Helden dort an jedem Galgen auf der Liste.
 
 ### Fellowship Phase
 
-- Endet das Abenteuer mit der Truhe in Mardions oder Aldis' Händen, darf jeder Held *Shadow*-Punkte nach deinem Ermessen ablegen, wie es die *Core Rules* für einen Erfolg gegen den Schatten vorsehen.
+- Endet das Abenteuer mit „Status Quo“, „Mann des Volkes“ oder dem verdienten Weg, darf jeder Held *Shadow*-Punkte nach deinem Ermessen ablegen, wie es die *Core Rules* für einen Erfolg gegen den Schatten vorsehen.
 - Wer *Shadow Scars* davongetragen hat, kann in der *Fellowship Phase* zur Yule-Zeit das *Undertaking* *Heal Scars* wählen.
 - Vergib *Adventure points* und *Skill points* wie gewohnt. Wer im Status-Quo-Ende Aldis' Kranke sterben sah, darf ein Merkmal „vom Fieber gezeichnet“ als *Distinctive Feature* nehmen, wenn der Spieler möchte (Hausregel).
 
@@ -379,6 +426,7 @@ Welches Ende es auch wird: Umbar verliert eine Küche, aber nicht sein Interesse
 | Hedra Schilfhand | Anführerin der Schilfbrüder | Schwanenwehr, Teil 3 | Den Hafen zurück und ihren Schnitt am Handel | Misstrauisch, direkt; spielt mit dem verstümmelten Daumen |
 | Zâkarûn („Meister Saerlond“) | Schwarzer Númenórer aus Umbar, Kopf des Hauses Saerlond | Furt (von fern) oder Reiherinsel | Die Küste für Umbar öffnen | Warm, geduldig, saubere Hände; redet von Güte und altem Blut |
 | Kapitän Rhaskar | Korsar, führt die Bewaffneten der Helfer | Die Räumung, Teil 2 | Beute, Sold, Rache für jede Demütigung | Laut, dann plötzlich still; merkt sich Gesichter |
+| Karsk | Rhaskars Steuermann | Wein für die Wache, Teil 3 | Überleben und Rhaskars Platz | Wortkarg, trinkfest, schlau genug, um zu warten |
 | Tobbe | Alter Fährmann mit weißer Binde | Furt, Teil 2 | Sein Boot behalten und überleben | Redselig, ängstlich, ehrlich, wenn niemand zuhört |
 | Thalmir | Mardions Späher, Gefangener im Weidenhof | Keller, Teil 4 | Leben, und Mardion nicht enttäuschen | Fiebrig, stolz, dankbar; zweifelt leise an Mardion |
 | Merrick | Apotheker aus Pelargir, Zâkarûns Gehilfe | Weidenhof, Teil 4 | Seine Notizen retten | Nervös, pedantisch, feige |
