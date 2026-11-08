@@ -60,7 +60,7 @@ Die Schilfbrüder sind Schmuggler und Gesetzlose im Schilf der Grauen Marschen. 
 
 Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den Küsten. Seit dem Frühjahr ahnt er, wer hinter dem Fieber steckt, aber er kann es nicht beweisen. Soldaten nützen ihm nichts: Ein Angriff auf die Wohltäter hungernder Dörfer, ohne Beweis, wäre ein Geschenk für Saerlonds Freunde, und wo das Fieber gemacht wird, weiß er nicht. Für den Beweis ist er bereit, ein Dorf sterben zu lassen.
 
-Im Wedmath bittet Mardion den Truchsess um Fremde, die am Hof niemand kennt. Ecthelion nimmt ohnehin gern Fremde in seinen Dienst. Einer von ihnen, Thorongil, warnt ihn seit Jahren vor Umbar; andere im Rat halten das für übertrieben. Ein Beweis würde den Streit entscheiden. Thorongil selbst bleibt ein Name am Hof. Mardions Späher Thalmir ist seit einer Woche verschwunden.
+Im Wedmath bittet Mardion den Truchsess um Fremde, die am Hof niemand kennt. Ecthelion nimmt ohnehin gern Fremde in seinen Dienst. Einer von ihnen, Thorongil, warnt ihn seit Jahren vor Umbar; andere im Rat halten das für übertrieben. Ein Beweis würde den Streit entscheiden. Thorongil selbst bleibt ein Name am Hof. Mardions Späher Thalmir ist seit Mitte Wedmath verschwunden.
 
 ## Zeitleiste {#zeitleiste .nonotes}
 
@@ -177,7 +177,7 @@ Danach ist Aldis eine Geächtete, und die Helden sind verdächtig.
 
 ## Teil 3: Die Schilfbrüder {#teil3}
 
-Aldis braucht Fieberrinde, und die Helden brauchen jemanden, der die Grauen Marschen kennt. Beides haben nur die Schilfbrüder. Den Weg zu ihnen kennt Tobbe, der alte Fährmann, der seine weiße Binde nur trägt, um sein Boot zu behalten. Er bringt die Helden im Morgennebel zur Schwanenwehr, einem halb versunkenen Wehr am Rand der Lagune.
+Aldis braucht Fieberrinde, und die Helden brauchen jemanden, der die Grauen Marschen kennt. Beides haben nur die Schilfbrüder. Den Weg zu ihnen kennt Tobbe, der alte Fährmann, der seine weiße Binde nur trägt, um sein Boot zu behalten. Er bringt die Helden im Morgennebel zur Schwanenwehr, einem halb versunkenen Wehr am Rand der Lagune. Unterwegs zeichnet er ihnen die Gegend in den Sand: Gib den Spielern die Karte von Brandhafen und den Grauen Marschen (Handout).
 
 ### Hedra Schilfhand
 
@@ -197,7 +197,7 @@ Hedra redet erst über Rinde und Boote, wenn die Helden ihr etwas gebracht haben
 
 Wenn die Helden ihr Anliegen vorbringen, ist das ein Rat nach den *Core Rules*. Hedra sitzt auf einem umgedrehten Boot, ihre Leute stehen im Schilf und hören zu.
 
-**Resistance:** Sie richtet sich danach, worum die Helden bitten.
+**_Resistance_:** Sie richtet sich danach, worum die Helden bitten.
 
 - Fieberrinde für Aldis: *reasonable request*, *Resistance* 3. Hedra verliert nichts, sie verdient sogar.
 - Dazu den Ort, an den die Boote ohne Licht fahren: *bold request*, *Resistance* 6. Wer das verrät, macht sich Rhaskar zum Feind.
@@ -205,9 +205,9 @@ Wenn die Helden ihr Anliegen vorbringen, ist das ein Rat nach den *Core Rules*. 
 
 **_Attitude_:** Hedra ist *reluctant*, solange die Helden ihr nichts gebracht haben. Nach einem erfüllten Auftrag ist sie *open*, nach zweien *friendly*. Eine Lüge, die sie durchschaut, kostet eine Stufe.
 
-**Introduction:** Höflichkeit hält Hedra für Zollbeamtengerede. *Awe* wirkt bei ihr, ebenso ein *Riddle*-Wurf, der ihre Sprache spricht. Das Ergebnis bestimmt wie üblich das *time limit*.
+**_Introduction_:** Höflichkeit hält Hedra für Zollbeamtengerede. *Awe* wirkt bei ihr, ebenso ein *Riddle*-Wurf, der ihre Sprache spricht. Das Ergebnis bestimmt wie üblich das *time limit*.
 
-**Interaction:** Was zieht:
+**_Interaction_:** Was zieht:
 
 - Aldis' Kranke, ehrlich geschildert (*Enhearten*).
 - Der Hafen, den sie zurückbekommt, wenn die Helfer fallen (*Persuade*).
@@ -219,7 +219,7 @@ Sagen die Helden, dass der Truchsess sie schickt, wird Hedra misstrauisch, denn 
 **Ausgang:**
 
 - **Erfolg:** Hedra gewährt, worum die Helden gebeten haben. Fieberrinde hält Aldis' Kranke bis zum Ende des Abenteuers am Leben; der Ort ist der alte Reiherturm; Boot und Lotse warten am nächsten Morgen.
-- **Scheitern:** Die Helden bekommen nichts, oder sie wählen den Erfolg mit Preis: Hedra gewährt alles, aber die Helden schulden ihr etwas. Sie wird es in der Wahl einfordern.
+- **Scheitern:** Die Helden bekommen nichts, oder sie wählen den Erfolg mit Preis (*success with woe*): Hedra gewährt alles, aber die Helden schulden ihr etwas. Sie wird es in der Wahl einfordern.
 
 **Wenn sie trotzdem gehen:** Verweigern die Helden Hedra jeden Dienst oder scheitert der Rat, finden sie die Reiherinsel über das Kornbuch oder Thalmir (Teil 4) und fahren mit Tobbes Kahn, ohne Lotsen.
 
@@ -241,7 +241,7 @@ Am Ostufer des Brandbachs stehen dreißig Zelte, ein Pferch für „Genesende“
 
 ### Der Weidenhof
 
-Ein ummauerter Hof einen halben Tag landeinwärts, inmitten verwilderter Weiden. Hier bringen die Helfer die schwersten Fälle hin, und hier schreibt Zâkarûns Gehilfe Merrick, ein Apotheker aus Pelargir, seine Beobachtungen auf. Die Nummern entsprechen der Karte.
+Ein ummauerter Hof einen halben Tag landeinwärts, inmitten verwilderter Weiden. Wer ihn aus der Weidenreihe beobachtet, bekommt die Spielerkarte des Weidenhofs (Handout). Hier bringen die Helfer die schwersten Fälle hin, und hier schreibt Zâkarûns Gehilfe Merrick, ein Apotheker aus Pelargir, seine Beobachtungen auf. Die Nummern entsprechen der Karte.
 
 ![Der Weidenhof, Loremaster-Version. Die Nummern entsprechen der Liste; rot gestrichelt: der Weg über die eingestürzte Nordmauer.](assets/maps/map-weidenhof-de.jpg){.map}
 
@@ -277,7 +277,7 @@ Die Grauen Marschen sind ein Labyrinth aus Schilf, Prielen und Inseln, die bei F
 - **Verirrt im Schilf** (*Despair*): Nur ohne Lotsen. Nachts zwischen toten Prielen, Lichter über dem Wasser, die keine Laternen sind. Ein *Explore*-Wurf; bei einem Misserfolg erhält jeder in der Gruppe 1 *Shadow*-Punkt (*Dread*), und die Flut kostet sie einen halben Tag.
 - **Rhaskars Spur** (*Ill Choices*): Die Helden hören hinter sich Ruder. Wer den Wurf macht und scheitert, erhält 1 *Shadow*-Punkt (*Dread*). Dann entscheidet die Gruppe: ein Hinterhalt im Schilf gegen Rhaskar und zehn Helfer (*Footpads*), oder weiterfahren, und Rhaskar wartet im Höhepunkt auf der Insel. Überspringbar: Ohne Verfolgung steht Rhaskar einfach auf der Reiherinsel.
 
-**Hinweis für den Loremaster:** Hat die Gruppe Thalmir befreit, kann er sie führen statt eines Lotsen. Er ist allerdings fiebrig und muss bei jedem Ereignis von einem Helden gestützt werden.
+**Hinweis für den Loremaster:** Gib den Spielern die Karte der Reiherinsel (Handout), sobald Thalmir oder Hedras Lotse sie ihnen beschrieben hat. Hat die Gruppe Thalmir befreit, kann er sie führen statt eines Lotsen. Er ist allerdings fiebrig und muss bei jedem Ereignis von einem Helden gestützt werden.
 
 ## Höhepunkt: Das Labor auf der Reiherinsel {#hoehepunkt}
 

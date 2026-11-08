@@ -382,7 +382,7 @@ def route():
               ("Fahrt zur Reiherinsel", "Graue Marschen · ein Tag"),
               ("Das Labor", "Fieberküche · Zâkarûns Truhe"),
               ("Die Wahl", "Mardion, Aldis oder Hedra")]
-    legs = ["neun Tage", "nächster Morgen", "Reihenfolge frei", "sofort", "ein Tag", "Rückfahrt, ein Tag"]
+    legs = ["neun Tage", "nächster Morgen", "Reihenfolge frei", "nächster Tag", "ein Tag", "Rückfahrt, ein Tag"]
     Hs = top * 2 + len(stages) * bh + (len(stages) - 1) * gap
     Ws = 420
     cx = x0 + bw / 2
