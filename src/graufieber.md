@@ -1,6 +1,6 @@
 ## Überblick {#ueberblick .nonotes}
 
-Im Spätsommer TA 2979 geht in Brandhafen, einem kleinen Fischerdorf an der Küste von Belfalas, und in den Dörfern und Höfen ringsum ein Fieber um, gegen das kein Kraut hilft. Mit zwei Schiffen aus Pelargir kommen „Helfer“ des Handelshauses Saerlond. Sie bringen Korn als Gabe, einen beruhigenden Trank und bewaffnete Wachen, und bald gehören ihnen Hafen und Furt. In Minas Tirith hört man davon, und der Truchsess schickt Fremde, die niemand am Hof kennt: die Helden. Nach einer Reise nach Süden treffen sie in Brandhafen seinen Hauptmann Mardion. Sie finden heraus, dass hinter dem Haus ein Schwarzer Númenórer aus Umbar steht, der die Seuche selbst gesät hat, und zerstören seine Fieberküche auf der Reiherinsel. Am Ende halten sie das einzige Gegenmittel in der Hand, und drei Parteien wollen es.
+Im Spätsommer TA 2979 geht in Brandhafen, einem kleinen Fischerdorf an der Küste von Belfalas, und in den Dörfern und Höfen ringsum ein Fieber um, gegen das kein Kraut hilft. Mit zwei Schiffen aus Pelargir kommen „Helfer“ des Handelshauses Saerlond. Sie bringen Korn als Gabe, einen beruhigenden Trank und bewaffnete Wachen, und bald gehören ihnen Hafen und Furt. Der Truchsess in Minas Tirith schickt Fremde, die am Hof niemand kennt: die Helden. Nach neun Tagen auf der Straße treffen sie in Brandhafen seinen Hauptmann Mardion. Sie finden heraus, dass hinter dem Haus ein Schwarzer Númenórer aus Umbar steht, der die Seuche selbst gesät hat, und zerstören seine Fieberküche auf der Reiherinsel. Am Ende halten sie das einzige Gegenmittel in der Hand, und drei Parteien wollen es.
 
 **Schauplatz:** Die Straße von Minas Tirith nach Süden und vor allem Brandhafen an der Küste von Belfalas zwischen Dol Amroth und Linhir, mit den Grauen Marschen östlich davon.
 
@@ -14,7 +14,7 @@ Im Spätsommer TA 2979 geht in Brandhafen, einem kleinen Fischerdorf an der Küs
 \noindent\begin{minipage}[t]{0.53\linewidth}\vspace{0pt}
 ```
 
-1. [**Nach Süden**](#teil1) – der Auftrag des Truchsess, neun Tage Reise.
+1. [**Nach Süden**](#teil1) – der Auftrag des Truchsesses, neun Tage Reise.
 2. [**Brandhafen**](#teil2) – Mardion, Aldis, die Räumung.
 3. [**Die Schilfbrüder**](#teil3) – Vertrauen, Fieberrinde, ein Boot.
 4. [**Die Lager**](#teil4) – Beweise, verkleidet oder heimlich.
@@ -38,17 +38,19 @@ Teil 3 und 4 sind offen. Die Gruppe wählt Reihenfolge und Mittel. Zur Reiherins
 
 ### Das Graufieber
 
-Das Graufieber ist Marschenfieber, das alte Kunst aus Umbar schlimmer gemacht hat. Gebraut wird es in den Gewölben des Reiherturms, einer Wachturmruine aus der Zeit der Könige auf einer Insel in den Grauen Marschen. Es verbreitet sich nicht über Mücken, sondern über Korn. Nach der Missernte im Herbst TA 2978 verkaufte das Haus Saerlond den Höfen um Brandhafen den Winter über billiges Saatkorn; darunter waren die ersten grauen Körner, in Zâkarûns Küche gedarrt. Drei Wochen nach dem ersten Brot kam das Fieber. Seit die Helfer da sind, verteilen sie mehr davon, nun als Gabe: „Weißkorn“ in versiegelten Säcken. Wo es hinkommt, folgt das Fieber. Die Kranken werden grau, frieren in der Hitze und murmeln im Schlaf von schwarzen Segeln.
+Das Graufieber ist Marschenfieber, das alte Kunst aus Umbar schlimmer gemacht hat. Gebraut wird es in den Gewölben des Reiherturms, einer Wachturmruine aus der Zeit der Könige auf einer Insel in den Grauen Marschen.
 
-Fieberrinde hält die Kranken am Leben, solange sie jeden Tag neue bekommen, aber gesund macht sie niemanden. Der „Weiße Trank“ der Helfer heilt ebenfalls nicht, er dämpft nur die Anzeichen und macht abhängig von den nächsten Gaben. Das echte Gegenmittel ist der „Silberne Trank“. Zâkarûn hat ihn gebraut, damit sich seine eigenen Leute schützen können, und er lagert nur auf der Insel.
+Es verbreitet sich nicht über Mücken, sondern über Korn. Nach der Missernte im Herbst TA 2978 verkaufte das Haus Saerlond den Höfen um Brandhafen den Winter über billiges Saatkorn; darunter waren die ersten grauen Körner, in Zâkarûns Küche gedarrt. Drei Wochen nach dem ersten Brot kam das Fieber. Seit die Helfer da sind, verteilen sie mehr davon, nun als Gabe: „Weißkorn“ in versiegelten Säcken. Wo es hinkommt, folgt das Fieber.
+
+Die Kranken werden grau, frieren in der Hitze und murmeln im Schlaf von schwarzen Segeln. Fieberrinde hält sie am Leben, solange sie jeden Tag neue bekommen, aber gesund macht sie niemanden. Der „Weiße Trank“ der Helfer heilt ebenfalls nicht, er dämpft nur die Anzeichen und macht abhängig von den nächsten Gaben. Das echte Gegenmittel ist der „Silberne Trank“. Zâkarûn hat ihn gebraut, damit sich seine eigenen Leute schützen können, und er lagert nur auf der Insel.
 
 ### Zâkarûn und das Haus Saerlond
 
-In Brandhafen kennt man ihn als Meister Saerlond, einen Heiler und Kaufherrn aus Pelargir, von altem Blut und mit sanfter Stimme. Sein wahrer Name ist Zâkarûn. Er ist ein Schwarzer Númenórer aus Umbar, und sein Handelshaus ist eine Maske, die Umbar über Jahre in Pelargir aufgebaut hat. Das Haus hat Freunde im Rat des Truchsess, und wer es anklagt, braucht mehr als einen Verdacht.
-
-**Hinweis für den Loremaster:** Dass in Umbar um TA 2979 noch Schwarze Númenórer wirken, ist erfunden. Tolkien nennt die Korsaren erst Nachkommen Castamirs, später Männer aus Harad; einen Schwarzen Númenórer zeigt er nur im Mund Saurons. Wer es kanonnäher will, macht Zâkarûn zu einem Gesandten Saurons, der Umbar nur benutzt.
+In Brandhafen kennt man ihn als Meister Saerlond, einen Heiler und Kaufherrn aus Pelargir, von altem Blut und mit sanfter Stimme. Sein wahrer Name ist Zâkarûn. Er ist ein Schwarzer Númenórer aus Umbar, und sein Handelshaus ist eine Maske, die Umbar über Jahre in Pelargir aufgebaut hat. Das Haus hat Freunde im Rat des Truchsesses, und wer es anklagt, braucht mehr als einen Verdacht.
 
 Umbar will die Küste von Belfalas schwächen, ehe seine Schiffe wiederkommen. Ein Hafen, dessen Leute dem Haus Saerlond dankbarer sind als Dol Amroth oder Minas Tirith, ist im Frühjahr eine offene Tür. Seine Bewaffneten führt Kapitän Rhaskar: Korsaren in der Tracht gemieteter Wachen. Die Hafenwache von Brandhafen trägt jetzt ebenfalls die weißen Binden des Hauses. Nach außen sind die Helfer geordnet, höflich und großzügig, und wer ihnen dankt, stellt keine Fragen.
+
+**Hinweis für den Loremaster:** Dass in Umbar um TA 2979 noch Schwarze Númenórer wirken, ist erfunden. Tolkien nennt die Korsaren erst Nachkommen Castamirs, später Männer aus Harad; einen Schwarzen Númenórer zeigt er nur im Mund Saurons. Wer es kanonnäher will, macht Zâkarûn zu einem Gesandten Saurons, der Umbar nur benutzt.
 
 ### Die Schilfbrüder
 
@@ -56,7 +58,9 @@ Die Schilfbrüder sind Schmuggler und Gesetzlose im Schilf der Grauen Marschen. 
 
 ### Mardion und der Truchsess
 
-Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den Küsten. Seit dem Frühjahr ahnt er, wer hinter dem Fieber steckt. Im Wedmath schreibt er dem Truchsess und bittet um Fremde statt Soldaten: Leute, die am Hof niemand kennt und die Saerlonds Freunde nicht verraten können. Ecthelion nimmt seit Jahren tüchtige Männer aus anderen Ländern in seinen Dienst; Fremde zu schicken, ist für ihn nichts Ungewöhnliches. Ein fremder Hauptmann namens Thorongil warnt den Truchsess seit Jahren, dass Umbar eine tödliche Gefahr für die südlichen Lehen sei; andere im Rat halten das für übertrieben. Ein Beweis, dass Umbar die Küste von Gondor vergiftet, würde den Streit entscheiden. Soldaten kann Mardion nicht schicken: Ein Angriff auf die Wohltäter eines hungernden Ortes, ohne Beweis, wäre ein Geschenk für Saerlonds Freunde, und wo das Fieber gemacht wird, weiß er nicht. Für den Beweis ist er bereit, einen Ort sterben zu lassen. Einer seiner Späher, Thalmir, ist seit einer Woche verschwunden. Thorongil bleibt ein Name am Hof; Mardion nennt ihn nur, wenn die Spieler fragen, wozu der Beweis dient.
+Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den Küsten. Seit dem Frühjahr ahnt er, wer hinter dem Fieber steckt, aber er kann es nicht beweisen. Soldaten nützen ihm nichts: Ein Angriff auf die Wohltäter hungernder Dörfer, ohne Beweis, wäre ein Geschenk für Saerlonds Freunde, und wo das Fieber gemacht wird, weiß er nicht. Für den Beweis ist er bereit, ein Dorf sterben zu lassen.
+
+Im Wedmath bittet Mardion den Truchsess um Fremde, die am Hof niemand kennt. Ecthelion nimmt ohnehin gern Fremde in seinen Dienst. Einer von ihnen, Thorongil, warnt ihn seit Jahren vor Umbar; andere im Rat halten das für übertrieben. Ein Beweis würde den Streit entscheiden. Thorongil selbst bleibt ein Name am Hof. Mardions Späher Thalmir ist seit einer Woche verschwunden.
 
 ## Zeitleiste {#zeitleiste .nonotes}
 
@@ -96,7 +100,7 @@ Das Abenteuer beginnt auf der Straße. Die Helden haben ihren Auftrag schon: Ect
 
 - **Der Auftrag:** nach Brandhafen reisen, Mardion finden, herausfinden, woher das Fieber kommt, und Beweise bringen, die im Rat bestehen.
 - **Warum Fremde:** „Das Haus Saerlond hat Freunde in diesem Turm. Jeden Hauptmann, den ich schicke, kennen sie, ehe er Pelargir erreicht. Euch kennt niemand.“
-- **Der Lohn:** Pferde, Silber für die Reise und ein Lohn nach der Rückkehr (*Treasure* nach deinem Ermessen). Einen Geleitbrief gibt es nicht: „Ein Siegel des Truchsess ist in Brandhafen ein Todesurteil.“
+- **Der Lohn:** Pferde, Silber für die Reise und ein Lohn nach der Rückkehr (*Treasure* nach deinem Ermessen). Einen Geleitbrief gibt es nicht: „Ein Siegel des Truchsesses ist in Brandhafen ein Todesurteil.“
 
 ### Mardions Bericht (Handout)
 
@@ -120,7 +124,9 @@ Je weiter die Helden nach Süden kommen, desto mehr hören sie vom Fieber und vo
 
 ## Teil 2: Brandhafen {#teil2}
 
-Brandhafen ist ein Fischerdorf wie viele an dieser Küste: etwa dreihundert Menschen, eine Mole, ein Dutzend Boote, Netze zum Trocknen zwischen den Häusern, ein Zollhaus an der Furt und der Stumpf eines alten Hafenturms. Kiesbucht im Westen und Möwenhaken im Osten sind kaum größer, und landeinwärts liegen verstreut die Höfe. Das Dorf lebt vom Fisch und vom Verkehr auf der Küstenstraße. In diesem Sommer liegen zwei fremde Koggen an der Mole, und es riecht nach Rauch, Tang und Essig. Die Helden kommen am 1. Halimath, müde von der Straße. Am Ende von Teil 2 kennen sie Mardions Verdacht, Aldis' Not und die Macht der Helfer.
+Brandhafen ist ein Fischerdorf wie viele an dieser Küste: etwa dreihundert Menschen, eine Mole, ein Dutzend Boote, Netze zum Trocknen zwischen den Häusern, ein Zollhaus an der Furt und der Stumpf eines alten Hafenturms. Kiesbucht im Westen und Möwenhaken im Osten sind kaum größer, und landeinwärts liegen verstreut die Höfe. Das Dorf lebt vom Fisch und vom Verkehr auf der Küstenstraße. In diesem Sommer liegen zwei fremde Koggen an der Mole, und es riecht nach Rauch, Tang und Essig.
+
+Die Helden kommen am 1. Halimath, müde von der Straße. Am Ende von Teil 2 kennen sie Mardions Verdacht, Aldis' Not und die Macht der Helfer.
 
 ### An der Furt
 
@@ -140,7 +146,7 @@ Er will zwei Dinge: einen Beweis, der Umbar nennt, und den Ort, an dem das Fiebe
 
 ### Aldis' Spital
 
-Im alten Zollhaus pflegt die Kräuterfrau Aldis zwölf Kranke. Sie ist müde, scharfzüngig und furchtlos. Mit einem *Healing*-Wurf, oder wenn die Helden ihr einfach zuhören, erfährt man, was sie bemerkt hat:
+Im alten Zollhaus pflegt die Kräuterfrau Aldis zwölf Kranke. Sie ist müde, scharfzüngig und furchtlos. Mit einem *Healing*-Wurf oder einfach durch Zuhören erfahren die Helden, was sie bemerkt hat:
 
 - Das Fieber folgt nicht den Mücken. Es befiel Höfe weit von den Marschen, die alle Brot aus denselben Säcken gebacken hatten. Wer nur Fisch aß, blieb gesund.
 - Fieberrinde hält die Kranken am Leben, aber nur, solange sie jeden Tag neue bekommen. Gesund wird davon niemand.
@@ -152,13 +158,13 @@ Ihre Fieberrinde reicht noch für heute. Mehr haben nur die Schilfbrüder.
 
 In der ersten Nacht kommt Rhaskar mit acht Helfern, um Aldis' Kranke „zu ihrem Schutz“ ins Furtlager zu bringen. Aldis bittet die Helden, die Kranken in die Keller unter dem Zollhaus zu schaffen.
 
-- Hinhalten mit *Persuade* oder *Courtesy*. Jeder Erfolg verschafft Zeit für zwei Tragen.
-- Die Kranken leise wegtragen: *Stealth* und *Athletics*.
-- Kampf ist möglich, aber lärmend. Die Helfer haben die Werte von *Footpads*, Rhaskar die eines *Southerner Champion*. Er zieht sich nach zwei Runden zurück und merkt sich die Gesichter.
+- **Hinhalten:** *Persuade* oder *Courtesy*. Jeder Erfolg verschafft Zeit für zwei Tragen.
+- **Wegtragen:** leise, mit *Stealth* und *Athletics*.
+- **Kämpfen:** möglich, aber laut. Die Helfer haben die Werte von *Footpads*, Rhaskar die eines *Southerner Champion*. Er zieht sich nach zwei Runden zurück und merkt sich die Gesichter.
 
 Danach ist Aldis eine Geächtete, und die Helden sind verdächtig.
 
-**Hinweis für den Loremaster:** Die Räumung ist die erste Szene, in der sich die Freundlichkeit der Helfer zeigt, wie sie wirklich ist. Wenn die Gruppe Kranke verliert, sieht sie sie im Furtlager oder auf dem Weidenhof wieder.
+**Hinweis für den Loremaster:** In der Räumung legen die Helfer zum ersten Mal ihre Freundlichkeit ab. Wenn die Gruppe Kranke verliert, sieht sie sie im Furtlager oder auf dem Weidenhof wieder.
 
 ### Gerüchte
 
@@ -248,9 +254,9 @@ Die Grauen Marschen sind ein Labyrinth aus Schilf, Prielen und Inseln, die bei F
 
 - **Schwäne über dem Schilf** (*Joyful Sight*): Bei Sonnenaufgang steigt ein ganzer Zug weißer Schwäne auf und zieht nach Westen, nach Dol Amroth. Gelingt der Wurf, gewinnt jeder in der Gruppe 1 *Hope* zurück. Ein Elb denkt an Edhellond, den Hafen seines Volkes jenseits von Dol Amroth, verlassen, seit das letzte Schiff davon segelte.
 - **Das Boot ohne Licht** (*Chance-meeting*): Ein Nachschubkahn der Helfer kommt aus der Lagune. Die Helden können sich mit *Stealth* im Schilf verbergen, sich in Verkleidung mit *Courtesy* vorbeilügen oder den Kahn überfallen. Bei einem Überfall erfahren sie die Parole für den Steg: „Korn für den Turm.“
-- **Die Mücken** (*Mishap*): Ein *Athletics*-Wurf, um die Nacht durchzurudern. Bei einem Misserfolg dauert die Fahrt einen halben Tag länger, der Held erhält zusätzliche *Fatigue*, und Rhaskar holt auf.
+- **Die Mücken** (*Mishap*): Ein *Athletics*-Wurf, um ohne Rast durchzurudern. Bei einem Misserfolg dauert die Fahrt einen halben Tag länger, der Held erhält zusätzliche *Fatigue*, und Rhaskar holt auf.
 - **Verirrt im Schilf** (*Despair*): Nur ohne Lotsen. Nachts zwischen toten Prielen, Lichter über dem Wasser, die keine Laternen sind. Ein *Explore*-Wurf; bei einem Misserfolg erhält jeder in der Gruppe 1 *Shadow*-Punkt (*Dread*), und die Flut kostet sie einen halben Tag.
-- **Rhaskars Spur** (*Ill Choices*): Die Helden hören hinter sich Ruder. Wer den Wurf macht und scheitert, erhält 1 *Shadow*-Punkt (*Dread*). Dann entscheiden sie: Sie können einen Hinterhalt legen (ein Kampf gegen Rhaskar und zehn Helfer im Schilf, *Footpads*) oder weiterfahren, dann wartet Rhaskar im Höhepunkt auf der Insel. Überspringbar: Ohne Verfolgung steht Rhaskar einfach auf der Reiherinsel.
+- **Rhaskars Spur** (*Ill Choices*): Die Helden hören hinter sich Ruder. Wer den Wurf macht und scheitert, erhält 1 *Shadow*-Punkt (*Dread*). Dann entscheidet die Gruppe: ein Hinterhalt im Schilf gegen Rhaskar und zehn Helfer (*Footpads*), oder weiterfahren, und Rhaskar wartet im Höhepunkt auf der Insel. Überspringbar: Ohne Verfolgung steht Rhaskar einfach auf der Reiherinsel.
 
 **Hinweis für den Loremaster:** Hat die Gruppe Thalmir befreit, kann er sie führen statt eines Lotsen. Er ist allerdings fiebrig und muss bei jedem Ereignis von einem Helden gestützt werden.
 
@@ -280,13 +286,13 @@ Die Reiherinsel ist eine flache Erhebung im Schilf. Auf ihr steht der Stumpf ein
 | 3 | Gewölbe | Zâkarûn und seine Leibwache, 4 Korsaren (*Highway Robbers*) | Ob Zâkarûn die Truhe ins Feuer wirft |
 | 4 | Feuer | Die brennende Küche; ein *Athletics*-Wurf je Held, um ins Freie zu kommen | Raus vor dem Einsturz, mit der Truhe |
 
-Alle Gegner sind *Evil Men* aus den *Core Rules*. Zâkarûn kämpft nicht mit der Klinge. Er verhandelt, lügt und flieht, wenn er kann. In die Enge getrieben, spricht er ein Wort in alter Sprache, und das Licht der Laternen wird kalt: Jeder Held, der ihn hört, erhält 2 *Shadow*-Punkte (*Sorcery*). Danach ist er fort, durch das Schilf, wenn ihn niemand festhält.
+Alle Gegner sind *Evil Men* aus den *Core Rules*. Zâkarûn kämpft nicht mit der Klinge. Er verhandelt, lügt und flieht, wenn er kann. In die Enge getrieben, spricht er ein Wort in alter Sprache, und das Licht der Laternen wird kalt: Jeder Held, der ihn hört, erhält 2 *Shadow*-Punkte (*Sorcery*). Danach ist er fort, durch das Schilf, wenn ihn niemand festhält. Wird er gefangen, sagt er nur: „Ihr werdet sehen, dass Ihr nur eine Wahl habt, und sie wird Euch nicht gefallen.“
 
 **Hinweis für den Loremaster:** Kein Alarm bis zur Welle 3 ist ein großer Erfolg. Dann erreicht Zâkarûn die Truhe nicht rechtzeitig, und Welle 2 entfällt ganz oder zum Teil.
 
-**Möglicher Abschluss:** Wenn die Truhe gerettet ist und die Küche brennt, ist das Labor erledigt, egal wie viele Gegner noch stehen. Die übrigen Helfer fliehen mit den Booten.
-
 **Hinweis für den Loremaster:** Erreicht Zâkarûn die Truhe, wirft er sie ins Feuer, aber Eisen brennt langsam. Wer ihr nachspringt, holt sie mit einem *Athletics*-Wurf heraus, angesengt, die Phiolen heil, und erhält dafür *Fatigue* oder eine Brandwunde nach deinem Ermessen. Ohne Truhe gibt es keine Wahl, nur ein Ende wie „Status Quo“ ohne Beweis: Brandhafen leidet bis Yule, und das Haus bleibt geachtet.
+
+**Möglicher Abschluss:** Wenn die Truhe gerettet ist und die Küche brennt, ist das Labor erledigt, egal wie viele Gegner noch stehen. Die übrigen Helfer fliehen mit den Booten.
 
 ### Zâkarûns Truhe
 
@@ -296,13 +302,11 @@ In der Truhe liegen zwölf Phiolen Silberner Trank, jede unter dem Siegel mit de
 - Als Ansatz mit dem Rezept ergeben sie in vier Tagen genug für ganz Brandhafen. Dabei gehen alle zwölf auf; mit weniger verdirbt der Ansatz (Merricks „Probe drei“). Das Rezept lässt sich an einem Abend abschreiben.
 - Als Beweis taugen Buch und Phiolen nur zusammen: Das Buch nennt Umbar, die versiegelten Phiolen zeigen, dass Umbar das Gegenmittel zu genau diesem Fieber hat. Ein Trank, den Aldis braut, beweist nichts; den nennt man ihren.
 
-Gefangen, sagt Zâkarûn nur: „Ihr werdet sehen, dass Ihr nur eine Wahl habt, und sie wird Euch nicht gefallen.“
-
 ## Die Wahl {#wahl}
 
 Am Abend nach dem Überfall kommen die Helden mit der Truhe zurück nach Brandhafen. Am Fuß des Hafenturms warten drei Menschen, und jeder will die Truhe. Spiele die Szene langsam: Jeder spricht einmal, dann entscheiden die Helden.
 
-- **Mardion** und drei Bewaffnete des Truchsess: „Mit diesem Beweis glaubt der Rat. Ohne ihn segelt Umbar im Frühjahr an diese Küste und brennt jeden Hafen von hier bis Pelargir. Zwölf Leben gegen tausend.“ Er reitet noch heute Nacht und ist bereit, die Truhe mit dem Schwert zu nehmen.
+- **Mardion** und drei Bewaffnete des Truchsesses: „Mit diesem Beweis glaubt der Rat. Ohne ihn segelt Umbar im Frühjahr an diese Küste und brennt jeden Hafen von hier bis Pelargir. Zwölf Leben gegen tausend.“ Er reitet noch heute Nacht und ist bereit, die Truhe mit dem Schwert zu nehmen.
 - **Aldis:** „In vier Tagen braue ich genug für ganz Brandhafen. Euer Rat ist weit weg. Meine Kranken sind hier.“
 - **Hedra:** Sie legt einen Beutel Silber auf den Stein. „Ich zahle, und ich verteile. Wer sonst hat Boote für jeden Hof?“ Ein *Insight*-Wurf verrät, dass sie an die zahlen wird, die zahlen können.
 
@@ -314,15 +318,17 @@ Mardion lässt die Truhe nicht ohne Kampf gehen. Wer sie Aldis oder Hedra geben 
 
 ### Status Quo
 
-Die Helden geben die Truhe Mardion. Er nickt, dankt knapp und ist noch in der Nacht auf dem Weg nach Minas Tirith. Der Truchsess hält sein Wort und zahlt den Helden ihren Lohn. Im Rat des Truchsess verstummen Saerlonds Freunde; das Haus schließt still seine Kontore in Pelargir. Die Heiler von Minas Tirith brauen nach dem Rezept ein Mittel gegen das Graufieber, doch es kommt erst nach Yule nach Brandhafen. Im folgenden Jahr überfällt Thorongil Umbar. Ob der Beweis dazu beitrug, erfahren die Helden nie.
+Die Helden geben die Truhe Mardion. Er nickt, dankt knapp und ist noch in der Nacht auf dem Weg nach Minas Tirith. Der Truchsess hält sein Wort und zahlt den Helden ihren Lohn.
 
-Bis dahin sterben in Brandhafen Dutzende, darunter Tobbe und die Hälfte von Aldis' Kranken. Im Winter fahren die Koggen der Helfer still davon, als wäre nichts gewesen. Aldis spricht nie wieder mit den Helden.
+Im Rat des Truchsesses verstummen Saerlonds Freunde; das Haus schließt still seine Kontore in Pelargir. Die Heiler von Minas Tirith brauen nach dem Rezept ein Mittel gegen das Graufieber, doch es kommt erst nach Yule nach Brandhafen. Im folgenden Jahr überfällt Thorongil Umbar. Ob der Beweis dazu beitrug, erfahren die Helden nie.
+
+Bis das Mittel kommt, sterben in Brandhafen Dutzende, darunter Tobbe und die Hälfte von Aldis' Kranken. Im Winter fahren die Koggen der Helfer still davon, als wäre nichts gewesen. Aldis spricht nie wieder mit den Helden.
 
 ### Mann des Volkes
 
 Die Helden stellen sich gegen Mardion und bringen ihn und seine Männer um. Aldis braut aus Phiolen und Rezept genug Silbernen Trank für Brandhafen und die Höfe, und das Fieber erlischt bis zum Winterfilth. Die Phiolen sind dabei aufgegangen.
 
-Das Buch allein beweist nichts, und wer es bringt, ist ein gesuchter Mörder. So bleibt das Haus Saerlond geachtet, und seine Freunde im Rat behalten ihre Stimme. Wenn Zâkarûn entkommen ist, richtet er sich an einer anderen Küste eine neue Küche ein. In Dol Amroth und Linhir sucht man die Fremden, die einen Hauptmann des Truchsess erschlagen haben. Die Helden müssen fort aus Gondor.
+Das Buch allein beweist nichts, und wer es bringt, ist ein gesuchter Mörder. So bleibt das Haus Saerlond geachtet, und seine Freunde im Rat behalten ihre Stimme. Wenn Zâkarûn entkommen ist, richtet er sich an einer anderen Küste eine neue Küche ein. In Dol Amroth und Linhir sucht man die Fremden, die einen Hauptmann des Truchsesses erschlagen haben. Die Helden müssen fort aus Gondor.
 
 ### Teufelslohn
 
@@ -338,8 +344,8 @@ Welches Ende es auch wird: Umbar verliert eine Küche, aber nicht sein Interesse
 
 - **Zâkarûn:** Ist er entkommen, taucht er Jahre später unter neuem Namen in Pelargir oder Lebennin auf. Ist er gefangen, verlangt Mardion ihn für Minas Tirith, und Aldis will ihn hängen sehen.
 - **Rhaskar:** Lebt er, vergisst er die Gesichter nicht. Er ist ein guter Wiederkehrer, wenn die Helden je wieder zur See fahren.
-- **Thalmir:** Gerettet, ist er den Helden etwas schuldig, auch gegen Mardion. Nach „Mann des Volkes“ warnt er sie einmal, ehe die Häscher des Truchsess kommen.
-- **Brandhafen:** Nach „Status Quo“ ist der Ort halb leer. Nach „Mann des Volkes“ gibt es dort Freunde und Spitzel aus Umbar. Nach „Teufelslohn“ stehen die Helden dort an jedem Galgen auf der Liste.
+- **Thalmir:** Gerettet, ist er den Helden etwas schuldig, auch gegen Mardion. Nach „Mann des Volkes“ warnt er sie einmal, ehe die Häscher des Truchsesses kommen.
+- **Brandhafen:** Nach „Status Quo“ fehlt in jedem Haus jemand. Nach „Mann des Volkes“ gibt es dort Freunde und Spitzel aus Umbar. Nach „Teufelslohn“ stehen die Helden dort an jedem Galgen auf der Liste.
 
 ### Fellowship Phase
 
@@ -352,7 +358,7 @@ Welches Ende es auch wird: Umbar verliert eine Küche, aber nicht sein Interesse
 | Name | Wer sie sind | Erstes Treffen | Was sie wollen | Wie man sie spielt |
 |---|---|---|---|---|
 | Ecthelion II. | Truchsess von Gondor, über neunzig | Vorgeschichte, Teil 1 | Umbar in die Schranken weisen, ohne den Rat zu spalten | Leise, scharfsinnig, ungeduldig mit Schmeichlern |
-| Mardion | Hauptmann des Truchsess, Auge an den Küsten | Hafenturm, Teil 2 | Einen Beweis gegen Umbar, um jeden Preis | Leise, knapp, lächelt nie; füttert Möwen; rechnet in Leben |
+| Mardion | Hauptmann des Truchsesses, Auge an den Küsten | Hafenturm, Teil 2 | Einen Beweis gegen Umbar, um jeden Preis | Leise, knapp, lächelt nie; füttert Möwen; rechnet in Leben |
 | Aldis | Kräuterfrau, führt das Spital im alten Zollhaus | Spital, Teil 2 | Ihre Kranken retten, alle | Müde, scharfzüngig, furchtlos; wischt sich ständig die Hände |
 | Hedra Schilfhand | Anführerin der Schilfbrüder | Schwanenwehr, Teil 3 | Den Hafen zurück und ihren Schnitt am Handel | Misstrauisch, direkt; spielt mit dem verstümmelten Daumen |
 | Zâkarûn („Meister Saerlond“) | Schwarzer Númenórer aus Umbar, Kopf des Hauses Saerlond | Furt (von fern) oder Reiherinsel | Die Küste für Umbar öffnen | Warm, geduldig, saubere Hände; redet von Güte und altem Blut |

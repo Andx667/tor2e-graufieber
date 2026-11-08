@@ -13,7 +13,7 @@ Pandoc-Filter für „Graufieber“: Markdown -> LaTeX-Bausteine aus latex/grauf
 
 local BOX_LABELS = {
   "Hinweis für den Loremaster", "Optionale Erweiterung", "Erinnerung für den Loremaster",
-  "Möglicher Abschluss", "Wenn sie trotzdem gehen", "Erfahrung",
+  "Möglicher Abschluss", "Wenn sie ", "Erfahrung",
 }
 -- Kästen, die über einen Seitenumbruch laufen dürfen
 local SPLIT_LABELS = {}

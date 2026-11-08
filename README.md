@@ -37,7 +37,7 @@ Artefakte `Graufieber-TOR2e-DE-v….pdf` und `Graufieber-TOR2e-DE-Buch-v….pdf`
 - Absätze, die mit einem dieser fetten Labels beginnen, werden zu Kästen:
   **Hinweis für den Loremaster:**, **Optionale Erweiterung – …:**,
   **Erinnerung für den Loremaster – …:**, **Möglicher Abschluss:**,
-  **Wenn sie trotzdem gehen:**, **Erfahrung:**
+  **Wenn sie …:** (z. B. **Wenn sie trotzdem gehen:**), **Erfahrung:**
 - Ein Absatz **Hausregel – …:** mit folgender Liste und folgendem Absatz wird zum
   gerahmten Hausregel-Kasten.
 - Die Wörter `Optional` und `Überspringbar` werden zur grauen Markierung.
