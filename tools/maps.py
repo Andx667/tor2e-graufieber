@@ -375,15 +375,14 @@ def route():
     font = "font-family=\"TeX Gyre Pagella\""
     grey, line, red, ink = "#6f665c", "#9a9088", "#7a2a1f", "#2b2420"
     bw, bh, gap, x0, top = 250, 40, 22, 40, 12
-    stages = [("Minas Tirith", "Audienz beim Truchsess · Mardions Bericht"),
-              ("Die Reise nach Süden", "Pelargir · Linhir · Küstenstraße"),
+    stages = [("Nach Süden", "Auftrag des Truchsess · Pelargir · Linhir"),
               ("Brandhafen", "Mardion · Aldis · die Räumung"),
               ("Die Schilfbrüder", "Vertrauen · Fieberrinde · ein Boot"),
               ("Die Lager", "Furtlager oder Weidenhof · Beweise"),
               ("Fahrt zur Reiherinsel", "Graue Marschen · ein Tag"),
               ("Das Labor", "Fieberküche · Zâkarûns Truhe"),
               ("Die Wahl", "Mardion, Aldis oder Hedra")]
-    legs = ["am nächsten Morgen", "neun Tage", "nächster Morgen", "Reihenfolge frei", "sofort", "ein Tag", "Rückfahrt, ein Tag"]
+    legs = ["neun Tage", "nächster Morgen", "Reihenfolge frei", "sofort", "ein Tag", "Rückfahrt, ein Tag"]
     Hs = top * 2 + len(stages) * bh + (len(stages) - 1) * gap
     Ws = 420
     cx = x0 + bw / 2
@@ -404,7 +403,7 @@ def route():
             out.append(f'<path d="M{cx} {y + bh} V{y + bh + gap - 2}" stroke="{line}" stroke-width="1.2" marker-end="url(#a)"/>')
             out.append(f'<text x="{cx + 8}" y="{y + bh + gap / 2 + 4}" {font} font-style="italic" font-size="10.5" fill="{grey}">{legs[i]}</text>')
     # Verfolgung: von den Lagern zur Insel
-    y3, y5 = ys[4] + bh / 2, ys[6] + bh / 2
+    y3, y5 = ys[3] + bh / 2, ys[5] + bh / 2
     px = x0 + bw + 50
     out.append(f'<path d="M{x0 + bw} {y3} H{px} V{y5} H{x0 + bw + 3}" fill="none" stroke="{red}" stroke-width="1.2" stroke-dasharray="5 4" marker-end="url(#r)"/>')
     out.append(f'<text x="{px + 8}" y="{(y3 + y5) / 2 - 4}" {font} font-style="italic" font-size="11" fill="{red}">Rhaskar</text>')

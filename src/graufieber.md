@@ -2,7 +2,7 @@
 
 Im Spätsommer TA 2979 geht in Brandhafen, einem kleinen Fischerdorf an der Küste von Belfalas, und in den Dörfern und Höfen ringsum ein Fieber um, gegen das kein Kraut hilft. Mit zwei Schiffen aus Pelargir kommen „Helfer“ des Handelshauses Saerlond. Sie bringen Korn als Gabe, einen beruhigenden Trank und bewaffnete Wachen, und bald gehören ihnen Hafen und Furt. In Minas Tirith hört man davon, und der Truchsess schickt Fremde, die niemand am Hof kennt: die Helden. Nach einer Reise nach Süden treffen sie in Brandhafen seinen Hauptmann Mardion. Sie finden heraus, dass hinter dem Haus ein Schwarzer Númenórer aus Umbar steht, der die Seuche selbst gesät hat, und zerstören seine Fieberküche auf der Reiherinsel. Am Ende halten sie das einzige Gegenmittel in der Hand, und drei Parteien wollen es.
 
-**Schauplatz:** Minas Tirith, die Straße nach Süden und vor allem Brandhafen an der Küste von Belfalas zwischen Dol Amroth und Linhir, mit den Grauen Marschen östlich davon.
+**Schauplatz:** Die Straße von Minas Tirith nach Süden und vor allem Brandhafen an der Küste von Belfalas zwischen Dol Amroth und Linhir, mit den Grauen Marschen östlich davon.
 
 **Stimmung:** Fieberschwüle, Salzwind, Misstrauen, Freundlichkeit als Maske. Es gibt keinen offenen Krieg, sondern Gift, Lügen und Schmuggel. Das Ende ist eine Wahl ohne saubere Lösung.
 
@@ -14,26 +14,25 @@ Im Spätsommer TA 2979 geht in Brandhafen, einem kleinen Fischerdorf an der Küs
 \noindent\begin{minipage}[t]{0.53\linewidth}\vspace{0pt}
 ```
 
-1. [**Minas Tirith**](#teil1) – Audienz beim Truchsess.
-2. [**Die Reise nach Süden**](#teil2) – neun Tage bis an die Küste.
-3. [**Brandhafen**](#teil3) – Mardion, Aldis, die Räumung.
-4. [**Die Schilfbrüder**](#teil4) – Vertrauen, Fieberrinde, ein Boot.
-5. [**Die Lager**](#teil5) – Beweise, verkleidet oder heimlich.
-6. [**Fahrt zur Reiherinsel**](#teil6) – ein Tag durch die Marschen.
-7. [**Das Labor**](#hoehepunkt) – Fieberküche und Zâkarûns Truhe.
-8. [**Die Wahl**](#wahl) – Mardion, Aldis oder Hedra.
+1. [**Nach Süden**](#teil1) – der Auftrag des Truchsess, neun Tage Reise.
+2. [**Brandhafen**](#teil2) – Mardion, Aldis, die Räumung.
+3. [**Die Schilfbrüder**](#teil3) – Vertrauen, Fieberrinde, ein Boot.
+4. [**Die Lager**](#teil4) – Beweise, verkleidet oder heimlich.
+5. [**Fahrt zur Reiherinsel**](#teil5) – ein Tag durch die Marschen.
+6. [**Das Labor**](#hoehepunkt) – Fieberküche und Zâkarûns Truhe.
+7. [**Die Wahl**](#wahl) – Mardion, Aldis oder Hedra.
 
 ```{=latex}
 \end{minipage}\hfill\begin{minipage}[t]{0.43\linewidth}\vspace{0pt}
 ```
 
-![Der Weg der Helden. Teil 4 und 5 sind in beliebiger Reihenfolge spielbar; gestrichelt: Rhaskars Verfolgung.](assets/route-de.png){.route}
+![Der Weg der Helden. Teil 3 und 4 sind in beliebiger Reihenfolge spielbar; gestrichelt: Rhaskars Verfolgung.](assets/route-de.png){.route}
 
 ```{=latex}
 \end{minipage}\par
 ```
 
-Teil 4 und 5 sind offen. Die Gruppe wählt Reihenfolge und Mittel. Zur Reiherinsel braucht sie zweierlei: den Ort (von Hedra, von Thalmir oder aus dem Kornbuch) und ein Boot (von Hedra oder von Tobbe).
+Teil 3 und 4 sind offen. Die Gruppe wählt Reihenfolge und Mittel. Zur Reiherinsel braucht sie zweierlei: den Ort (von Hedra, von Thalmir oder aus dem Kornbuch) und ein Boot (von Hedra oder von Tobbe).
 
 ## Hintergrund: Das Geschenk aus Umbar {#hintergrund .nonotes}
 
@@ -81,8 +80,7 @@ Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den
 
 | Tag | Datum | Wo | Was geschieht |
 |---|---|---|---|
-| 1 | 22. Wedmath | Minas Tirith | Kunde aus dem Süden, Audienz beim Truchsess. |
-| 2–9 | 23.–30. Wedmath | Lossarnach, Pelargir, Linhir | Die Reise nach Süden. |
+| 1–9 | 22.–30. Wedmath | Minas Tirith bis Linhir | Aufbruch und Reise nach Süden. |
 | 10 | 1. Halimath | Brandhafen | Ankunft an der Furt, Treffen mit Mardion, Aldis' Spital. Nachts: die Räumung. |
 | 11 | 2. Halimath | Rand der Marschen | Die Schilfbrüder, zwei Aufträge. |
 | 12 | 3. Halimath | Furtlager oder Weidenhof | Beweise. Danach nimmt Rhaskar die Verfolgung auf. |
@@ -92,27 +90,13 @@ Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den
 
 Der Kalender ist ein Vorschlag. Solange Aldis keine Fieberrinde hat, stirbt jeden Tag einer ihrer Kranken.
 
-## Teil 1: Minas Tirith {#teil1}
+## Teil 1: Nach Süden {#teil1}
 
-Im Spätsommer TA 2979 reden sie in den Schänken des ersten Rings von einer Seuche an der Küste von Belfalas. Die einen erzählen von grauen Toten, die anderen vom Haus Saerlond, das dort Korn und Heiler hinschickt und dafür am Hof gelobt wird. Am Ende von Teil 1 haben die Helden einen Auftrag des Truchsess und wissen, wen sie suchen sollen.
-
-### Kunde aus dem Süden
-
-Die Helden sind Fremde in Minas Tirith, aus welchem Grund auch immer. Ein Bote der Zitadelle findet sie in ihrer Herberge: Der Truchsess wünscht sie zu sprechen, heute noch und ohne Aufsehen. Gerüchte, die sie vorher hören können:
-
-1. „Im Süden sterben die Bauern, und die Leute aus Pelargir füttern sie durch. Gute Leute, die Saerlonds.“ (Wahr und falsch: Sie füttern, und sie vergiften.)
-2. „Das Fieber kommt aus den Marschen, das war schon immer so.“ (Falsch.)
-3. „Der Truchsess hört lieber auf Fremde als auf seinen eigenen Sohn.“ (Halb wahr: Ecthelion nimmt Fremde in Dienst, und Denethor sieht das nicht gern.)
-
-### Audienz beim Truchsess
-
-Ecthelion II. empfängt die Helden in einer kleinen Stube neben dem Turmsaal, nicht vor dem Hof. Er ist über neunzig, hager, und seine Augen sind wacher als die der meisten Jüngeren. Er legt ihnen Mardions Bericht vor (Handout) und sagt, was er will:
+Das Abenteuer beginnt auf der Straße. Die Helden haben ihren Auftrag schon: Ecthelion II., der Truchsess von Gondor, hat sie in Minas Tirith empfangen, ohne Aufsehen, in einer kleinen Stube neben dem Turmsaal. Fasse das Gespräch für die Spieler in wenigen Sätzen zusammen und gib ihnen Mardions Bericht (Handout):
 
 - **Der Auftrag:** nach Brandhafen reisen, Mardion finden, herausfinden, woher das Fieber kommt, und Beweise bringen, die im Rat bestehen.
 - **Warum Fremde:** „Das Haus Saerlond hat Freunde in diesem Turm. Jeden Hauptmann, den ich schicke, kennen sie, ehe er Pelargir erreicht. Euch kennt niemand.“
-- **Der Lohn:** Pferde, Silber für die Reise und ein Lohn nach der Rückkehr (*Treasure* nach deinem Ermessen). Einen Geleitbrief gibt er ihnen nicht mit: „Ein Siegel des Truchsess ist in Brandhafen ein Todesurteil.“
-
-Mit einem *Insight*-Wurf merken die Helden, dass Ecthelion mehr fürchtet als ein Fieber: Er spricht zweimal von Umbar, ohne dass jemand danach gefragt hat.
+- **Der Lohn:** Pferde, Silber für die Reise und ein Lohn nach der Rückkehr (*Treasure* nach deinem Ermessen). Einen Geleitbrief gibt es nicht: „Ein Siegel des Truchsess ist in Brandhafen ein Todesurteil.“
 
 ### Mardions Bericht (Handout)
 
@@ -121,19 +105,11 @@ Herr, in den Höfen um Brandhafen sterben die Leute an einem Fieber, das kein Kr
 [– M.]{.sig}
 :::
 
-### Ein Freund des Hauses (optional)
-
-Auf dem Weg aus der Zitadelle spricht sie Herr Galdrion an, ein Ratsherr mit sanfter Stimme und guten Verbindungen nach Pelargir. Er fragt freundlich, wohin die Reise geht. Ein *Insight*-Wurf zeigt, dass er die Antwort sehr genau hören will.
-
-Verraten die Helden ihr Ziel oder ihren Auftrag, kennt man sie in Brandhafen: Am Schlagbaum (Teil 3) sind ihre *Courtesy*-Würfe *ill-favoured*, und Rhaskar lässt sie vom ersten Tag an beobachten. Überspringbar
-
-## Teil 2: Die Reise nach Süden {#teil2}
+### Die Reise
 
 **Route:** Von Minas Tirith durch Lossarnach und über die Furten des Erui nach Pelargir, von dort westwärts nach Linhir am Gilrain und auf der Küstenstraße nach Brandhafen. Das sind rund 260 Meilen, zu Pferd etwa neun Tage. Die Lehen von Gondor zählen als *Border Land*. Wer schneller sein will, nimmt ein Flussschiff bis Pelargir und spart zwei Tage.
 
-Je weiter die Helden nach Süden kommen, desto mehr hören sie vom Fieber und vom Haus Saerlond. Wähle zwei oder drei Ereignisse aus der Liste.
-
-### Ereignisse
+Je weiter die Helden nach Süden kommen, desto mehr hören sie vom Fieber und vom Haus Saerlond, das überall gelobt wird. Wähle zwei oder drei Ereignisse aus der Liste.
 
 - **Die Koggen von Pelargir** (*Chance-meeting*): Am Kai liegt ein Schiff des Hauses Saerlond. Hafenarbeiter laden Säcke mit weißem Siegelwachs, das ein Schiff unter einem Stern zeigt. Gelingt ein *Scan*- oder *Courtesy*-Wurf, erfahren die Helden, dass das Schiff nach Brandhafen geht und das Korn aus einem Speicher des Hauses kommt, nicht vom Markt.
 - **Flüchtlinge auf der Straße** (*Despair*): Hinter Linhir kommt den Helden eine Familie entgegen, die vor dem Fieber flieht. Das jüngste Kind ist grau im Gesicht und friert in der Hitze. Ein *Healing*-Wurf; misslingt er, erhält jeder in der Gruppe 1 *Shadow*-Punkt (*Dread*). Gelingt er, erzählt die Mutter, dass das Fieber drei Wochen nach dem Korn der Helfer kam.
@@ -142,9 +118,9 @@ Je weiter die Helden nach Süden kommen, desto mehr hören sie vom Fieber und vo
 
 **Hinweis für den Loremaster:** Die Reise zeigt, dass das Haus Saerlond überall gelobt wird, wo es hinkommt. Die Helden sollen in Brandhafen ankommen und schon ahnen, dass Dankbarkeit die Waffe des Gegners ist.
 
-## Teil 3: Brandhafen {#teil3}
+## Teil 2: Brandhafen {#teil2}
 
-Brandhafen ist ein Fischerdorf wie viele an dieser Küste: etwa dreihundert Menschen, eine Mole, ein Dutzend Boote, Netze zum Trocknen zwischen den Häusern, ein Zollhaus an der Furt und der Stumpf eines alten Hafenturms. Kiesbucht im Westen und Möwenhaken im Osten sind kaum größer, und landeinwärts liegen verstreut die Höfe. Das Dorf lebt vom Fisch und vom Verkehr auf der Küstenstraße. In diesem Sommer liegen zwei fremde Koggen an der Mole, und es riecht nach Rauch, Tang und Essig. Die Helden kommen am 1. Halimath, müde von der Straße. Am Ende von Teil 3 kennen sie Mardions Verdacht, Aldis' Not und die Macht der Helfer.
+Brandhafen ist ein Fischerdorf wie viele an dieser Küste: etwa dreihundert Menschen, eine Mole, ein Dutzend Boote, Netze zum Trocknen zwischen den Häusern, ein Zollhaus an der Furt und der Stumpf eines alten Hafenturms. Kiesbucht im Westen und Möwenhaken im Osten sind kaum größer, und landeinwärts liegen verstreut die Höfe. Das Dorf lebt vom Fisch und vom Verkehr auf der Küstenstraße. In diesem Sommer liegen zwei fremde Koggen an der Mole, und es riecht nach Rauch, Tang und Essig. Die Helden kommen am 1. Halimath, müde von der Straße. Am Ende von Teil 2 kennen sie Mardions Verdacht, Aldis' Not und die Macht der Helfer.
 
 ### An der Furt
 
@@ -193,7 +169,7 @@ Danach ist Aldis eine Geächtete, und die Helden sind verdächtig.
 5. „Der Weiße Trank heilt nicht, er macht nur ruhig.“ (Wahr.)
 6. „Am Weidenhof haben sie einen Späher aus Minas Tirith gehenkt.“ (Falsch: Thalmir lebt, im Keller des Weidenhofs.)
 
-## Teil 4: Die Schilfbrüder {#teil4}
+## Teil 3: Die Schilfbrüder {#teil3}
 
 Aldis braucht Fieberrinde, und die Helden brauchen jemanden, der die Grauen Marschen kennt. Beides haben nur die Schilfbrüder. Den Weg zu ihnen kennt Tobbe, der alte Fährmann, der seine weiße Binde nur trägt, um sein Boot zu behalten. Er bringt die Helden im Morgennebel zur Schwanenwehr, einem halb versunkenen Wehr am Rand der Lagune.
 
@@ -206,7 +182,7 @@ Hedra hat einen verstümmelten Daumen, ein gutes Gedächtnis und keine Geduld. S
 - Das Vertrauen beginnt bei 0. Jeder erfüllte Auftrag gibt +1. Eine Lüge, die Hedra durchschaut, oder ein Verrat an die Helfer gibt −1.
 - Bei 1 nennt Hedra die Reiherinsel: „Dorthin fahren die Boote ohne Licht.“
 - Bei 2 liefert sie Fieberrinde für Aldis, genug bis zum Ende des Abenteuers; von da an stirbt keiner ihrer Kranken mehr.
-- Bei 3 stellt sie ein Boot und einen Lotsen für die Marschen (Teil 6).
+- Bei 3 stellt sie ein Boot und einen Lotsen für die Marschen (Teil 5).
 
 Wer die Hausregel nicht möchte, lässt Hedra nach zwei erfolgreichen Aufträgen einfach alles herausgeben.
 
@@ -220,21 +196,21 @@ Hedra bietet drei Aufträge an. Für einen One-Shot reichen zwei.
 
 **Erinnerung für den Loremaster – Verkleidung:** Die weißen Binden der Helfer lassen sich stehlen oder von Tobbe borgen. Wer eine trägt, kommt mit einem *Courtesy*-Wurf an Posten vorbei, mit einer *Riddle*-Lüge auch durch Nachfragen. Zwerge, Elben und Hobbits fallen unter den Seeleuten auf: Ihre Würfe sind *ill-favoured*. Wird ein Verkleideter erkannt, schlägt der Posten Alarm.
 
-**Wenn sie trotzdem gehen:** Verweigern die Helden Hedra jeden Dienst, finden sie die Reiherinsel über das Kornbuch oder Thalmir (Teil 5) und fahren mit Tobbes Kahn, ohne Lotsen.
+**Wenn sie trotzdem gehen:** Verweigern die Helden Hedra jeden Dienst, finden sie die Reiherinsel über das Kornbuch oder Thalmir (Teil 4) und fahren mit Tobbes Kahn, ohne Lotsen.
 
 ### Die Insel der Reiher (optional)
 
 Ist das Vertrauen hoch, erzählt Hedra am Feuer von dem Turm, den ihre Großmutter mied. Dort sollen die Wächter der Könige an einer Seuche gestorben sein, als die Korsaren zum ersten Mal kamen. Seit zwei Jahren brennt nachts Licht darin, und kein Reiher nistet mehr dort. Überspringbar
 
-## Teil 5: Die Lager {#teil5}
+## Teil 4: Die Lager {#teil4}
 
-Mardion braucht einen Beweis, der Umbar nennt. Es gibt zwei Orte, an denen die Helden ihn finden können. Für einen One-Shot reicht einer; das Furtlager ist schneller, der Weidenhof ergiebiger. Sobald die Helden mit Beweisen entkommen, nimmt Rhaskar die Verfolgung auf (Teil 6).
+Mardion braucht einen Beweis, der Umbar nennt. Es gibt zwei Orte, an denen die Helden ihn finden können. Für einen One-Shot reicht einer; das Furtlager ist schneller, der Weidenhof ergiebiger. Sobald die Helden mit Beweisen entkommen, nimmt Rhaskar die Verfolgung auf (Teil 5).
 
 ### Das Furtlager
 
 Am Ostufer des Brandbachs stehen dreißig Zelte, ein Pferch für „Genesende“ und Rhaskars Zelt mit der Kasse. Tagsüber laufen hier Kranke, Helfer und Bittsteller durcheinander. Nachts ist es still und bewacht.
 
-- **Hineinkommen:** In Verkleidung mit einem *Courtesy*-Wurf (siehe Teil 4), als Kranke getarnt mit einem *Riddle*-Wurf, oder nachts mit *Stealth*.
+- **Hineinkommen:** In Verkleidung mit einem *Courtesy*-Wurf (siehe Teil 3), als Kranke getarnt mit einem *Riddle*-Wurf, oder nachts mit *Stealth*.
 - **Rhaskars Zelt:** Ein *Scan* findet das Kornbuch. Es listet siebzehn Höfe mit dem Tag der Korngabe, und in einer zweiten Spalte steht bei vierzehn von ihnen „befallen“. Das ist ein Beweis für Absicht, aber nicht für Umbar. Eine dritte Spalte führt die Lieferungen „vom Turm“. Tobbe oder Hedra wissen, welcher Turm gemeint ist: der alte Reiherturm in den Marschen.
 - **Aldis' Kranke:** Wurden bei der Räumung Kranke verschleppt, liegen sie hier im Pferch. Sie zu befreien kostet Zeit und löst fast sicher Alarm aus.
 
@@ -262,7 +238,7 @@ Der Kornweg wirkt, wie wir es vorhergesagt haben. Siebzehn Höfe, vierzehn befal
 
 **Hinweis für den Loremaster:** Der Bericht ist der Beweis, den Mardion sucht. Er ist allerdings nur ein Entwurf, ungesiegelt und nur mit einem Buchstaben gezeichnet. Mardion sagt: „Das reicht, damit ich es glaube. Saerlonds Freunde im Rat nennen es eine Fälschung. Ich brauche das Mittel selbst: einen Trank, der genau dieses Fieber heilt, unter Umbars Siegel.“ So bleibt die Truhe auf der Reiherinsel der Kern der Wahl.
 
-## Teil 6: Fahrt zur Reiherinsel {#teil6}
+## Teil 5: Fahrt zur Reiherinsel {#teil5}
 
 **Route:** Von Brandhafen mit dem Boot durch die Lagune der Grauen Marschen nach Osten, etwa 20 Meilen durch Schilf und Priele, ein Tag. Die Marschen zählen als *Wild Land*. Mit Hedras Lotsen (Vertrauen 3) wählst du zwei Ereignisse aus der Liste. Ohne Lotsen kommt „Verirrt im Schilf“ dazu.
 
@@ -375,13 +351,12 @@ Welches Ende es auch wird: Umbar verliert eine Küche, aber nicht sein Interesse
 
 | Name | Wer sie sind | Erstes Treffen | Was sie wollen | Wie man sie spielt |
 |---|---|---|---|---|
-| Ecthelion II. | Truchsess von Gondor, über neunzig | Zitadelle, Teil 1 | Umbar in die Schranken weisen, ohne den Rat zu spalten | Leise, scharfsinnig, ungeduldig mit Schmeichlern |
-| Herr Galdrion | Ratsherr, Freund des Hauses Saerlond | Zitadelle, Teil 1 (optional) | Wissen, wer nach Süden reist | Sanft, neugierig, immer gut unterrichtet |
-| Mardion | Hauptmann des Truchsess, Auge an den Küsten | Hafenturm, Teil 3 | Einen Beweis gegen Umbar, um jeden Preis | Leise, knapp, lächelt nie; füttert Möwen; rechnet in Leben |
-| Aldis | Kräuterfrau, führt das Spital im alten Zollhaus | Spital, Teil 3 | Ihre Kranken retten, alle | Müde, scharfzüngig, furchtlos; wischt sich ständig die Hände |
-| Hedra Schilfhand | Anführerin der Schilfbrüder | Schwanenwehr, Teil 4 | Den Hafen zurück und ihren Schnitt am Handel | Misstrauisch, direkt; spielt mit dem verstümmelten Daumen |
+| Ecthelion II. | Truchsess von Gondor, über neunzig | Vorgeschichte, Teil 1 | Umbar in die Schranken weisen, ohne den Rat zu spalten | Leise, scharfsinnig, ungeduldig mit Schmeichlern |
+| Mardion | Hauptmann des Truchsess, Auge an den Küsten | Hafenturm, Teil 2 | Einen Beweis gegen Umbar, um jeden Preis | Leise, knapp, lächelt nie; füttert Möwen; rechnet in Leben |
+| Aldis | Kräuterfrau, führt das Spital im alten Zollhaus | Spital, Teil 2 | Ihre Kranken retten, alle | Müde, scharfzüngig, furchtlos; wischt sich ständig die Hände |
+| Hedra Schilfhand | Anführerin der Schilfbrüder | Schwanenwehr, Teil 3 | Den Hafen zurück und ihren Schnitt am Handel | Misstrauisch, direkt; spielt mit dem verstümmelten Daumen |
 | Zâkarûn („Meister Saerlond“) | Schwarzer Númenórer aus Umbar, Kopf des Hauses Saerlond | Furt (von fern) oder Reiherinsel | Die Küste für Umbar öffnen | Warm, geduldig, saubere Hände; redet von Güte und altem Blut |
-| Kapitän Rhaskar | Korsar, führt die Bewaffneten der Helfer | Die Räumung, Teil 3 | Beute, Sold, Rache für jede Demütigung | Laut, dann plötzlich still; merkt sich Gesichter |
-| Tobbe | Alter Fährmann mit weißer Binde | Furt, Teil 3 | Sein Boot behalten und überleben | Redselig, ängstlich, ehrlich, wenn niemand zuhört |
-| Thalmir | Mardions Späher, Gefangener im Weidenhof | Keller, Teil 5 | Leben, und Mardion nicht enttäuschen | Fiebrig, stolz, dankbar; zweifelt leise an Mardion |
-| Merrick | Apotheker aus Pelargir, Zâkarûns Gehilfe | Weidenhof, Teil 5 | Seine Notizen retten | Nervös, pedantisch, feige |
+| Kapitän Rhaskar | Korsar, führt die Bewaffneten der Helfer | Die Räumung, Teil 2 | Beute, Sold, Rache für jede Demütigung | Laut, dann plötzlich still; merkt sich Gesichter |
+| Tobbe | Alter Fährmann mit weißer Binde | Furt, Teil 2 | Sein Boot behalten und überleben | Redselig, ängstlich, ehrlich, wenn niemand zuhört |
+| Thalmir | Mardions Späher, Gefangener im Weidenhof | Keller, Teil 4 | Leben, und Mardion nicht enttäuschen | Fiebrig, stolz, dankbar; zweifelt leise an Mardion |
+| Merrick | Apotheker aus Pelargir, Zâkarûns Gehilfe | Weidenhof, Teil 4 | Seine Notizen retten | Nervös, pedantisch, feige |
