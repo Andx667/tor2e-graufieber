@@ -269,26 +269,23 @@ Die Reiherinsel ist eine flache Erhebung im Schilf. Auf ihr steht der Stumpf ein
 ### Orte
 
 1. **Der Steg:** Zwei Wachen und eine Laterne. Mit der Parole („Korn für den Turm“) und Verkleidung genügt ein *Courtesy*-Wurf.
-2. **Das Wachfeuer:** Vier Helfer würfeln. Ein Horn hängt am Pfahl; wer es zuerst erreicht, entscheidet über den Alarm.
+2. **Das Wachfeuer:** Vier Helfer würfeln. Ein Horn hängt am Pfahl.
 3. **Der Schilfgürtel:** Ein verborgener Zugang an der Nordseite, den Hedras Lotse oder Thalmir kennt. *Stealth* bringt die Helden bis an die Turmmauer.
 4. **Der Turm:** Zâkarûns Stube mit Briefen, Seekarten und einem Korb voller weißer Siegel. Ein *Scan* findet Antworten aus Umbar, in einer Sprache, die in Gondor niemand mehr schreibt: Adûnaïsch, die alte Sprache Númenors. Ein *Lore*-Wurf erkennt sie, lesen kann sie hier niemand.
 5. **Die Fieberküche:** Kessel, Darren mit grauem Korn, Fässer mit Lampenöl. Wer hier ohne Schutz atmet, erhält 2 *Shadow*-Punkte (*Dread*), weil der Ort nach Pest und alter Kunst riecht. Mit dem Öl lässt sich alles in Brand setzen.
-6. **Die Kammer des Silbernen Tranks:** Eine eisenbeschlagene Truhe. Zâkarûn läuft als Erstes hierher, wenn Alarm gegeben wird.
+6. **Die Kammer des Silbernen Tranks:** Eine eisenbeschlagene Truhe.
 
-\newpage
+### Die Lage in dieser Nacht
 
-### Phasen
+Auf der Insel sind zehn Mann wach. Am Steg stehen zwei Wachen mit einer Laterne (*Footpads*). Am Wachfeuer würfeln vier Helfer (*Highway Robbers*); neben ihnen hängt das Horn. Im Turm schläft Zâkarûn, und in den Gewölben darunter halten vier Korsaren seiner Leibwache Wache (*Highway Robbers*). Ist Rhaskar nicht im Schilf besiegt worden, liegt sein Boot am Steg, und er sitzt mit seinen Männern am Feuer (Rhaskar: *Southerner Champion*). Alle Gegner sind *Evil Men* aus den *Core Rules*.
 
-| Welle | Zeit | Gegner | Was auf dem Spiel steht |
-|---|---|---|---|
-| 1 | Anlandung, Mitternacht | 2 Wachen am Steg (*Footpads*) | Ob Alarm gegeben wird |
-| 2 | Hof und Turm | 4 Helfer am Wachfeuer (*Highway Robbers*); Rhaskar und seine Männer, falls er nicht im Schilf besiegt wurde (Rhaskar: *Southerner Champion*) | Zâkarûns Briefe im Turm |
-| 3 | Gewölbe | Zâkarûn und seine Leibwache, 4 Korsaren (*Highway Robbers*) | Ob Zâkarûn die Truhe ins Feuer wirft |
-| 4 | Feuer | Die brennende Küche; ein *Athletics*-Wurf je Held, um ins Freie zu kommen | Raus vor dem Einsturz, mit der Truhe |
+Ob es ein leiser Abend wird, entscheidet das Horn. Wer über den Steg kommt, muss an den zwei Wachen vorbei; wer durch den Schilfgürtel kommt, steht unbemerkt an der Turmmauer. Solange niemand das Horn bläst, schlafen Turm und Gewölbe, und die Helden haben Zeit für Zâkarûns Stube und die Küche. Bläst es jemand, kommen die Männer vom Feuer zum Turm, und Zâkarûn läuft als Erstes in die Kammer mit der Truhe.
 
-Alle Gegner sind *Evil Men* aus den *Core Rules*. Zâkarûn kämpft nicht mit der Klinge. Er verhandelt, lügt und flieht, wenn er kann. In die Enge getrieben, spricht er ein Wort in alter Sprache, und das Licht der Laternen wird kalt: Jeder Held, der ihn hört, erhält 2 *Shadow*-Punkte (*Sorcery*). Danach ist er fort, durch das Schilf, wenn ihn niemand festhält. Wird er gefangen, sagt er nur: „Ihr werdet sehen, dass Ihr nur eine Wahl habt, und sie wird Euch nicht gefallen.“
+Zâkarûn kämpft nicht mit der Klinge. Er verhandelt, lügt und versucht, die Truhe ins Küchenfeuer zu werfen, ehe er flieht. In die Enge getrieben, spricht er ein Wort in alter Sprache, und das Licht der Laternen wird kalt: Jeder Held, der ihn hört, erhält 2 *Shadow*-Punkte (*Sorcery*). Danach ist er fort, durch das Schilf, wenn ihn niemand festhält. Wird er gefangen, sagt er nur: „Ihr werdet sehen, dass Ihr nur eine Wahl habt, und sie wird Euch nicht gefallen.“
 
-**Hinweis für den Loremaster:** Kein Alarm bis zur Welle 3 ist ein großer Erfolg. Dann erreicht Zâkarûn die Truhe nicht rechtzeitig, und Welle 2 entfällt ganz oder zum Teil.
+Wer die Küche anzündet, hat danach nur Augenblicke: Lampenöl und trockenes Korn brennen schnell, und das alte Gewölbe hält das Feuer nicht lange aus. Ein *Athletics*-Wurf je Held bringt ihn ins Freie, bevor die Decke einstürzt.
+
+**Hinweis für den Loremaster:** Kommen die Helden ohne Alarm bis in die Gewölbe, erreicht Zâkarûn die Truhe nicht rechtzeitig, und die Männer am Feuer bleiben, wo sie sind, bis der Rauch sie weckt.
 
 **Hinweis für den Loremaster:** Erreicht Zâkarûn die Truhe, wirft er sie ins Feuer, aber Eisen brennt langsam. Wer ihr nachspringt, holt sie mit einem *Athletics*-Wurf heraus, angesengt, die Phiolen heil, und erhält dafür *Fatigue* oder eine Brandwunde nach deinem Ermessen. Ohne Truhe gibt es keine Wahl, nur ein Ende wie „Status Quo“ ohne Beweis: Brandhafen leidet bis Yule, und das Haus bleibt geachtet.
 
