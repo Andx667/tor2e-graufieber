@@ -335,8 +335,15 @@ def brandhafen():
     for k, (x, y) in enumerate([(330, 392), (346, 404), (276, 400), (288, 386), (340, 376), (262, 418)]):
         s += house(x - 6, y - 5, 12, 10, 1131 + k, lw=1.2)
     s += f'<circle cx="374" cy="470" r="6" fill="#d9c69e" stroke="{INK}" stroke-width="1.6"/>'
-    s += label(180, 296, "Brandhafen", 26) + label(180, 314, "der verbrannte Hafen", 15, col=BROWN)
+    s += label(180, 296, "Brandhafen", 26) + label(180, 314, "ein Fischerdorf", 15, col=BROWN)
     s += path(rough([(200, 322), (250, 352), (270, 384)], jit=0.6, seed=1135), 0.8, dash="2 3")
+    # Nachbardörfer an der Küste
+    for k, (x, y) in enumerate([(104, 404), (116, 398), (126, 408)]):
+        s += house(x - 5, y - 4, 10, 8, 1170 + k, lw=1.1)
+    s += label(116, 440, "Kiesbucht", 17)
+    for k, (x, y) in enumerate([(700, 396), (712, 390), (722, 400)]):
+        s += house(x - 5, y - 4, 10, 8, 1175 + k, lw=1.1)
+    s += label(712, 440, "Möwenhaken", 17)
     # Küstenstraße von Dol Amroth nach Linhir, über die Furt
     road = [(0, 330), (120, 345), (220, 365), (306, 372), (400, 300), (520, 240), (660, 220), (800, 200)]
     s += path(rough(road, jit=1.2, seed=1140), 1.2) + path(rough([(x, y + 12) for x, y in road], jit=1.2, seed=1141), 1.2)

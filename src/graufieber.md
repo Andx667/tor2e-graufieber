@@ -1,6 +1,6 @@
 ## Überblick {#ueberblick .nonotes}
 
-Im Spätsommer TA 2979 geht in Brandhafen, einem halb verfallenen Hafenort an der Küste von Belfalas, ein Fieber um, gegen das kein Kraut hilft. Mit zwei Schiffen aus Pelargir kommen „Helfer“ des Handelshauses Saerlond. Sie bringen Korn als Gabe, einen beruhigenden Trank und bewaffnete Wachen, und bald gehören ihnen Hafen und Furt. In Minas Tirith hört man davon, und der Truchsess schickt Fremde, die niemand am Hof kennt: die Helden. Nach einer Reise nach Süden treffen sie in Brandhafen seinen Hauptmann Mardion. Sie finden heraus, dass hinter dem Haus ein Schwarzer Númenórer aus Umbar steht, der die Seuche selbst gesät hat, und zerstören seine Fieberküche auf der Reiherinsel. Am Ende halten sie das einzige Gegenmittel in der Hand, und drei Parteien wollen es.
+Im Spätsommer TA 2979 geht in Brandhafen, einem kleinen Fischerdorf an der Küste von Belfalas, und in den Dörfern und Höfen ringsum ein Fieber um, gegen das kein Kraut hilft. Mit zwei Schiffen aus Pelargir kommen „Helfer“ des Handelshauses Saerlond. Sie bringen Korn als Gabe, einen beruhigenden Trank und bewaffnete Wachen, und bald gehören ihnen Hafen und Furt. In Minas Tirith hört man davon, und der Truchsess schickt Fremde, die niemand am Hof kennt: die Helden. Nach einer Reise nach Süden treffen sie in Brandhafen seinen Hauptmann Mardion. Sie finden heraus, dass hinter dem Haus ein Schwarzer Númenórer aus Umbar steht, der die Seuche selbst gesät hat, und zerstören seine Fieberküche auf der Reiherinsel. Am Ende halten sie das einzige Gegenmittel in der Hand, und drei Parteien wollen es.
 
 **Schauplatz:** Minas Tirith, die Straße nach Süden und vor allem Brandhafen an der Küste von Belfalas zwischen Dol Amroth und Linhir, mit den Grauen Marschen östlich davon.
 
@@ -67,7 +67,7 @@ Hauptmann Mardion dient Ecthelion II., dem Truchsess von Gondor, als Auge an den
 |---|---|---|
 | TA 1448 | Die Söhne Castamirs fliehen nach Umbar; aus ihnen werden die Korsaren. | Kanon |
 | TA 2758 | Drei Flotten aus Umbar und Harad greifen die Küsten von Gondor an. | Kanon |
-| TA 2758 | Die Korsaren brennen den Hafen am Brandbach nieder; seither heißt er Brandhafen. | erfunden |
+| TA 2758 | Die Korsaren brennen das Dorf am Brandbach nieder; es wird wieder aufgebaut und heißt seither Brandhafen. | erfunden |
 | TA 2953 | Ecthelion II. wird Truchsess von Gondor. | Kanon |
 | TA 2957–2980 | Aragorn dient unerkannt als Thorongil erst Thengel von Rohan, dann dem Truchsess Ecthelion II. | Kanon |
 | TA 2977 | Zâkarûn richtet die Fieberküche im Reiherturm ein. | erfunden |
@@ -144,7 +144,7 @@ Je weiter die Helden nach Süden kommen, desto mehr hören sie vom Fieber und vo
 
 ## Teil 3: Brandhafen {#teil3}
 
-Brandhafen ist ein Ort aus geschwärzten Kaimauern, Lagerhäusern ohne Dächer und Fischerhütten, die sich in die Ruinen drücken. Etwa dreihundert Menschen leben noch hier. Seit die Korsaren den Hafen vor zweihundert Jahren niederbrannten, kommen kaum noch Schiffe; in diesem Sommer liegen dafür zwei fremde Koggen an der Mole. Die Stadt riecht nach Rauch, Tang und Essig. Die Helden kommen am 1. Halimath, müde von der Straße. Am Ende von Teil 3 kennen sie Mardions Verdacht, Aldis' Not und die Macht der Helfer.
+Brandhafen ist ein Fischerdorf wie viele an dieser Küste: etwa dreihundert Menschen, eine Mole, ein Dutzend Boote, Netze zum Trocknen zwischen den Häusern, ein Zollhaus an der Furt und der Stumpf eines alten Hafenturms. Kiesbucht im Westen und Möwenhaken im Osten sind kaum größer, und landeinwärts liegen verstreut die Höfe. Das Dorf lebt vom Fisch und vom Verkehr auf der Küstenstraße. In diesem Sommer liegen zwei fremde Koggen an der Mole, und es riecht nach Rauch, Tang und Essig. Die Helden kommen am 1. Halimath, müde von der Straße. Am Ende von Teil 3 kennen sie Mardions Verdacht, Aldis' Not und die Macht der Helfer.
 
 ### An der Furt
 
