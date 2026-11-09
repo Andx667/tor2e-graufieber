@@ -40,7 +40,7 @@ Teil 3 und 4 sind offen. Die Gruppe wählt Reihenfolge und Mittel. Zur Reiherins
 
 Das Graufieber ist Marschenfieber, das alte Kunst aus Umbar schlimmer gemacht hat. Gebraut wird es in den Gewölben des Reiherturms, einer Wachturmruine aus der Zeit der Könige auf einer Insel in den Grauen Marschen.
 
-Es verbreitet sich nicht über Mücken, sondern über Korn. Nach der Missernte im Herbst TA 2978 verkaufte das Haus Saerlond den Höfen um Brandhafen den Winter über billiges Saatkorn; darunter waren die ersten grauen Körner, in Zâkarûns Küche gedarrt. Drei Wochen nach dem ersten Brot kam das Fieber. Seit die Helfer da sind, verteilen sie mehr davon, nun als Gabe: „Weißkorn“ in versiegelten Säcken. Wo es hinkommt, folgt das Fieber.
+Es verbreitet sich nicht über Mücken, sondern über Korn. Nach der Missernte im Herbst TA 2978 verkaufte das Haus Saerlond den Höfen um Brandhafen den Winter über billiges Saatkorn; darunter waren die ersten grauen Körner, in Zâkarûns Küche gedarrt. Wenige Tage nach dem ersten Brot kam das Fieber. Seit die Helfer da sind, verteilen sie mehr davon, nun als Gabe: „Weißkorn“ in versiegelten Säcken. Wo es hinkommt, folgt das Fieber.
 
 Die Kranken werden grau, frieren in der Hitze und murmeln im Schlaf von schwarzen Segeln. Fieberrinde hält sie am Leben, solange sie jeden Tag neue bekommen, aber gesund macht sie niemanden. Der „Weiße Trank“ der Helfer heilt ebenfalls nicht, er dämpft nur die Anzeichen und macht abhängig von den nächsten Gaben. Das echte Gegenmittel ist der „Silberne Trank“. Zâkarûn hat ihn gebraut, damit sich seine eigenen Leute schützen können, und er lagert nur auf der Insel.
 
@@ -118,7 +118,7 @@ Herr, in den Höfen um Brandhafen sterben die Leute an einem Fieber, das kein Kr
 Je weiter die Helden nach Süden kommen, desto mehr hören sie vom Fieber und vom Haus Saerlond, das überall gelobt wird. Wähle zwei oder drei Ereignisse aus der Liste.
 
 - **Die Koggen von Pelargir** (*Chance-meeting*): Am Kai liegt ein Schiff des Hauses Saerlond. Hafenarbeiter laden Säcke mit weißem Siegelwachs, das ein Schiff unter einem Stern zeigt. Gelingt ein *Scan*- oder *Courtesy*-Wurf, erfahren die Helden, dass das Schiff nach Brandhafen geht und das Korn aus einem Speicher des Hauses kommt, nicht vom Markt.
-- **Flüchtlinge auf der Straße** (*Despair*): Hinter Linhir kommt den Helden eine Familie entgegen, die vor dem Fieber flieht. Das jüngste Kind ist grau im Gesicht und friert in der Hitze. Ein *Healing*-Wurf; misslingt er, erhält jeder in der Gruppe 1 *Shadow*-Punkt (*Dread*). Gelingt er, erzählt die Mutter, dass das Fieber drei Wochen nach dem Korn der Helfer kam.
+- **Flüchtlinge auf der Straße** (*Despair*): Hinter Linhir kommt den Helden eine Familie entgegen, die vor dem Fieber flieht. Das jüngste Kind ist grau im Gesicht und friert in der Hitze. Ein *Healing*-Wurf; misslingt er, erhält jeder in der Gruppe 1 *Shadow*-Punkt (*Dread*). Gelingt er, erzählt die Mutter, dass das Fieber wenige Tage nach dem Korn der Helfer kam.
 - **Die Furten des Gilrain** (*Mishap*): Nach einem Unwetter in den Bergen steht der Gilrain hoch. Ein *Athletics*-Wurf; bei einem Misserfolg dauert die Reise einen Tag länger, und der Held erhält zusätzliche *Fatigue*.
 - **Die Bucht von Belfalas** (*Joyful Sight*): Am letzten Abend sehen die Helden von den Hügeln westlich von Linhir das Meer, in dem die Sonne versinkt, und fern im Westen die Mauern von Dol Amroth. Gelingt der Wurf, gewinnt jeder in der Gruppe 1 *Hope* zurück.
 
@@ -142,7 +142,7 @@ Wo die Küstenstraße den Brandbach quert, sperrt ein Schlagbaum den Weg. Vier H
 
 Mardion sitzt im Fischermantel auf dem Stumpf des alten Hafenturms und füttert Möwen, wie es in seinem Bericht stand. Er spricht leise und knapp und lächelt nie.
 
-Er weiß Folgendes: Jeder Hof, der Weißkorn bekam, bekam drei Wochen später das Fieber. Die schwersten Fälle bringen die Helfer zum Weidenhof, einen halben Tag landeinwärts. Nachts fahren Boote ohne Licht in die Grauen Marschen. Sein Späher Thalmir wollte sich den Weidenhof ansehen und kam nicht zurück.
+Er weiß Folgendes: Jeder Hof, der Weißkorn bekam, hatte wenige Tage später das Fieber. Die schwersten Fälle bringen die Helfer zum Weidenhof, einen halben Tag landeinwärts. Nachts fahren Boote ohne Licht in die Grauen Marschen. Sein Späher Thalmir wollte sich den Weidenhof ansehen und kam nicht zurück.
 
 Er will zwei Dinge: den Ort, an dem das Fieber gemacht wird, und einen Beweis, den Saerlonds Freunde nicht wegreden können. „Briefe kann man fälschen, und sie werden jeden Brief eine Fälschung nennen. Wer ein Fieber macht, hat auch ein Mittel dagegen, sonst stürben seine eigenen Leute. Bringt mir das Mittel.“ Was der Truchsess versprochen hat, bestätigt er; nach Methoden fragt er nicht. Er selbst bleibt unsichtbar; seine drei Männer beobachten Straße und Hafen.
 
@@ -159,11 +159,11 @@ Ihre Fieberrinde reicht noch für heute. Mehr haben nur die Schilfbrüder.
 **Hausregel – Graufieber bei Helden:**
 
 - Anstecken kann sich, wer Brot aus Weißkorn isst oder in der Fieberküche ohne Tuch vor dem Mund atmet. Ein *Healing*- oder *Lore*-Wurf vor dem Essen erkennt die grauen Körner. Wer nur Fisch isst, ist sicher.
-- Vom Brot bricht das Fieber erst nach drei Wochen aus, also nach dem Abenteuer. Die Dämpfe der Küche wirken schneller: am nächsten Morgen.
+- Vom Brot bricht das Fieber nach drei Tagen aus. Wer am ersten Abend in Brandhafen Brot isst, ist also auf der Fahrt zur Reiherinsel krank. Die Dämpfe der Küche wirken schneller: am nächsten Morgen.
 - Ein kranker Held ist *Weary*, bis er geheilt ist. Bekommt er an einem Tag keine Fieberrinde, ist er an diesem Tag zusätzlich *Miserable*.
 - Heilen kann ihn nur eine Phiole Silberner Trank, und jede Phiole, die ein Held trinkt, fehlt Aldis' Ansatz oder Mardions Beweis.
 
-Die Hausregel nutzt die Zustände *Weary* und *Miserable* aus den *Core Rules*. Wer keine kranken Helden möchte, lässt die Regel weg: Mit drei Wochen Ausbruchszeit erkrankt ohnehin niemand vor dem Ende.
+Die Hausregel nutzt die Zustände *Weary* und *Miserable* aus den *Core Rules*. Wer keine kranken Helden möchte, lässt die Regel weg.
 
 ### Die Räumung
 
