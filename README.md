@@ -1,5 +1,7 @@
 # Graufieber
 
+![Titelbild: vier Gestalten in Kapuzen auf einem Bohlenweg durch die Marsch, in der Ferne Brandhafen](assets/cover-de.jpg)
+
 Ein Abenteuer für *The One Ring, 2nd Edition* · Küste von Belfalas, Spätsommer TA 2979.
 
 Ein One-Shot für 3–4 Spieler (5–6 Stunden) im Süden von Gondor: Der Truchsess schickt die Helden von Minas Tirith aus nach Süden. Die Handlung ist frei nach dem
@@ -18,6 +20,7 @@ Artefakte `Graufieber-TOR2e-DE-v….pdf` und `Graufieber-TOR2e-DE-Buch-v….pdf`
 | --- | --- |
 | `src/graufieber.md` | Der Abenteuertext (Pandoc-Markdown) – hier wird geschrieben |
 | `NOTICE.md` | Wem die Namen und Inhalte gehören und was die MIT-Lizenz abdeckt |
+| `assets/cover-de.jpg` | Titelbild der Buchfassung (gemalt von `tools/cover.py`) |
 | `assets/maps/` | Die gezeichneten Karten als JPG, Quellen als SVG in `svg/` |
 | `assets/route-de.*` | Das Routendiagramm im Überblick |
 | `latex/graufieber.sty` | Das Layout: Ränder, Notizspalte, Kästen, Tabellen, Karten, Handouts |
@@ -26,6 +29,7 @@ Artefakte `Graufieber-TOR2e-DE-v….pdf` und `Graufieber-TOR2e-DE-Buch-v….pdf`
 | `latex/inhalt.tex` | Inhalt beider Fassungen (Titel, Karten, Handouts) |
 | `filters/graufieber.lua` | Pandoc-Filter: Markdown-Elemente → Layout-Bausteine |
 | `tools/build.py` | Baut das PDF |
+| `tools/cover.py` | Malt das Titelbild neu (numpy, OpenCV) |
 | `tools/maps.py` | Zeichnet Karten und Routendiagramm neu (optional, braucht Playwright und Pillow) |
 | `.github/workflows/build.yml` | CI: baut das PDF bei jedem Commit |
 
@@ -76,6 +80,7 @@ Voraussetzungen: TeX Live mit LuaLaTeX und `latexmk`, `pandoc`, Python 3.
 make            # beide Fassungen; oder: python3 tools/build.py
 make buch       # nur eine Fassung (blatt | buch)
 make maps       # Karten neu zeichnen
+make cover      # Titelbild neu malen
 ```
 
 Fehlt LuaLaTeX (`luaotfload`), nimmt das Skript ersatzweise XeLaTeX; fehlen die deutschen

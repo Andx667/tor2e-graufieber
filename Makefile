@@ -2,13 +2,17 @@
 # make blatt  -> nur die Blattfassung (gelocht)
 # make buch   -> nur die Buchfassung (zum Binden)
 # make maps   -> Karten und Routendiagramm neu zeichnen (braucht Playwright, siehe tools/maps.py)
+# make cover  -> Titelbild neu malen (numpy, OpenCV)
 # make clean
-.PHONY: pdf blatt buch maps clean
+.PHONY: pdf blatt buch maps cover clean
 pdf:
 	python3 tools/build.py
 blatt buch:
 	python3 tools/build.py $@
 maps:
 	python3 tools/maps.py
+
+cover:
+	python3 tools/cover.py
 clean:
 	rm -rf build
