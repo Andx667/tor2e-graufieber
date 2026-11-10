@@ -291,13 +291,14 @@
     \fw@idx{Höhepunkt: Das Labor}{hoehepunkt}
     \fw@idx{Die Wahl}{wahl}
     \fw@idx{Nachspiel und lose Fäden}{nachspiel}
+    \fw@idx{Vorgefertigte Helden}{anhang-helden}
     \fw@idx{Wichtige NSCs}{anhang-nscs}
     \fw@idx{Loremaster-Karten}{lm-weidenhof}
     \fw@idx{Handouts}{h-mardion}
     {\leftskip=3mm\fontsize{8.8}{13}\selectfont\color{fwgrey}%
      \fw@idxsub{Mardions Bericht}{h-mardion} · \fw@idxsub{Brandhafen}{h-brandhafen} ·
      \fw@idxsub{Weidenhof}{h-weidenhof} · \fw@idxsub{Zâkarûns Bericht}{h-zakarun} ·
-     \fw@idxsub{Reiherinsel}{h-reiher}\par}
+     \fw@idxsub{Reiherinsel}{h-reiher} · \fw@idxsub{Heldenbögen}{held-taurgil}\par}
   \end{minipage}\par
   \end{minipage}\par
   \endgroup}
@@ -366,5 +367,8 @@
   \@tempcntb=\@tempcnta \divide\@tempcntb 4 \multiply\@tempcntb 4
   \ifnum\@tempcnta>\@tempcntb \null\clearpage\expandafter\fw@fill\fi}
 \newcommand\fwfillsheets{\clearpage\gdef\fwpagekind{fill}\fw@fill}
+
+% ---------------------------------------------------------------- Heldenbögen
+\input{fwhelden.tex}
 
 \endinput
