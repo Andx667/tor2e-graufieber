@@ -102,7 +102,7 @@ Das Abenteuer beginnt auf der Straße. Die Helden haben ihren Auftrag schon: Ect
 - **Warum Fremde:** „Das Haus Saerlond hat Freunde in diesem Turm. Jeden Hauptmann, den ich schicke, kennen sie, ehe er Pelargir erreicht. Euch kennt niemand.“
 - **Der Lohn:** Pferde, Silber für die Reise und ein Lohn nach der Rückkehr (*Treasure* nach deinem Ermessen). Einen Geleitbrief gibt es nicht: „Ein Siegel des Truchsesses ist in Brandhafen ein Todesurteil.“
 
-**Wer die Helden sind:** Ecthelion braucht Leute, die am Hof niemand kennt. Bree-Leute, Bardinger und Rohirrim sind ohnehin Fremde in Gondor; Gondorer passen, wenn sie aus einem fernen Lehen wie Anfalas oder Lamedon stammen und nie in der Zitadelle gedient haben. Ein Satz pro Held genügt, warum er gerade in Minas Tirith war.
+**Wer die Helden sind:** Ecthelion braucht Leute, die am Hof niemand kennt. Bree-Leute, Bardinger und Rohirrim sind ohnehin Fremde in Gondor; Gondorer passen, wenn sie aus einem fernen Lehen wie Anfalas oder Lamedon stammen und nie in der Zitadelle gedient haben. Ein Satz pro Held genügt, warum er gerade in Minas Tirith war. Vier vorgefertigte Helden und eine Hausregel für Helden aus Gondor stehen im [Anhang](#anhang-helden).
 
 ### Mardions Bericht (Handout)
 
@@ -415,6 +415,31 @@ Welches Ende es auch wird: Umbar verliert eine Küche, aber nicht sein Interesse
 - Endet das Abenteuer mit „Status Quo“, „Mann des Volkes“ oder dem verdienten Weg, darf jeder Held *Shadow*-Punkte nach deinem Ermessen ablegen, wie es die *Core Rules* für einen Erfolg gegen den Schatten vorsehen.
 - Wer *Shadow Scars* davongetragen hat, kann in der *Fellowship Phase* zur Yule-Zeit das *Undertaking* *Heal Scars* wählen.
 - Vergib *Adventure points* und *Skill points* wie gewohnt. Wer im Status-Quo-Ende Aldis' Kranke sterben sah, darf ein Merkmal „vom Fieber gezeichnet“ als *Distinctive Feature* nehmen, wenn der Spieler möchte (Hausregel).
+
+## Anhang: Vorgefertigte Helden {#anhang-helden .nonotes}
+
+Vier Helden, die der Truchsess nach Süden schickt: drei aus fernen Lehen von Gondor, die nie in der Zitadelle gedient haben, und ein Fremder aus dem Norden. Alle vier sind Menschen und fallen in Verkleidung unter den Seeleuten nicht auf. Sie sind nach den Erschaffungsregeln der *Core Rules* gebaut (Kultur, *Calling*, 10 Punkte *Previous Experience*, ein *Reward*, eine *Virtue*); für die drei Gondorer gilt die Hausregel unten. Ihre Bögen stehen bei den Handouts. Die TNs auf den Bögen sind 18 − Attribut statt 20 − Attribut, die Option der *Core Rules* für kurze Spiele; wer mit der Grundregel spielt, rechnet auf jedem Bogen 2 dazu.
+
+**Hausregel – Helden aus Gondor:**
+
+- **Dúnedain des Südens** (alte Häuser in Anfalas, Belfalas, Lebennin oder Ithilien): Werte der *Rangers of the North* aus den *Core Rules*, mit *Kings of Men* und *Allegiance of the Dúnedain*. *Hunting* und *Courtesy* tauschen ihre Kulturwerte, ebenso *Explore* und *Persuade*: Im Süden lernt man den Hof, nicht die Wildnis.
+- **Volk der Außenlehen** (Lamedon, Morthond, Lossarnach, Pinnath Gelin, das Tal des Ringló): Werte der *Bardings* mit *Stout-hearted*. Es sind die Nachfahren der Menschen, die schon vor Elendil in den Bergen und Tälern lebten, zäh und treu, mit wenig Geduld für die Zitadelle.
+- In beiden Fällen gelten *Distinctive Features* und *Combat Proficiencies* der übernommenen Kultur; Namen, Herkunft und Ausrüstung kommen aus Gondor.
+
+Die Hausregel ist bewusst klein und gilt nur, bis es offizielle Werte gibt: Free League hat mit *The White Tower and the Hall of Gold* einen Band über Gondor und Rohan mit neuen *Heroic Cultures* angekündigt (Crowdfunding ab September 2026, Erscheinen 2027). Wer schon jetzt eine ausgearbeitete Kultur will, findet in den *Circleofnoms TOR 2e Homebrew Cultures* die Kulturen der ersten Edition für die zweite umgesetzt; zu ihnen gehörten die *Men of Minas Tirith* aus dem *Adventurer's Companion*.
+
+| Held | Kultur und *Calling* | Stark in | Aufhänger und Prüfung |
+| --- | --- | --- | --- |
+| Taurgil | Dúnedain des Südens, *Captain* | *Persuade*, *Enhearten*, *Awe*; Schwert und Schild | Führt die Räte mit Hedra und Mardion. *Lure of Power* zieht ihn zu Mardions Rechnung |
+| Celeneth | Volk der Außenlehen, *Warden* | *Healing*, *Insight*; Bogen | Erkennt die grauen Körner und versteht Aldis. *Path of Despair* in der Scheune des Weidenhofs |
+| Hethlas | Volk der Außenlehen, *Treasure Hunter* | *Stealth*, *Scan*, *Riddle*; Bogen | Verkleidung, Lager, Kornbuch. *Dragon-sickness* hört auf Hedras Silber |
+| Maethor | *Rangers of the North*, *Champion* | *Athletics*, *Awe*; Langschwert | Steht vorn bei der Räumung und am Steg. *Curse of Vengeance* will Zâkarûn tot sehen |
+
+**Hinweis für den Loremaster:** Jeder *Shadow Path* zeigt auf eine Partei der Wahl: Taurgil auf Mardion, Celeneth auf Aldis, Hethlas auf Hedra, und Maethor auf Zâkarûn, den der verdiente Weg lebend braucht. So hat am Ende jeder Spieler einen eigenen Grund. Sprich es nicht aus, lass es wirken.
+
+**Hinweis für den Loremaster:** Maethors Stammesführer ist Aragorn, der in diesen Jahren als Thorongil dem Truchsess dient (Hintergrund, Mardion und der Truchsess). Dass Maethor ihn sucht, ist erfunden. Er findet ihn in diesem Abenteuer nicht; hört er den Namen Thorongil, darf er etwas ahnen, mehr nicht.
+
+**Mit drei Spielern:** Lass Maethor oder Hethlas weg. Ohne Maethor zieht sich Rhaskar bei der Räumung schon nach einer Runde zurück; ohne Hethlas übernimmt Celeneth das Schleichen, und die Verkleidung wird wichtiger.
 
 ## Anhang: Wichtige NSCs {#anhang-nscs .nonotes}
 

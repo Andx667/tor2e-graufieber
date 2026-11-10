@@ -1,0 +1,93 @@
+# Vorgefertigte Helden für „Graufieber“. tools/helden.py prüft die Werte gegen die
+# Erschaffungsregeln der Core Rules und setzt daraus die Heldenbögen (build/helden.tex).
+# Die Felder sind in tor2e-finsterwacht/src/helden.toml beschrieben.
+#
+# Drei der vier Helden stammen aus Gondor. Dafür gilt die Hausregel „Helden aus Gondor“ im
+# Abenteuertext (Anhang: Vorgefertigte Helden): `basis` nennt die Kultur der Core Rules, deren
+# Werte gelten, `tausch` die getauschten Skill-Werte.
+
+gruppe = "Vorgefertigte Helden"
+tn_basis = 18   # TN = 18 − Attribut (Option der Core Rules für kurze Spiele); 20 für die Grundregel
+patron = "Ecthelion II., Truchsess"   # Patron aller Helden (Feld auf dem Bogen)
+
+[[helden]]
+id = "taurgil"
+name = "Taurgil"
+zeile = "Dúnadan aus Gondor · aus einem kleinen Haus am Langstrand von Anfalas"
+alter = "31"
+kultur = "Dúnedain des Südens"
+basis = "Rangers of the North"
+tausch = [["Hunting", "Courtesy"], ["Explore", "Persuade"]]
+berufung = "Captain"
+attribute = { Strength = 5, Heart = 5, Wits = 4 }
+kings_of_men = "Heart"
+favoured_kultur = "Lore"
+favoured_berufung = ["Persuade", "Enhearten"]
+kampf = { Swords = 2, Spears = 1 }
+erfahrung = ["Enhearten", "Enhearten", "Persuade", "Insight", "Riddle", "Awe"]
+merkmale = ["Honourable", "Bold"]
+tugend = "Confidence"
+belohnung = { art = "Reinforced", gegenstand = "Shield" }
+ausruestung = ["Sword", "Shield", "Mail-shirt"]
+nuetzlich = [{ name = "Siegelring deines Hauses", skill = "Courtesy" }]
+kurz = """Dein Haus am Langstrand von Anfalas ist alt und arm; Korsaren haben die Boote deines Vaters verbrannt. Du kamst nach Minas Tirith, um Wachschiffe zu erbitten, und der Truchsess bot dir stattdessen diesen Auftrag an. In der Zitadelle hast du nie gedient."""
+
+[[helden]]
+id = "celeneth"
+name = "Celeneth"
+zeile = "Gondorerin aus Lamedon · Kräuterkundige aus Calembel am Ciril"
+alter = "26"
+kultur = "Volk der Außenlehen"
+basis = "Bardings"
+berufung = "Warden"
+attribute = { Strength = 4, Heart = 6, Wits = 4 }
+favoured_kultur = "Persuade"
+favoured_berufung = ["Healing", "Insight"]
+kampf = { Bows = 2, Swords = 1 }
+erfahrung = ["Healing", "Healing", "Healing", "Insight", "Stealth"]
+merkmale = ["Generous", "Wilful"]
+tugend = "Hardiness"
+belohnung = { art = "Keen", gegenstand = "Bow" }
+ausruestung = ["Bow", "Short sword", "Leather shirt"]
+nuetzlich = [{ name = "Kräutertasche deiner Mutter", skill = "Healing" }, { name = "Tücher und Essig", skill = "Healing" }]
+kurz = """Kräuterkundige aus Calembel; als Kind hast du ein Sumpffieber ein Drittel deines Dorfes nehmen sehen. Die Houses of Healing wiesen dich ab, doch ein alter Heiler gab deinen Namen an den Truchsess weiter, der jemanden sucht, der Fieber kennt."""
+
+[[helden]]
+id = "hethlas"
+name = "Hethlas"
+zeile = "Gondorer aus dem Morthond-Tal · Fallensteller aus dem Blackroot Vale"
+alter = "29"
+kultur = "Volk der Außenlehen"
+basis = "Bardings"
+berufung = "Treasure Hunter"
+attribute = { Strength = 5, Heart = 5, Wits = 4 }
+favoured_kultur = "Battle"
+favoured_berufung = ["Scan", "Stealth"]
+kampf = { Bows = 2, Axes = 1 }
+erfahrung = ["Stealth", "Stealth", "Scan", "Riddle", "Riddle", "Athletics"]
+merkmale = ["Bold", "Fierce"]
+tugend = "Nimbleness"
+belohnung = { art = "Fell", gegenstand = "Bow" }
+ausruestung = ["Bow", "Axe", "Leather shirt"]
+nuetzlich = [{ name = "Schlingen und Draht", skill = "Hunting" }, { name = "Würfel aus Knochen", skill = "Riddle" }]
+kurz = """Fallensteller aus dem Morthond-Tal, in Minas Tirith wegen Wilderei festgesetzt. Ein Mann des Truchsesses holte dich aus der Zelle: Die Strafe ist erlassen, wenn du nach Süden gehst und tust, was man dir sagt."""
+
+[[helden]]
+id = "maethor"
+name = "Maethor"
+zeile = "Dúnadan des Nordens · ein Fremder aus Eriador"
+alter = "44"
+kultur = "Rangers of the North"
+berufung = "Champion"
+attribute = { Strength = 7, Heart = 4, Wits = 3 }
+kings_of_men = "Wits"
+favoured_kultur = "Hunting"
+favoured_berufung = ["Athletics", "Awe"]
+kampf = { Swords = 2, Bows = 1 }
+erfahrung = ["Awe", "Athletics", "Courtesy", "Insight", "Riddle", "Scan"]
+merkmale = ["Secretive", "Wary"]
+tugend = "Hardiness"
+belohnung = { art = "Grievous", gegenstand = "Long sword" }
+ausruestung = ["Long sword", "Bow", "Leather corslet"]
+nuetzlich = [{ name = "Wetterfester Mantel aus dem Norden", skill = "Travel" }]
+kurz = """Ein Dúnadan aus dem Norden. Du bist eurem Stammesführer, der im Süden unter anderem Namen dient, bis nach Minas Tirith nachgereist und hast ihn nicht gefunden. Der Truchsess hat dich bemerkt und dir einen Dienst angeboten."""

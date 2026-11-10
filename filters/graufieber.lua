@@ -25,6 +25,7 @@ local TABLES = {
   ["Tag"]       = { widths = { 0.07, 0.19, 0.20, 0.54 }, size = "normal" },
   ["Welle"]     = { widths = { 0.09, 0.20, 0.42, 0.29 }, size = "small" },
   ["Name"]      = { widths = { 0.13, 0.17, 0.17, 0.24, 0.29 }, size = "small" },
+  ["Held"]      = { widths = { 0.13, 0.21, 0.27, 0.39 }, size = "small" },
 }
 
 local stringify = pandoc.utils.stringify

@@ -19,6 +19,9 @@ Artefakte `Graufieber-TOR2e-DE-v….pdf` und `Graufieber-TOR2e-DE-Buch-v….pdf`
 | Pfad | Inhalt |
 | --- | --- |
 | `src/graufieber.md` | Der Abenteuertext (Pandoc-Markdown) – hier wird geschrieben |
+| `src/helden.toml` | Die vorgefertigten Helden (Werte und Texte der Heldenbögen) |
+| `tools/helden.py` | Prüft die Helden gegen die Erschaffungsregeln und setzt die Heldenbögen |
+| `latex/fwhelden.tex` | Layout der Heldenbögen (quer, bei den Handouts) |
 | `NOTICE.md` | Wem die Namen und Inhalte gehören und was die MIT-Lizenz abdeckt |
 | `assets/cover-de.jpg` | Titelbild der Buchfassung (gemalt von `tools/cover.py`) |
 | `assets/maps/` | Die gezeichneten Karten als JPG, Quellen als SVG in `svg/` |

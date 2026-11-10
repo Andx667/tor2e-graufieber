@@ -7,7 +7,8 @@
 Schritte:
   1. Version und Stand aus git (letztes Tag v*, Commit-Datum) -> build/version.tex
   2. src/graufieber.md -> build/body.tex (pandoc + filters/graufieber.lua);
-     die Briefe gehen zusätzlich nach build/letters.tex (Handout-Seiten)
+     die Briefe gehen zusätzlich nach build/letters.tex (Handout-Seiten);
+     src/helden.toml (geprüft mit tools/helden.py) -> build/helden.tex (Heldenbögen)
   3. LuaLaTeX (latexmk) -> build/Graufieber-TOR2e-DE.pdf (Blattfassung, gelocht)
      und build/Graufieber-TOR2e-DE-Buch.pdf (Buchfassung zum Binden)
   4. Kopie mit Version im Namen -> build/Graufieber-TOR2e-DE-v1.0.pdf
@@ -88,6 +89,7 @@ def main():
     run(["pandoc", "src/graufieber.md", "-f", "markdown", "-t", "latex",
          "--lua-filter", "filters/graufieber.lua",
          "-o", os.path.join(BUILD, "body.tex")], env=env)
+    run([sys.executable, "tools/helden.py"], env=env)
 
     env["TEXINPUTS"] = os.path.join(ROOT, "latex") + "//" + os.pathsep + env.get("TEXINPUTS", "")
     tex = ["-interaction=nonstopmode", "-halt-on-error", "-file-line-error"]
