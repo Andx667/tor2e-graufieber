@@ -27,8 +27,8 @@ kampf = { Swords = 2, Spears = 1 }
 erfahrung = ["Enhearten", "Enhearten", "Persuade", "Insight", "Riddle", "Awe"]
 merkmale = ["Honourable", "Bold"]
 tugend = "Confidence"
-belohnung = { art = "Reinforced", gegenstand = "Shield" }
-ausruestung = ["Sword", "Shield", "Mail-shirt"]
+belohnung = { art = "Reinforced", gegenstand = "Buckler" }
+ausruestung = ["Sword", "Buckler", "Leather corslet"]
 nuetzlich = [{ name = "Siegelring deines Hauses", skill = "Courtesy" }]
 kurz = """Dein Haus am Langstrand von Anfalas ist alt und arm; Korsaren haben die Boote deines Vaters verbrannt. Du kamst nach Minas Tirith, um Wachschiffe zu erbitten, und der Truchsess bot dir stattdessen diesen Auftrag an. In der Zitadelle hast du nie gedient."""
 
@@ -41,7 +41,7 @@ kultur = "Volk der Außenlehen"
 basis = "Bardings"
 berufung = "Warden"
 attribute = { Strength = 4, Heart = 6, Wits = 4 }
-favoured_kultur = "Persuade"
+favoured_kultur = "Enhearten"
 favoured_berufung = ["Healing", "Insight"]
 kampf = { Bows = 2, Swords = 1 }
 erfahrung = ["Healing", "Healing", "Healing", "Insight", "Stealth"]
@@ -61,7 +61,7 @@ kultur = "Volk der Außenlehen"
 basis = "Bardings"
 berufung = "Treasure Hunter"
 attribute = { Strength = 5, Heart = 5, Wits = 4 }
-favoured_kultur = "Battle"
+favoured_kultur = "Athletics"
 favoured_berufung = ["Scan", "Stealth"]
 kampf = { Bows = 2, Axes = 1 }
 erfahrung = ["Stealth", "Stealth", "Scan", "Riddle", "Riddle", "Athletics"]
@@ -85,7 +85,7 @@ favoured_kultur = "Hunting"
 favoured_berufung = ["Athletics", "Awe"]
 kampf = { Swords = 2, Bows = 1 }
 erfahrung = ["Awe", "Athletics", "Courtesy", "Insight", "Riddle", "Scan"]
-merkmale = ["Secretive", "Wary"]
+merkmale = ["Secretive", "True-hearted"]
 tugend = "Hardiness"
 belohnung = { art = "Grievous", gegenstand = "Long sword" }
 ausruestung = ["Long sword", "Bow", "Leather corslet"]

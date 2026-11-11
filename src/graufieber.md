@@ -430,7 +430,7 @@ Die Hausregel ist bewusst klein und gilt nur, bis es offizielle Werte gibt: Free
 
 | Held | Kultur und *Calling* | Stark in | Aufhänger und Prüfung |
 | --- | --- | --- | --- |
-| Taurgil | Dúnedain des Südens, *Captain* | *Persuade*, *Enhearten*, *Awe*; Schwert und Schild | Führt die Räte mit Hedra und Mardion. *Lure of Power* zieht ihn zu Mardions Rechnung |
+| Taurgil | Dúnedain des Südens, *Captain* | *Persuade*, *Enhearten*, *Awe*; Schwert und Faustschild | Führt die Räte mit Hedra und Mardion. *Lure of Power* zieht ihn zu Mardions Rechnung |
 | Celeneth | Volk der Außenlehen, *Warden* | *Healing*, *Insight*; Bogen | Erkennt die grauen Körner und versteht Aldis. *Path of Despair* in der Scheune des Weidenhofs |
 | Hethlas | Volk der Außenlehen, *Treasure Hunter* | *Stealth*, *Scan*, *Riddle*; Bogen | Verkleidung, Lager, Kornbuch. *Dragon-sickness* hört auf Hedras Silber |
 | Maethor | *Rangers of the North*, *Champion* | *Athletics*, *Awe*; Langschwert | Steht vorn bei der Räumung und am Steg. *Curse of Vengeance* will Zâkarûn tot sehen |
